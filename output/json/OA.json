@@ -1,0 +1,1316 @@
+[
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 01",
+    "numero_oa":1,
+    "eje":"Números y operaciones",
+    "texto_original":"Contar números del 0 al 100 de 1 en 1, de 2 en 2, de 5 en 5 y de 10 en 10, hacia adelante y hacia atrás, empezando por cualquier número menor que 100.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 02",
+    "numero_oa":2,
+    "eje":"Números y operaciones",
+    "texto_original":"Identificar el orden de los elementos de una serie, utilizando números ordinales del primero (1º) al décimo (10º).",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 03",
+    "numero_oa":3,
+    "eje":"Números y operaciones",
+    "texto_original":"Leer números del 0 al 20 y representarlos en forma concreta, pictórica y simbólica.",
+    "usable":"no",
+    "razon":"no se puede evaluar una representación pictórica ni simbólica"
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 04",
+    "numero_oa":4,
+    "eje":"Números y operaciones",
+    "texto_original":"Comparar y ordenar números del 0 al 20 de menor a mayor y\/o viceversa, utilizando material concreto y\/o usando software educativo.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 05",
+    "numero_oa":5,
+    "eje":"Números y operaciones",
+    "texto_original":"Estimar cantidades hasta 20 en situaciones concretas, usando un referente.",
+    "usable":"no",
+    "razon":"se ocupan imágenes con figuras como referencia"
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 06",
+    "numero_oa":6,
+    "eje":"Números y operaciones",
+    "texto_original":"Componer y descomponer números del 0 a 20 de manera aditiva, en forma concreta, pictórica y simbólica.",
+    "usable":"no",
+    "razon":"se ocupan imágenes con figuras como referencia"
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 07",
+    "numero_oa":7,
+    "eje":"Números y operaciones",
+    "texto_original":"Describir y aplicar estrategias de cálculo mental para las adiciones y sustracciones hasta 20:\n• conteo hacia adelante y atrás\n• completar 10\n• dobles.",
+    "usable":"no",
+    "razon":"no corresponde con un MWP"
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 08",
+    "numero_oa":8,
+    "eje":"Números y operaciones",
+    "texto_original":"Determinar las unidades y decenas en números del 0 al 20, agrupando de a 10, de manera concreta, pictórica y simbólica.",
+    "usable":"no",
+    "razon":"no se puede evaluar una representación pictórica ni simbólica"
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 09",
+    "numero_oa":9,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden la adición y la sustracción de números del 0 al 20 progresivamente, de 0 a 5, de 6 a 10, de 11 a 20 con dos sumandos:\n• usando un lenguaje cotidiano para describir acciones desde su propia experiencia\n• representando adiciones y sustracciones con material concreto y pictórico, de manera manual y\/o usando software educativo\n• representando el proceso en forma simbólica\n• resolviendo problemas en contextos familiares\n• creando problemas matemáticos y resolviéndolos.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 10",
+    "numero_oa":10,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que la adición y la sustracción son operaciones inversas, de manera concreta, pictórica y simbólica.",
+    "usable":"no",
+    "razon":"no se puede evaluar una representación pictórica ni simbólica"
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 11",
+    "numero_oa":11,
+    "eje":"Patrones y álgebra",
+    "texto_original":"Reconocer, describir, crear y continuar patrones repetitivos (sonidos, figuras, ritmos...) y patrones numéricos hasta el 20, crecientes y decrecientes, usando material concreto, pictórico y simbólico, de manera manual y\/o por medio de software educativo.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 12",
+    "numero_oa":12,
+    "eje":"Patrones y álgebra",
+    "texto_original":"Describir y registrar la igualdad y la desigualdad como equilibrio y desequilibrio, usando una balanza en forma concreta, pictórica y simbólica del 0 al 20, usando el símbolo igual (=).",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 13",
+    "numero_oa":13,
+    "eje":"Geometría",
+    "texto_original":"Describir la posición de objetos y personas en relación a sí mismos y a otros objetos y personas, usando un lenguaje común (como derecha e izquierda).",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 14",
+    "numero_oa":14,
+    "eje":"Geometría",
+    "texto_original":"Identificar en el entorno figuras 3D y figuras 2D y relacionarlas, usando material concreto.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 15",
+    "numero_oa":15,
+    "eje":"Geometría",
+    "texto_original":"Identificar y dibujar líneas rectas y curvas.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 16",
+    "numero_oa":16,
+    "eje":"Medición",
+    "texto_original":"Usar unidades no estandarizadas de tiempo para comparar la duración de eventos cotidianos.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 17",
+    "numero_oa":17,
+    "eje":"Medición",
+    "texto_original":"Usar un lenguaje cotidiano para secuenciar eventos en el tiempo: días de la semana, meses del año y algunas fechas significativas.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 18",
+    "numero_oa":18,
+    "eje":"Medición",
+    "texto_original":"Identificar y comparar la longitud de objetos, usando palabras como largo y corto.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 19",
+    "numero_oa":19,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Recolectar y registrar datos para responder preguntas estadísticas sobre sí mismo y el entorno, usando bloques, tablas de conteo y pictogramas.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"1° básico",
+    "codigo_oa":"MA01 OA 20",
+    "numero_oa":20,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Construir, leer e interpretar pictogramas.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 01",
+    "numero_oa":1,
+    "eje":"Números y operaciones",
+    "texto_original":"Contar números del 0 al 1 000 de 2 en 2, de 5 en 5, de 10 en 10 y de 100 en 100, hacia adelante y hacia atrás, empezando por cualquier número menor que 1 000.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 02",
+    "numero_oa":2,
+    "eje":"Números y operaciones",
+    "texto_original":"Leer números del 0 al 100 y representarlos en forma concreta, pictórica y simbólica.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 03",
+    "numero_oa":3,
+    "eje":"Números y operaciones",
+    "texto_original":"Comparar y ordenar números del 0 al 100 de menor a mayor y viceversa, usando material concreto y monedas nacionales de manera manual y\/o por medio de software educativo.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 04",
+    "numero_oa":4,
+    "eje":"Números y operaciones",
+    "texto_original":"Estimar cantidades hasta 100 en situaciones concretas, usando un referente.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 05",
+    "numero_oa":5,
+    "eje":"Números y operaciones",
+    "texto_original":"Componer y descomponer números del 0 a 100 de manera aditiva, en forma concreta, pictórica y simbólica.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 06",
+    "numero_oa":6,
+    "eje":"Números y operaciones",
+    "texto_original":"Describir y aplicar estrategias de cálculo mental para adiciones y sustracciones hasta 20:\n• completar 10\n• usar dobles y mitades\n• \"uno más uno menos\"\n• \"dos más dos menos\"\n• usar la reversibilidad de las operaciones.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 07",
+    "numero_oa":7,
+    "eje":"Números y operaciones",
+    "texto_original":"Identificar las unidades y decenas en números del 0 al 100, representando las cantidades de acuerdo a su valor posicional, con material concreto, pictórico y simbólico.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 08",
+    "numero_oa":8,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar y explicar de manera concreta, pictórica y simbólica el efecto de sumar y restar 0 a un número.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 09",
+    "numero_oa":9,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprende la adición y la sustracción en el ámbito del 0 al 100:\n• usando un lenguaje cotidiano y matemático para describir acciones desde su propia experiencia\n• resolviendo problemas con una variedad de representaciones concretas y pictóricas, de manera manual y\/o usando software educativo\n• registrando el proceso en forma simbólica\n• aplicando los resultados de las adiciones y sustracciones de los números del 0 a 20 sin realizar cálculos\n• aplicando el algoritmo de la adición y sustracción sin considerar reserva\n• creando problemas matemáticos en contextos familiares y resolviéndolos.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 10",
+    "numero_oa":10,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprende la relación entre la adición y la sustracción al usar la \"familia de operaciones\" en cálculos aritméticos y la resolución de problemas.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 11",
+    "numero_oa":11,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprende la multiplicación:\n• usando representaciones concretas y pictóricas\n• expresando una multiplicación como una adición de sumandos iguales\n• usando la distributividad como estrategia para construir las tablas del 2, del 5 y del 10\n• resolviendo problemas que involucren las tablas del 2, del 5 y del 10.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 12",
+    "numero_oa":12,
+    "eje":"Patrones y álgebra",
+    "texto_original":"Crear, representar y continuar una variedad de patrones numéricos y completar los elementos faltantes, de manera manual y\/o usando software educativo.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 13",
+    "numero_oa":13,
+    "eje":"Patrones y álgebra",
+    "texto_original":"Demostrar, explicar y registrar la igualdad y la desigualdad en forma concreta y pictórica del 0 al 20, usando el símbolo igual (=) y los símbolos no igual (>, <).",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 14",
+    "numero_oa":14,
+    "eje":"Geometría",
+    "texto_original":"Representar y describir la posición de objetos y personas en relación a sí mismos y a otros objetos y personas, incluyendo derecha e izquierda y usando material concreto y dibujos.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 15",
+    "numero_oa":15,
+    "eje":"Geometría",
+    "texto_original":"Describir, comparar y construir figuras 2D (triángulos, cuadrados, rectángulos y círculos) con material concreto.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 16",
+    "numero_oa":16,
+    "eje":"Geometría",
+    "texto_original":"Describir, comparar y construir figuras 3D (cubos, paralelepípedos, esferas y conos) con diversos materiales.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 17",
+    "numero_oa":17,
+    "eje":"Medición",
+    "texto_original":"Identificar días, semanas, meses y fechas en el calendario.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 18",
+    "numero_oa":18,
+    "eje":"Medición",
+    "texto_original":"Leer horas y medias horas en relojes digitales, en el contexto de la resolución de problemas.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 19",
+    "numero_oa":19,
+    "eje":"Medición",
+    "texto_original":"Determinar la longitud de objetos, usando unidades de medidas no estandarizadas y unidades estandarizadas (cm y m), en el contexto de la resolución de problemas.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 20",
+    "numero_oa":20,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Recolectar y registrar datos para responder preguntas estadísticas sobre juegos con monedas y dados, usando bloques y tablas de conteo y pictogramas.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 21",
+    "numero_oa":21,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Registrar en tablas y gráficos de barra simple, resultados de juegos aleatorios con dados y monedas.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"2° básico",
+    "codigo_oa":"MA02 OA 22",
+    "numero_oa":22,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Construir, leer e interpretar pictogramas con escala y gráficos de barra simple.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 01",
+    "numero_oa":1,
+    "eje":"Números y operaciones",
+    "texto_original":"Contar números del 0 al 1 000 de 5 en 5, de 10 en 10, de 100 en 100:\n• empezando por cualquier número natural menor que 1 000\n• de 3 en 3, de 4 en 4..., empezando por cualquier múltiplo del número correspondiente.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 02",
+    "numero_oa":2,
+    "eje":"Números y operaciones",
+    "texto_original":"Leer números hasta 1 000 y representarlos en forma concreta, pictórica y simbólica.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 03",
+    "numero_oa":3,
+    "eje":"Números y operaciones",
+    "texto_original":"Comparar y ordenar números naturales hasta 1 000, utilizando la recta numérica o la tabla posicional de manera manual y\/o por medio de software educativo.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 04",
+    "numero_oa":4,
+    "eje":"Números y operaciones",
+    "texto_original":"Describir y aplicar estrategias de cálculo mental para las adiciones y sustracciones hasta 100:\n• por descomposición\n• completar hasta la decena más cercana\n• usar dobles\n• sumar en vez de restar\n• aplicar la asociatividad.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 05",
+    "numero_oa":5,
+    "eje":"Números y operaciones",
+    "texto_original":"Identificar y describir las unidades, decenas y centenas en números del 0 al 1 000, representando las cantidades de acuerdo a su valor posicional, con material concreto, pictórico y simbólico.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 06",
+    "numero_oa":6,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden la adición y la sustracción de números del 0 al 1 000:\n• usando estrategias personales con y sin material concreto;\n• creando y resolviendo problemas de adición y sustracción que involucren operaciones combinadas, en forma concreta, pictórica y simbólica, de manera manual y\/o por medio de software educativo;\n• aplicando los algoritmos con y sin reserva, progresivamente, en la adición de hasta cuatro sumandos y en la sustracción de hasta un sustraendo.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 07",
+    "numero_oa":7,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden la relación entre la adición y la sustracción, usando la \"familia de operaciones\" en cálculos aritméticos y en la resolución de problemas.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 08",
+    "numero_oa":8,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden las tablas de multiplicar hasta 10 de manera progresiva:\n• usando representaciones concretas y pictóricas\n• expresando una multiplicación como una adición de sumandos iguales\n• usando la distributividad como estrategia para construir las tablas hasta el 10\n• aplicando los resultados de las tablas de multiplicación hasta 10x10, sin realizar cálculos\n• resolviendo problemas que involucren las tablas aprendidas hasta el 10.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 09",
+    "numero_oa":9,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden la división en el contexto de las tablas de hasta 10x10:\n• representando y explicando la división como repartición y agrupación en partes iguales, con material concreto y pictórico\n• creando y resolviendo problemas en contextos que incluyan la repartición y la agrupación\n• expresando la división como una sustracción repetida\n• describiendo y aplicando la relación inversa entre la división y la multiplicación\n• aplicando los resultados de las tablas de multiplicación hasta 10x10, sin realizar cálculos.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 10",
+    "numero_oa":10,
+    "eje":"Números y operaciones",
+    "texto_original":"Resolver problemas rutinarios en contextos cotidianos, que incluyan dinero e involucren las cuatro operaciones (no combinadas).",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 11",
+    "numero_oa":11,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden las fracciones de uso común: 1\/4 , 1\/3 , 1\/2 , 2\/3 , 3\/4:\n• explicando que una fracción representa la parte de un todo , de manera concreta, pictórica, simbólica, de forma manual y\/o con software educativo\n• describiendo situaciones, en las cuales se puede usar fracciones\n• comparando fracciones de un mismo todo, de igual denominador.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 12",
+    "numero_oa":12,
+    "eje":"Patrones y álgebra",
+    "texto_original":"Generar, describir y registrar patrones numéricos, usando una variedad de estrategias en tablas del 100, de manera manual y\/o con software educativo.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 13",
+    "numero_oa":13,
+    "eje":"Patrones y álgebra",
+    "texto_original":"Resolver ecuaciones de un paso que involucren adiciones y sustracciones y un símbolo geométrico que represente un número desconocido, en forma pictórica y simbólica del 0 al 100.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 14",
+    "numero_oa":14,
+    "eje":"Geometría",
+    "texto_original":"Describir la localización de un objeto en un mapa simple o cuadrícula.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 15",
+    "numero_oa":15,
+    "eje":"Geometría",
+    "texto_original":"Demostrar que comprenden la relación que existe entre figuras 3D y figuras 2D:\n• construyendo una figura 3D a partir de una red (plantilla)\n• desplegando la figura 3D.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 16",
+    "numero_oa":16,
+    "eje":"Geometría",
+    "texto_original":"Describir cubos, paralelepípedos, esferas, conos, cilindros y pirámides de acuerdo a la forma de sus caras y el número de aristas y vértices.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 17",
+    "numero_oa":17,
+    "eje":"Geometría",
+    "texto_original":"Reconocer en el entorno figuras 2D que están trasladadas, reflejadas y rotadas.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 18",
+    "numero_oa":18,
+    "eje":"Geometría",
+    "texto_original":"Demostrar que comprenden el concepto de ángulo:\n• identificando ejemplos de ángulos en el entorno\n• estimando la medida de ángulos, usando como referente ángulos de 45º y de 90º.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 19",
+    "numero_oa":19,
+    "eje":"Medición",
+    "texto_original":"Leer e interpretar líneas de tiempo y calendarios.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 20",
+    "numero_oa":20,
+    "eje":"Medición",
+    "texto_original":"Leer y registrar el tiempo en horas, medias horas, cuartos de hora y minutos en relojes análogos y digitales.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 21",
+    "numero_oa":21,
+    "eje":"Medición",
+    "texto_original":"Demostrar que comprenden el perímetro de una figura regular e irregular:\n• midiendo y registrando el perímetro de figuras del entorno en el contexto de la resolución de problemas\n• determinando el perímetro de un cuadrado y de un rectángulo.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 22",
+    "numero_oa":22,
+    "eje":"Medición",
+    "texto_original":"Demostrar que comprende la medición del peso (g y kg):\n• comparando y ordenando dos o más objetos a partir de su peso de manera informal\n• usando modelos para explicar la relación que existe entre gramos y kilogramos\n• estimando el peso de objetos de uso cotidiano, usando referentes\n• midiendo y registrando el peso de objetos en números y en fracciones de uso común, en el contexto de la resolución de problemas.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 23",
+    "numero_oa":23,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Realizar encuestas y clasificar y organizar los datos obtenidos en tablas y visualizarlos en gráficos de barra.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 24",
+    "numero_oa":24,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Registrar y ordenar datos obtenidos de juegos aleatorios con dados y monedas, encontrando el menor, el mayor y estimando el punto medio entre ambos.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 25",
+    "numero_oa":25,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Construir, leer e interpretar pictogramas y gráficos de barra simple con escala, en base a información recolectada o dada.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"3° básico",
+    "codigo_oa":"MA03 OA 26",
+    "numero_oa":26,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Representar datos usando diagramas de puntos.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 01",
+    "numero_oa":1,
+    "eje":"Números y operaciones",
+    "texto_original":"Representar y describir números del 0 al 10 000:\n• contándolos de 10 en 10, de 100 en 100, de 1 000 en 1 000\n• leyéndolos y escribiéndolos\n• representándolos en forma concreta, pictórica y simbólica\n• comparándolos y ordenándolos en la recta numérica o la tabla posicional\n• identificando el valor posicional de los dígitos hasta la decena de mil\n• componiendo y descomponiendo números naturales hasta 10 000 en forma aditiva, de acuerdo a su valor posicional.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 02",
+    "numero_oa":2,
+    "eje":"Números y operaciones",
+    "texto_original":"Describir y aplicar estrategias de cálculo mental:\n• conteo hacia delante y atrás\n• doblar y dividir por 2\n• por descomposición\n• usar el doble del doble para determinar las multiplicaciones hasta 10x10 y sus divisiones correspondientes.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 03",
+    "numero_oa":3,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden la adición y la sustracción de números hasta 1 000:\n• usando estrategias personales para realizar estas operaciones\n• descomponiendo los números involucrados\n• estimando sumas y diferencias\n• resolviendo problemas rutinarios y no rutinarios que incluyan adiciones y sustracciones\n• aplicando los algoritmos en la adición de hasta cuatro sumandos y en la sustracción de hasta un sustraendo.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 04",
+    "numero_oa":4,
+    "eje":"Números y operaciones",
+    "texto_original":"Fundamentar y aplicar las propiedades del 0 y del 1 para la multiplicación y la propiedad del 1 para la división.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 05",
+    "numero_oa":5,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden la multiplicación de números de tres dígitos por números de un dígito:\n• usando estrategias con o sin material concreto\n• utilizando las tablas de multiplicación\n• estimando productos\n• usando la propiedad distributiva de la multiplicación respecto de la suma\n• aplicando el algoritmo de la multiplicación\n• resolviendo problemas rutinarios.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 06",
+    "numero_oa":6,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden la división con dividendos de dos dígitos y divisores de un dígito:\n• usando estrategias para dividir, con o sin material concreto\n• utilizando la relación que existe entre la división y la multiplicación\n• estimando el cociente\n• aplicando la estrategia por descomposición del dividendo\n• aplicando el algoritmo de la división.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 07",
+    "numero_oa":7,
+    "eje":"Números y operaciones",
+    "texto_original":"Resolver problemas rutinarios y no rutinarios en contextos cotidianos que incluyen dinero, seleccionando y utilizando la operación apropiada.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 08",
+    "numero_oa":8,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprende las fracciones con denominadores 100, 12, 10, 8, 6, 5, 4, 3, 2:\n• explicando que una fracción representa la parte de un todo o de un grupo de elementos y un lugar en la recta numérica\n• describiendo situaciones en las cuales se puede usar fracciones\n• mostrando que una fracción puede tener representaciones diferentes\n• comparando y ordenando fracciones (por ejemplo: 1\/100, 1\/8, 1\/5, 1\/4, 1\/2) con material concreto y pictórico.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 09",
+    "numero_oa":9,
+    "eje":"Números y operaciones",
+    "texto_original":"Resolver adiciones y sustracciones de fracciones con igual denominador (denominadores 100, 12, 10, 8, 6, 5, 4, 3, 2) de manera concreta y pictórica en el contexto de la resolución de problemas.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 10",
+    "numero_oa":10,
+    "eje":"Números y operaciones",
+    "texto_original":"Identificar, escribir y representar fracciones propias y los números mixtos hasta el 5 de manera concreta, pictórica y simbólica, en el contexto de la resolución de problemas.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 11",
+    "numero_oa":11,
+    "eje":"Números y operaciones",
+    "texto_original":"Describir y representar decimales (décimos y centésimos):\n• representándolos en forma concreta, pictórica y simbólica, de manera manual y\/o con software educativo\n• comparándolos y ordenándolos hasta la centésima.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 12",
+    "numero_oa":12,
+    "eje":"Números y operaciones",
+    "texto_original":"Resolver adiciones y sustracciones de decimales, empleando el valor posicional hasta la centésima en el contexto de la resolución de problemas.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 13",
+    "numero_oa":13,
+    "eje":"Patrones y álgebra",
+    "texto_original":"Identificar y describir patrones numéricos en tablas que involucren una operación, de manera manual y\/o usando software educativo.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 14",
+    "numero_oa":14,
+    "eje":"Patrones y álgebra",
+    "texto_original":"Resolver ecuaciones e inecuaciones de un paso que involucren adiciones y sustracciones, comprobando los resultados en forma pictórica y simbólica del 0 al 100 y aplicando las relaciones inversas entre la adición y la sustracción.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 15",
+    "numero_oa":15,
+    "eje":"Geometría",
+    "texto_original":"Describir la localización absoluta de un objeto en un mapa simple con coordenadas informales (por ejemplo con letras y números), y la localización relativa en relación a otros objetos.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 16",
+    "numero_oa":16,
+    "eje":"Geometría",
+    "texto_original":"Determinar las vistas de figuras 3D, desde el frente, desde el lado y desde arriba.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 17",
+    "numero_oa":17,
+    "eje":"Geometría",
+    "texto_original":"Demostrar que comprenden una línea de simetría:\n• identificando figuras simétricas 2D\n• creando figuras simétricas 2D\n• dibujando una o más líneas de simetría en figuras 2D\n• usando software geométrico.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 18",
+    "numero_oa":18,
+    "eje":"Geometría",
+    "texto_original":"Trasladar, rotar y reflejar figuras 2D.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 19",
+    "numero_oa":19,
+    "eje":"Geometría",
+    "texto_original":"Construir ángulos con el transportador y compararlos.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 20",
+    "numero_oa":20,
+    "eje":"Medición",
+    "texto_original":"Leer y registrar diversas mediciones del tiempo en relojes análogos y digitales, usando los conceptos A.M., P.M. y 24 horas.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 21",
+    "numero_oa":21,
+    "eje":"Medición",
+    "texto_original":"Realizar conversiones entre unidades de tiempo en el contexto de la resolución de problemas: el número de segundos en un minuto, el número de minutos en una hora, el número de días en un mes y el número de meses en un año.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 22",
+    "numero_oa":22,
+    "eje":"Medición",
+    "texto_original":"Medir longitudes con unidades estandarizadas (m, cm) y realizar transformaciones entre estas unidades (m a cm y viceversa) en el contexto de la resolución de problemas.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 23",
+    "numero_oa":23,
+    "eje":"Medición",
+    "texto_original":"Demostrar que comprenden el concepto de área de un rectángulo y de un cuadrado:\n• reconociendo que el área de una superficie se mide en unidades cuadradas\n• seleccionando y justificando la elección de la unidad estandarizada (cm² y m²)\n• determinando y registrando el área en cm² y m² en contextos cercanos\n• construyendo diferentes rectángulos para un área dada (cm² y m²) para mostrar que distintos rectángulos pueden tener la misma área\n• usando software geométrico.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 24",
+    "numero_oa":24,
+    "eje":"Medición",
+    "texto_original":"Demostrar que comprenden el concepto de volumen de un cuerpo:\n• seleccionando una unidad no estandarizada para medir el volumen de un cuerpo\n• reconociendo que el volumen se mide en unidades de cubo\n• midiendo y registrando el volumen en unidades de cubo\n• usando software geométrico.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 25",
+    "numero_oa":25,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Realizar encuestas, analizar los datos, comparar con los resultados de muestras aleatorias, usando tablas y gráficos.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 26",
+    "numero_oa":26,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Realizar experimentos aleatorios lúdicos y cotidianos, y tabular y representar mediante gráficos de manera manual y\/o con software educativo.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"4° básico",
+    "codigo_oa":"MA04 OA 27",
+    "numero_oa":27,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Leer e interpretar pictogramas y gráficos de barra simple con escala, y comunicar sus conclusiones.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 01",
+    "numero_oa":1,
+    "eje":"Números y operaciones",
+    "texto_original":"Representar y describir números naturales de hasta más de 6 dígitos y menores que 1 000 millones:\n• identificando el valor posicional de los dígitos\n• componiendo y descomponiendo números naturales en forma estándar y expandida aproximando cantidades\n• comparando y ordenando números naturales en este ámbito numérico\n• dando ejemplos de estos números naturales en contextos reales.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 02",
+    "numero_oa":2,
+    "eje":"Números y operaciones",
+    "texto_original":"Aplicar estrategias de cálculo mental para la multiplicación:\n• anexar ceros cuando se multiplica por un múltiplo de 10\n• doblar y dividir por 2 en forma repetida\n• usando las propiedades conmutativa, asociativa y distributiva.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 03",
+    "numero_oa":3,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden la multiplicación de números naturales de dos dígitos por números naturales de dos dígitos:\n• estimando productos\n• aplicando estrategias de cálculo mental\n• resolviendo problemas rutinarios y no rutinarios aplicando el algoritmo.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 04",
+    "numero_oa":4,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden la división con dividendos de tres dígitos y divisores de un dígito:\n• interpretando el resto\n• resolviendo problemas rutinarios y no rutinarios que impliquen divisiones.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 05",
+    "numero_oa":5,
+    "eje":"Números y operaciones",
+    "texto_original":"Realizar cálculos que involucren las cuatro operaciones, aplicando las reglas relativas a paréntesis y la prevalencia de la multiplicación y la división por sobre la adición y la sustracción cuando corresponda.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 06",
+    "numero_oa":6,
+    "eje":"Números y operaciones",
+    "texto_original":"Resolver problemas rutinarios y no rutinarios que involucren las cuatro operaciones y combinaciones de ellas:\n• que incluyan situaciones con dinero\n• usando la calculadora y el computador en ámbitos numéricos superiores al 10 000.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 07",
+    "numero_oa":7,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden las fracciones propias:\n• representándolas de manera concreta, pictórica y simbólica\n• creando grupos de fracciones equivalentes -simplificando y amplificando- de manera concreta, pictórica y simbólica, de forma manual y\/o con software educativo\n• comparando fracciones propias con igual y distinto denominador de manera concreta, pictórica y simbólica.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 08",
+    "numero_oa":8,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden las fracciones impropias de uso común de denominadores 2, 3, 4, 5, 6, 8, 10, 12 y los números mixtos asociados:\n• usando material concreto y pictórico para representarlas, de manera manual y\/o con software educativo\n• identificando y determinando equivalencias entre fracciones impropias y números mixtos\n• representando estas fracciones y estos números mixtos en la recta numérica.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 09",
+    "numero_oa":9,
+    "eje":"Números y operaciones",
+    "texto_original":"Resolver adiciones y sustracciones con fracciones propias con denominadores menores o iguales a 12:\n• de manera pictórica y simbólica\n• amplificando o simplificando.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 10",
+    "numero_oa":10,
+    "eje":"Números y operaciones",
+    "texto_original":"Determinar el decimal que corresponde a fracciones con denominador 2, 4, 5 y 10.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 11",
+    "numero_oa":11,
+    "eje":"Números y operaciones",
+    "texto_original":"Comparar y ordenar decimales hasta la milésima.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 12",
+    "numero_oa":12,
+    "eje":"Números y operaciones",
+    "texto_original":"Resolver adiciones y sustracciones de decimales, empleando el valor posicional hasta la milésima.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 13",
+    "numero_oa":13,
+    "eje":"Números y operaciones",
+    "texto_original":"Resolver problemas rutinarios y no rutinarios, aplicando adiciones y sustracciones de fracciones propias o decimales hasta la milésima.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 14",
+    "numero_oa":14,
+    "eje":"Patrones y álgebra",
+    "texto_original":"Descubrir alguna regla que explique una sucesión dada y que permita hacer predicciones.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 15",
+    "numero_oa":15,
+    "eje":"Patrones y álgebra",
+    "texto_original":"Resolver problemas, usando ecuaciones e inecuaciones de un paso, que involucren adiciones y sustracciones, en forma pictórica y simbólica.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 16",
+    "numero_oa":16,
+    "eje":"Geometría",
+    "texto_original":"Identificar y dibujar puntos en el primer cuadrante del plano cartesiano, dadas sus coordenadas en números naturales.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 17",
+    "numero_oa":17,
+    "eje":"Geometría",
+    "texto_original":"Describir y dar ejemplos de aristas y caras de figuras 3D y lados de figuras 2D:\n• que son paralelos\n• que se intersectan\n• que son perpendiculares.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 18",
+    "numero_oa":18,
+    "eje":"Geometría",
+    "texto_original":"Demostrar que comprenden el concepto de congruencia, usando la traslación, la reflexión y la rotación en cuadrículas y mediante software geométrico.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 19",
+    "numero_oa":19,
+    "eje":"Medición",
+    "texto_original":"Medir longitudes con unidades estandarizadas (m, cm, mm) en el contexto de la resolución de problemas.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 20",
+    "numero_oa":20,
+    "eje":"Medición",
+    "texto_original":"Realizar transformaciones entre unidades de medidas de longitud: km a m, m a cm, cm a mm y viceversa, de manera manual y\/o usando software educativo.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 21",
+    "numero_oa":21,
+    "eje":"Medición",
+    "texto_original":"Diseñar y construir diferentes rectángulos, dados el perímetro, el área o ambos, y sacar conclusiones.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 22",
+    "numero_oa":22,
+    "eje":"Medición",
+    "texto_original":"Calcular áreas de triángulos, de paralelogramos y de trapecios, y estimar áreas de figuras irregulares aplicando las siguientes estrategias:\n• conteo de cuadrículas\n• comparación con el área de un rectángulo\n• completar figuras por traslación.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 23",
+    "numero_oa":23,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Calcular el promedio de datos e interpretarlo en su contexto.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 24",
+    "numero_oa":24,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Describir la posibilidad de ocurrencia de un evento en base a un experimento aleatorio, empleando los términos seguro - posible - poco posible - imposible.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 25",
+    "numero_oa":25,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Comparar probabilidades de distintos eventos sin calcularlas.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 26",
+    "numero_oa":26,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Leer, interpretar y completar tablas, gráficos de barra simple y gráficos de línea y comunicar sus conclusiones.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"5° básico",
+    "codigo_oa":"MA05 OA 27",
+    "numero_oa":27,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Utilizar diagramas de tallo y hojas para representar datos provenientes de muestras aleatorias.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 01",
+    "numero_oa":1,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden los factores y múltiplos:\n• determinando los múltiplos y factores de números naturales menores de 100\n• identificando números primos y compuestos\n• resolviendo problemas que involucran múltiplos.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 02",
+    "numero_oa":2,
+    "eje":"Números y operaciones",
+    "texto_original":"Realizar cálculos que involucren las cuatro operaciones en el contexto de la resolución de problemas, utilizando la calculadora en ámbitos superiores a 10 000.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 03",
+    "numero_oa":3,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden el concepto de razón de manera concreta, pictórica y simbólica, en forma manual y\/o usando software educativo.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 04",
+    "numero_oa":4,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden el concepto de porcentaje de manera concreta, pictórica y simbólica, de forma manual y\/o usando software educativo.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 05",
+    "numero_oa":5,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden las fracciones y números mixtos:\n• identificando y determinando equivalencias entre fracciones impropias y números mixtos, usando material concreto y representaciones pictóricas de manera manual y\/o con software educativo\n• representando estos números en la recta numérica.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 06",
+    "numero_oa":6,
+    "eje":"Números y operaciones",
+    "texto_original":"Resolver adiciones y sustracciones de fracciones propias e impropias y números mixtos con numeradores y denominadores de hasta dos dígitos.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 07",
+    "numero_oa":7,
+    "eje":"Números y operaciones",
+    "texto_original":"Demostrar que comprenden la multiplicación y la división de decimales por números naturales de un dígito, múltiplos de 10 y decimales hasta la milésima de manera concreta, pictórica y simbólica.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 08",
+    "numero_oa":8,
+    "eje":"Números y operaciones",
+    "texto_original":"Resolver problemas rutinarios y no rutinarios que involucren adiciones y sustracciones de fracciones propias, impropias, números mixtos o decimales hasta la milésima.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 09",
+    "numero_oa":9,
+    "eje":"Patrones y álgebra",
+    "texto_original":"Demostrar que comprenden la relación entre los valores de una tabla y aplicarla en la resolución de problemas sencillos:\n• identificando patrones entre los valores de la tabla\n• formulando una regla con lenguaje matemático.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 10",
+    "numero_oa":10,
+    "eje":"Patrones y álgebra",
+    "texto_original":"Representar generalizaciones de relaciones entre números naturales, usando expresiones con letras y ecuaciones.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 11",
+    "numero_oa":11,
+    "eje":"Patrones y álgebra",
+    "texto_original":"Resolver ecuaciones de primer grado con una incógnita, utilizando estrategias como:\n• usando una balanza\n• usar la descomposición y la correspondencia 1 a 1 entre los términos en cada lado de la ecuación y aplicando procedimientos formales de resolución.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 12",
+    "numero_oa":12,
+    "eje":"Geometría",
+    "texto_original":"Construir y comparar triángulos de acuerdo a la medida de sus lados y \/o sus ángulos con instrumentos geométricos o software geométrico.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 13",
+    "numero_oa":13,
+    "eje":"Geometría",
+    "texto_original":"Demostrar que comprenden el concepto de área de una superficie en cubos y paralelepípedos, calculando el área de sus redes (plantillas) asociadas.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 14",
+    "numero_oa":14,
+    "eje":"Geometría",
+    "texto_original":"Realizar teselados de figuras 2D usando traslaciones, reflexiones y rotaciones.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 15",
+    "numero_oa":15,
+    "eje":"Geometría",
+    "texto_original":"Construir ángulos agudos, obtusos, rectos, extendidos y completos con instrumentos geométricos o software geométrico.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 16",
+    "numero_oa":16,
+    "eje":"Geometría",
+    "texto_original":"Identificar los ángulos que se forman entre dos rectas que se cortan (pares de ángulos opuestos por el vértice y pares de ángulos complementarios).",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 17",
+    "numero_oa":17,
+    "eje":"Geometría",
+    "texto_original":"Demostrar de manera concreta, pictórica y simbólica que la suma de los ángulos interiores de un triángulo es 180° y de un cuadrilátero es 360°.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 18",
+    "numero_oa":18,
+    "eje":"Medición",
+    "texto_original":"Calcular la superficie de cubos y paralelepípedos expresando el resultado en cm² y m².",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 19",
+    "numero_oa":19,
+    "eje":"Medición",
+    "texto_original":"Calcular el volumen de cubos y paralelepípedos, expresando el resultado en cm³, m³ y mm³.",
+    "usable":"si",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 20",
+    "numero_oa":20,
+    "eje":"Medición",
+    "texto_original":"Estimar y medir ángulos usando el transportador, expresando las mediciones en grados.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 21",
+    "numero_oa":21,
+    "eje":"Medición",
+    "texto_original":"Calcular ángulos en rectas paralelas cortadas por una transversal y en triángulos.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 22",
+    "numero_oa":22,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Comparar distribuciones de dos grupos, provenientes de muestras aleatorias, usando diagramas de puntos y de tallo y hojas.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 23",
+    "numero_oa":23,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Conjeturar acerca de la tendencia de resultados obtenidos en repeticiones de un mismo experimento con dados, monedas u otros, de manera manual y\/o usando software educativo.",
+    "usable":"no",
+    "razon":null
+  },
+  {
+    "curso":"6° básico",
+    "codigo_oa":"MA06 OA 24",
+    "numero_oa":24,
+    "eje":"Datos y probabilidades",
+    "texto_original":"Leer e interpretar gráficos de barra doble y circulares y comunicar sus conclusiones.",
+    "usable":"no",
+    "razon":null
+  }
+]

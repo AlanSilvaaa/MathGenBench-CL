@@ -1,0 +1,3153 @@
+[
+  {
+    "id": "MA01-OA-02-01",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 02",
+    "texto_oa": "Identificar el orden de los elementos de una serie, utilizando números ordinales del primero (1º) al décimo (10º).",
+    "habilidad_evaluada": "identificar una posición ordinal",
+    "condiciones_curriculares": "Usar números ordinales desde 1º hasta 10º.",
+    "contexto": "fila de estudiantes"
+  },
+  {
+    "id": "MA01-OA-02-02",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 02",
+    "texto_oa": "Identificar el orden de los elementos de una serie, utilizando números ordinales del primero (1º) al décimo (10º).",
+    "habilidad_evaluada": "determinar quién ocupa una posición ordinal",
+    "condiciones_curriculares": "Usar números ordinales desde 1º hasta 10º.",
+    "contexto": "carrera escolar"
+  },
+  {
+    "id": "MA01-OA-02-03",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 02",
+    "texto_oa": "Identificar el orden de los elementos de una serie, utilizando números ordinales del primero (1º) al décimo (10º).",
+    "habilidad_evaluada": "ordenar elementos usando ordinales",
+    "condiciones_curriculares": "Usar números ordinales desde 1º hasta 10º.",
+    "contexto": "estantes con objetos"
+  },
+  {
+    "id": "MA01-OA-02-04",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 02",
+    "texto_oa": "Identificar el orden de los elementos de una serie, utilizando números ordinales del primero (1º) al décimo (10º).",
+    "habilidad_evaluada": "relacionar posición y número ordinal",
+    "condiciones_curriculares": "Usar números ordinales desde 1º hasta 10º.",
+    "contexto": "turnos de juego"
+  },
+  {
+    "id": "MA01-OA-02-05",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 02",
+    "texto_oa": "Identificar el orden de los elementos de una serie, utilizando números ordinales del primero (1º) al décimo (10º).",
+    "habilidad_evaluada": "interpretar posiciones en una secuencia",
+    "condiciones_curriculares": "Usar números ordinales desde 1º hasta 10º.",
+    "contexto": "orden de llegada"
+  },
+  {
+    "id": "MA01-OA-04-01",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 04",
+    "texto_oa": "Comparar y ordenar números del 0 al 20 de menor a mayor y\/o viceversa, utilizando material concreto y\/o usando software educativo.",
+    "habilidad_evaluada": "comparar dos números",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 20.",
+    "contexto": "colección de juguetes"
+  },
+  {
+    "id": "MA01-OA-04-02",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 04",
+    "texto_oa": "Comparar y ordenar números del 0 al 20 de menor a mayor y\/o viceversa, utilizando material concreto y\/o usando software educativo.",
+    "habilidad_evaluada": "ordenar números de menor a mayor",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 20.",
+    "contexto": "puntajes de un juego"
+  },
+  {
+    "id": "MA01-OA-04-03",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 04",
+    "texto_oa": "Comparar y ordenar números del 0 al 20 de menor a mayor y\/o viceversa, utilizando material concreto y\/o usando software educativo.",
+    "habilidad_evaluada": "ordenar números de mayor a menor",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 20.",
+    "contexto": "cantidad de frutas"
+  },
+  {
+    "id": "MA01-OA-04-04",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 04",
+    "texto_oa": "Comparar y ordenar números del 0 al 20 de menor a mayor y\/o viceversa, utilizando material concreto y\/o usando software educativo.",
+    "habilidad_evaluada": "identificar el número mayor o menor",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 20.",
+    "contexto": "libros leídos"
+  },
+  {
+    "id": "MA01-OA-04-05",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 04",
+    "texto_oa": "Comparar y ordenar números del 0 al 20 de menor a mayor y\/o viceversa, utilizando material concreto y\/o usando software educativo.",
+    "habilidad_evaluada": "insertar un número en una secuencia ordenada",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 20.",
+    "contexto": "animales de juguete"
+  },
+  {
+    "id": "MA01-OA-09-01",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 09",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números del 0 al 20 progresivamente, de 0 a 5, de 6 a 10, de 11 a 20 con dos sumandos:\n• usando un lenguaje cotidiano para describir acciones desde su propia experiencia\n• representando adiciones y sustracciones con material concreto y pictórico, de manera manual y\/o usando software educativo\n• representando el proceso en forma simbólica\n• resolviendo problemas en contextos familiares\n• creando problemas matemáticos y resolviéndolos.",
+    "habilidad_evaluada": "resolver una adición",
+    "condiciones_curriculares": "Usar números entre 0 y 20, con dos sumandos cuando corresponda y contextos familiares para 1° básico.",
+    "contexto": "juguetes"
+  },
+  {
+    "id": "MA01-OA-09-02",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 09",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números del 0 al 20 progresivamente, de 0 a 5, de 6 a 10, de 11 a 20 con dos sumandos:\n• usando un lenguaje cotidiano para describir acciones desde su propia experiencia\n• representando adiciones y sustracciones con material concreto y pictórico, de manera manual y\/o usando software educativo\n• representando el proceso en forma simbólica\n• resolviendo problemas en contextos familiares\n• creando problemas matemáticos y resolviéndolos.",
+    "habilidad_evaluada": "resolver una sustracción",
+    "condiciones_curriculares": "Usar números entre 0 y 20, con dos sumandos cuando corresponda y contextos familiares para 1° básico.",
+    "contexto": "mascotas"
+  },
+  {
+    "id": "MA01-OA-09-03",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 09",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números del 0 al 20 progresivamente, de 0 a 5, de 6 a 10, de 11 a 20 con dos sumandos:\n• usando un lenguaje cotidiano para describir acciones desde su propia experiencia\n• representando adiciones y sustracciones con material concreto y pictórico, de manera manual y\/o usando software educativo\n• representando el proceso en forma simbólica\n• resolviendo problemas en contextos familiares\n• creando problemas matemáticos y resolviéndolos.",
+    "habilidad_evaluada": "identificar una situación de juntar",
+    "condiciones_curriculares": "Usar números entre 0 y 20, con dos sumandos cuando corresponda y contextos familiares para 1° básico.",
+    "contexto": "frutas"
+  },
+  {
+    "id": "MA01-OA-09-04",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 09",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números del 0 al 20 progresivamente, de 0 a 5, de 6 a 10, de 11 a 20 con dos sumandos:\n• usando un lenguaje cotidiano para describir acciones desde su propia experiencia\n• representando adiciones y sustracciones con material concreto y pictórico, de manera manual y\/o usando software educativo\n• representando el proceso en forma simbólica\n• resolviendo problemas en contextos familiares\n• creando problemas matemáticos y resolviéndolos.",
+    "habilidad_evaluada": "identificar una situación de quitar",
+    "condiciones_curriculares": "Usar números entre 0 y 20, con dos sumandos cuando corresponda y contextos familiares para 1° básico.",
+    "contexto": "útiles escolares"
+  },
+  {
+    "id": "MA01-OA-09-05",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 09",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números del 0 al 20 progresivamente, de 0 a 5, de 6 a 10, de 11 a 20 con dos sumandos:\n• usando un lenguaje cotidiano para describir acciones desde su propia experiencia\n• representando adiciones y sustracciones con material concreto y pictórico, de manera manual y\/o usando software educativo\n• representando el proceso en forma simbólica\n• resolviendo problemas en contextos familiares\n• creando problemas matemáticos y resolviéndolos.",
+    "habilidad_evaluada": "crear o completar una situación aditiva o sustractiva",
+    "condiciones_curriculares": "Usar números entre 0 y 20, con dos sumandos cuando corresponda y contextos familiares para 1° básico.",
+    "contexto": "autos de juguete"
+  },
+  {
+    "id": "MA01-OA-10-01",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 10",
+    "texto_oa": "Demostrar que la adición y la sustracción son operaciones inversas, de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "usar una resta para comprobar una suma",
+    "condiciones_curriculares": "Trabajar adición y sustracción como operaciones inversas con números adecuados para 1° básico.",
+    "contexto": "bloques"
+  },
+  {
+    "id": "MA01-OA-10-02",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 10",
+    "texto_oa": "Demostrar que la adición y la sustracción son operaciones inversas, de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "usar una suma para comprobar una resta",
+    "condiciones_curriculares": "Trabajar adición y sustracción como operaciones inversas con números adecuados para 1° básico.",
+    "contexto": "pegatinas"
+  },
+  {
+    "id": "MA01-OA-10-03",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 10",
+    "texto_oa": "Demostrar que la adición y la sustracción son operaciones inversas, de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "completar una familia de operaciones",
+    "condiciones_curriculares": "Trabajar adición y sustracción como operaciones inversas con números adecuados para 1° básico.",
+    "contexto": "lápices"
+  },
+  {
+    "id": "MA01-OA-10-04",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 10",
+    "texto_oa": "Demostrar que la adición y la sustracción son operaciones inversas, de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "hallar un término faltante usando la operación inversa",
+    "condiciones_curriculares": "Trabajar adición y sustracción como operaciones inversas con números adecuados para 1° básico.",
+    "contexto": "canicas"
+  },
+  {
+    "id": "MA01-OA-10-05",
+    "curso": "1° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA01 OA 10",
+    "texto_oa": "Demostrar que la adición y la sustracción son operaciones inversas, de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "relacionar adición y sustracción en un problema",
+    "condiciones_curriculares": "Trabajar adición y sustracción como operaciones inversas con números adecuados para 1° básico.",
+    "contexto": "galletas"
+  },
+  {
+    "id": "MA01-OA-17-01",
+    "curso": "1° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA01 OA 17",
+    "texto_oa": "Usar un lenguaje cotidiano para secuenciar eventos en el tiempo: días de la semana, meses del año y algunas fechas significativas.",
+    "habilidad_evaluada": "ordenar días de la semana",
+    "condiciones_curriculares": "Usar días de la semana, meses del año y\/o fechas significativas con lenguaje cotidiano.",
+    "contexto": "semana escolar"
+  },
+  {
+    "id": "MA01-OA-17-02",
+    "curso": "1° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA01 OA 17",
+    "texto_oa": "Usar un lenguaje cotidiano para secuenciar eventos en el tiempo: días de la semana, meses del año y algunas fechas significativas.",
+    "habilidad_evaluada": "identificar el día anterior o siguiente",
+    "condiciones_curriculares": "Usar días de la semana, meses del año y\/o fechas significativas con lenguaje cotidiano.",
+    "contexto": "cumpleaños"
+  },
+  {
+    "id": "MA01-OA-17-03",
+    "curso": "1° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA01 OA 17",
+    "texto_oa": "Usar un lenguaje cotidiano para secuenciar eventos en el tiempo: días de la semana, meses del año y algunas fechas significativas.",
+    "habilidad_evaluada": "ordenar meses del año",
+    "condiciones_curriculares": "Usar días de la semana, meses del año y\/o fechas significativas con lenguaje cotidiano.",
+    "contexto": "vacaciones"
+  },
+  {
+    "id": "MA01-OA-17-04",
+    "curso": "1° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA01 OA 17",
+    "texto_oa": "Usar un lenguaje cotidiano para secuenciar eventos en el tiempo: días de la semana, meses del año y algunas fechas significativas.",
+    "habilidad_evaluada": "ubicar una fecha significativa",
+    "condiciones_curriculares": "Usar días de la semana, meses del año y\/o fechas significativas con lenguaje cotidiano.",
+    "contexto": "actividades familiares"
+  },
+  {
+    "id": "MA01-OA-17-05",
+    "curso": "1° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA01 OA 17",
+    "texto_oa": "Usar un lenguaje cotidiano para secuenciar eventos en el tiempo: días de la semana, meses del año y algunas fechas significativas.",
+    "habilidad_evaluada": "secuenciar eventos en el tiempo",
+    "condiciones_curriculares": "Usar días de la semana, meses del año y\/o fechas significativas con lenguaje cotidiano.",
+    "contexto": "calendario del curso"
+  },
+  {
+    "id": "MA02-OA-03-01",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 03",
+    "texto_oa": "Comparar y ordenar números del 0 al 100 de menor a mayor y viceversa, usando material concreto y monedas nacionales de manera manual y\/o por medio de software educativo.",
+    "habilidad_evaluada": "comparar dos números",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 100; puede emplear monedas nacionales sin requerir imágenes.",
+    "contexto": "ahorros"
+  },
+  {
+    "id": "MA02-OA-03-02",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 03",
+    "texto_oa": "Comparar y ordenar números del 0 al 100 de menor a mayor y viceversa, usando material concreto y monedas nacionales de manera manual y\/o por medio de software educativo.",
+    "habilidad_evaluada": "ordenar números de menor a mayor",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 100; puede emplear monedas nacionales sin requerir imágenes.",
+    "contexto": "colecciones"
+  },
+  {
+    "id": "MA02-OA-03-03",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 03",
+    "texto_oa": "Comparar y ordenar números del 0 al 100 de menor a mayor y viceversa, usando material concreto y monedas nacionales de manera manual y\/o por medio de software educativo.",
+    "habilidad_evaluada": "ordenar números de mayor a menor",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 100; puede emplear monedas nacionales sin requerir imágenes.",
+    "contexto": "puntajes"
+  },
+  {
+    "id": "MA02-OA-03-04",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 03",
+    "texto_oa": "Comparar y ordenar números del 0 al 100 de menor a mayor y viceversa, usando material concreto y monedas nacionales de manera manual y\/o por medio de software educativo.",
+    "habilidad_evaluada": "identificar el mayor o menor",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 100; puede emplear monedas nacionales sin requerir imágenes.",
+    "contexto": "libros"
+  },
+  {
+    "id": "MA02-OA-03-05",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 03",
+    "texto_oa": "Comparar y ordenar números del 0 al 100 de menor a mayor y viceversa, usando material concreto y monedas nacionales de manera manual y\/o por medio de software educativo.",
+    "habilidad_evaluada": "comparar cantidades de dinero expresadas con números enteros",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 100; puede emplear monedas nacionales sin requerir imágenes.",
+    "contexto": "monedas chilenas"
+  },
+  {
+    "id": "MA02-OA-07-01",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 07",
+    "texto_oa": "Identificar las unidades y decenas en números del 0 al 100, representando las cantidades de acuerdo a su valor posicional, con material concreto, pictórico y simbólico.",
+    "habilidad_evaluada": "identificar unidades y decenas",
+    "condiciones_curriculares": "Usar números entre 0 y 100 y trabajar explícitamente decenas y unidades.",
+    "contexto": "paquetes de lápices"
+  },
+  {
+    "id": "MA02-OA-07-02",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 07",
+    "texto_oa": "Identificar las unidades y decenas en números del 0 al 100, representando las cantidades de acuerdo a su valor posicional, con material concreto, pictórico y simbólico.",
+    "habilidad_evaluada": "determinar el valor posicional de una cifra",
+    "condiciones_curriculares": "Usar números entre 0 y 100 y trabajar explícitamente decenas y unidades.",
+    "contexto": "cajas de fichas"
+  },
+  {
+    "id": "MA02-OA-07-03",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 07",
+    "texto_oa": "Identificar las unidades y decenas en números del 0 al 100, representando las cantidades de acuerdo a su valor posicional, con material concreto, pictórico y simbólico.",
+    "habilidad_evaluada": "descomponer un número en decenas y unidades",
+    "condiciones_curriculares": "Usar números entre 0 y 100 y trabajar explícitamente decenas y unidades.",
+    "contexto": "colecciones de cartas"
+  },
+  {
+    "id": "MA02-OA-07-04",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 07",
+    "texto_oa": "Identificar las unidades y decenas en números del 0 al 100, representando las cantidades de acuerdo a su valor posicional, con material concreto, pictórico y simbólico.",
+    "habilidad_evaluada": "componer un número desde decenas y unidades",
+    "condiciones_curriculares": "Usar números entre 0 y 100 y trabajar explícitamente decenas y unidades.",
+    "contexto": "libros en grupos de diez"
+  },
+  {
+    "id": "MA02-OA-07-05",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 07",
+    "texto_oa": "Identificar las unidades y decenas en números del 0 al 100, representando las cantidades de acuerdo a su valor posicional, con material concreto, pictórico y simbólico.",
+    "habilidad_evaluada": "comparar representaciones según valor posicional",
+    "condiciones_curriculares": "Usar números entre 0 y 100 y trabajar explícitamente decenas y unidades.",
+    "contexto": "bolsas con objetos"
+  },
+  {
+    "id": "MA02-OA-09-01",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 09",
+    "texto_oa": "Demostrar que comprende la adición y la sustracción en el ámbito del 0 al 100:\n• usando un lenguaje cotidiano y matemático para describir acciones desde su propia experiencia\n• resolviendo problemas con una variedad de representaciones concretas y pictóricas, de manera manual y\/o usando software educativo\n• registrando el proceso en forma simbólica\n• aplicando los resultados de las adiciones y sustracciones de los números del 0 a 20 sin realizar cálculos\n• aplicando el algoritmo de la adición y sustracción sin considerar reserva\n• creando problemas matemáticos en contextos familiares y resolviéndolos.",
+    "habilidad_evaluada": "resolver una adición",
+    "condiciones_curriculares": "Usar números entre 0 y 100; mantener una complejidad apropiada para 2° básico.",
+    "contexto": "autos de juguete"
+  },
+  {
+    "id": "MA02-OA-09-02",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 09",
+    "texto_oa": "Demostrar que comprende la adición y la sustracción en el ámbito del 0 al 100:\n• usando un lenguaje cotidiano y matemático para describir acciones desde su propia experiencia\n• resolviendo problemas con una variedad de representaciones concretas y pictóricas, de manera manual y\/o usando software educativo\n• registrando el proceso en forma simbólica\n• aplicando los resultados de las adiciones y sustracciones de los números del 0 a 20 sin realizar cálculos\n• aplicando el algoritmo de la adición y sustracción sin considerar reserva\n• creando problemas matemáticos en contextos familiares y resolviéndolos.",
+    "habilidad_evaluada": "resolver una sustracción",
+    "condiciones_curriculares": "Usar números entre 0 y 100; mantener una complejidad apropiada para 2° básico.",
+    "contexto": "animales"
+  },
+  {
+    "id": "MA02-OA-09-03",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 09",
+    "texto_oa": "Demostrar que comprende la adición y la sustracción en el ámbito del 0 al 100:\n• usando un lenguaje cotidiano y matemático para describir acciones desde su propia experiencia\n• resolviendo problemas con una variedad de representaciones concretas y pictóricas, de manera manual y\/o usando software educativo\n• registrando el proceso en forma simbólica\n• aplicando los resultados de las adiciones y sustracciones de los números del 0 a 20 sin realizar cálculos\n• aplicando el algoritmo de la adición y sustracción sin considerar reserva\n• creando problemas matemáticos en contextos familiares y resolviéndolos.",
+    "habilidad_evaluada": "seleccionar entre adición y sustracción",
+    "condiciones_curriculares": "Usar números entre 0 y 100; mantener una complejidad apropiada para 2° básico.",
+    "contexto": "escuela"
+  },
+  {
+    "id": "MA02-OA-09-04",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 09",
+    "texto_oa": "Demostrar que comprende la adición y la sustracción en el ámbito del 0 al 100:\n• usando un lenguaje cotidiano y matemático para describir acciones desde su propia experiencia\n• resolviendo problemas con una variedad de representaciones concretas y pictóricas, de manera manual y\/o usando software educativo\n• registrando el proceso en forma simbólica\n• aplicando los resultados de las adiciones y sustracciones de los números del 0 a 20 sin realizar cálculos\n• aplicando el algoritmo de la adición y sustracción sin considerar reserva\n• creando problemas matemáticos en contextos familiares y resolviéndolos.",
+    "habilidad_evaluada": "resolver un problema aditivo en contexto familiar",
+    "condiciones_curriculares": "Usar números entre 0 y 100; mantener una complejidad apropiada para 2° básico.",
+    "contexto": "frutas"
+  },
+  {
+    "id": "MA02-OA-09-05",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 09",
+    "texto_oa": "Demostrar que comprende la adición y la sustracción en el ámbito del 0 al 100:\n• usando un lenguaje cotidiano y matemático para describir acciones desde su propia experiencia\n• resolviendo problemas con una variedad de representaciones concretas y pictóricas, de manera manual y\/o usando software educativo\n• registrando el proceso en forma simbólica\n• aplicando los resultados de las adiciones y sustracciones de los números del 0 a 20 sin realizar cálculos\n• aplicando el algoritmo de la adición y sustracción sin considerar reserva\n• creando problemas matemáticos en contextos familiares y resolviéndolos.",
+    "habilidad_evaluada": "resolver un problema sustractivo en contexto familiar",
+    "condiciones_curriculares": "Usar números entre 0 y 100; mantener una complejidad apropiada para 2° básico.",
+    "contexto": "cromos"
+  },
+  {
+    "id": "MA02-OA-10-01",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 10",
+    "texto_oa": "Demostrar que comprende la relación entre la adición y la sustracción al usar la \"familia de operaciones\" en cálculos aritméticos y la resolución de problemas.",
+    "habilidad_evaluada": "completar una familia de operaciones",
+    "condiciones_curriculares": "Usar adición y sustracción en el ámbito numérico apropiado para 2° básico.",
+    "contexto": "lápices"
+  },
+  {
+    "id": "MA02-OA-10-02",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 10",
+    "texto_oa": "Demostrar que comprende la relación entre la adición y la sustracción al usar la \"familia de operaciones\" en cálculos aritméticos y la resolución de problemas.",
+    "habilidad_evaluada": "usar resta como inversa de suma",
+    "condiciones_curriculares": "Usar adición y sustracción en el ámbito numérico apropiado para 2° básico.",
+    "contexto": "bolitas"
+  },
+  {
+    "id": "MA02-OA-10-03",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 10",
+    "texto_oa": "Demostrar que comprende la relación entre la adición y la sustracción al usar la \"familia de operaciones\" en cálculos aritméticos y la resolución de problemas.",
+    "habilidad_evaluada": "usar suma como inversa de resta",
+    "condiciones_curriculares": "Usar adición y sustracción en el ámbito numérico apropiado para 2° básico.",
+    "contexto": "libros"
+  },
+  {
+    "id": "MA02-OA-10-04",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 10",
+    "texto_oa": "Demostrar que comprende la relación entre la adición y la sustracción al usar la \"familia de operaciones\" en cálculos aritméticos y la resolución de problemas.",
+    "habilidad_evaluada": "hallar un término faltante",
+    "condiciones_curriculares": "Usar adición y sustracción en el ámbito numérico apropiado para 2° básico.",
+    "contexto": "juguetes"
+  },
+  {
+    "id": "MA02-OA-10-05",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 10",
+    "texto_oa": "Demostrar que comprende la relación entre la adición y la sustracción al usar la \"familia de operaciones\" en cálculos aritméticos y la resolución de problemas.",
+    "habilidad_evaluada": "comprobar un resultado con la operación inversa",
+    "condiciones_curriculares": "Usar adición y sustracción en el ámbito numérico apropiado para 2° básico.",
+    "contexto": "galletas"
+  },
+  {
+    "id": "MA02-OA-11-01",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 11",
+    "texto_oa": "Demostrar que comprende la multiplicación:\n• usando representaciones concretas y pictóricas\n• expresando una multiplicación como una adición de sumandos iguales\n• usando la distributividad como estrategia para construir las tablas del 2, del 5 y del 10\n• resolviendo problemas que involucren las tablas del 2, del 5 y del 10.",
+    "habilidad_evaluada": "interpretar multiplicación como suma repetida",
+    "condiciones_curriculares": "Limitar las multiplicaciones a las tablas del 2, 5 y 10.",
+    "contexto": "ruedas de bicicletas"
+  },
+  {
+    "id": "MA02-OA-11-02",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 11",
+    "texto_oa": "Demostrar que comprende la multiplicación:\n• usando representaciones concretas y pictóricas\n• expresando una multiplicación como una adición de sumandos iguales\n• usando la distributividad como estrategia para construir las tablas del 2, del 5 y del 10\n• resolviendo problemas que involucren las tablas del 2, del 5 y del 10.",
+    "habilidad_evaluada": "resolver un problema con la tabla del 2",
+    "condiciones_curriculares": "Limitar las multiplicaciones a las tablas del 2, 5 y 10.",
+    "contexto": "paquetes de lápices"
+  },
+  {
+    "id": "MA02-OA-11-03",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 11",
+    "texto_oa": "Demostrar que comprende la multiplicación:\n• usando representaciones concretas y pictóricas\n• expresando una multiplicación como una adición de sumandos iguales\n• usando la distributividad como estrategia para construir las tablas del 2, del 5 y del 10\n• resolviendo problemas que involucren las tablas del 2, del 5 y del 10.",
+    "habilidad_evaluada": "resolver un problema con la tabla del 5",
+    "condiciones_curriculares": "Limitar las multiplicaciones a las tablas del 2, 5 y 10.",
+    "contexto": "monedas"
+  },
+  {
+    "id": "MA02-OA-11-04",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 11",
+    "texto_oa": "Demostrar que comprende la multiplicación:\n• usando representaciones concretas y pictóricas\n• expresando una multiplicación como una adición de sumandos iguales\n• usando la distributividad como estrategia para construir las tablas del 2, del 5 y del 10\n• resolviendo problemas que involucren las tablas del 2, del 5 y del 10.",
+    "habilidad_evaluada": "resolver un problema con la tabla del 10",
+    "condiciones_curriculares": "Limitar las multiplicaciones a las tablas del 2, 5 y 10.",
+    "contexto": "filas de sillas"
+  },
+  {
+    "id": "MA02-OA-11-05",
+    "curso": "2° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA02 OA 11",
+    "texto_oa": "Demostrar que comprende la multiplicación:\n• usando representaciones concretas y pictóricas\n• expresando una multiplicación como una adición de sumandos iguales\n• usando la distributividad como estrategia para construir las tablas del 2, del 5 y del 10\n• resolviendo problemas que involucren las tablas del 2, del 5 y del 10.",
+    "habilidad_evaluada": "usar grupos iguales para representar multiplicación",
+    "condiciones_curriculares": "Limitar las multiplicaciones a las tablas del 2, 5 y 10.",
+    "contexto": "cajas con frutas"
+  },
+  {
+    "id": "MA02-OA-17-01",
+    "curso": "2° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA02 OA 17",
+    "texto_oa": "Identificar días, semanas, meses y fechas en el calendario.",
+    "habilidad_evaluada": "identificar un día en el calendario",
+    "condiciones_curriculares": "Trabajar días, semanas, meses y fechas sin requerir una imagen de calendario.",
+    "contexto": "calendario escolar"
+  },
+  {
+    "id": "MA02-OA-17-02",
+    "curso": "2° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA02 OA 17",
+    "texto_oa": "Identificar días, semanas, meses y fechas en el calendario.",
+    "habilidad_evaluada": "calcular el día siguiente o anterior",
+    "condiciones_curriculares": "Trabajar días, semanas, meses y fechas sin requerir una imagen de calendario.",
+    "contexto": "cumpleaños"
+  },
+  {
+    "id": "MA02-OA-17-03",
+    "curso": "2° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA02 OA 17",
+    "texto_oa": "Identificar días, semanas, meses y fechas en el calendario.",
+    "habilidad_evaluada": "relacionar semanas y días",
+    "condiciones_curriculares": "Trabajar días, semanas, meses y fechas sin requerir una imagen de calendario.",
+    "contexto": "vacaciones"
+  },
+  {
+    "id": "MA02-OA-17-04",
+    "curso": "2° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA02 OA 17",
+    "texto_oa": "Identificar días, semanas, meses y fechas en el calendario.",
+    "habilidad_evaluada": "identificar un mes",
+    "condiciones_curriculares": "Trabajar días, semanas, meses y fechas sin requerir una imagen de calendario.",
+    "contexto": "talleres semanales"
+  },
+  {
+    "id": "MA02-OA-17-05",
+    "curso": "2° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA02 OA 17",
+    "texto_oa": "Identificar días, semanas, meses y fechas en el calendario.",
+    "habilidad_evaluada": "ubicar una fecha",
+    "condiciones_curriculares": "Trabajar días, semanas, meses y fechas sin requerir una imagen de calendario.",
+    "contexto": "eventos del curso"
+  },
+  {
+    "id": "MA03-OA-03-01",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 03",
+    "texto_oa": "Comparar y ordenar números naturales hasta 1 000, utilizando la recta numérica o la tabla posicional de manera manual y\/o por medio de software educativo.",
+    "habilidad_evaluada": "comparar dos números",
+    "condiciones_curriculares": "Usar números naturales hasta 1 000.",
+    "contexto": "población de animales"
+  },
+  {
+    "id": "MA03-OA-03-02",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 03",
+    "texto_oa": "Comparar y ordenar números naturales hasta 1 000, utilizando la recta numérica o la tabla posicional de manera manual y\/o por medio de software educativo.",
+    "habilidad_evaluada": "ordenar varios números ascendentemente",
+    "condiciones_curriculares": "Usar números naturales hasta 1 000.",
+    "contexto": "puntajes"
+  },
+  {
+    "id": "MA03-OA-03-03",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 03",
+    "texto_oa": "Comparar y ordenar números naturales hasta 1 000, utilizando la recta numérica o la tabla posicional de manera manual y\/o por medio de software educativo.",
+    "habilidad_evaluada": "ordenar varios números descendentemente",
+    "condiciones_curriculares": "Usar números naturales hasta 1 000.",
+    "contexto": "colecciones"
+  },
+  {
+    "id": "MA03-OA-03-04",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 03",
+    "texto_oa": "Comparar y ordenar números naturales hasta 1 000, utilizando la recta numérica o la tabla posicional de manera manual y\/o por medio de software educativo.",
+    "habilidad_evaluada": "ubicar conceptualmente un número entre otros",
+    "condiciones_curriculares": "Usar números naturales hasta 1 000.",
+    "contexto": "libros de una biblioteca"
+  },
+  {
+    "id": "MA03-OA-03-05",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 03",
+    "texto_oa": "Comparar y ordenar números naturales hasta 1 000, utilizando la recta numérica o la tabla posicional de manera manual y\/o por medio de software educativo.",
+    "habilidad_evaluada": "identificar mayor y menor",
+    "condiciones_curriculares": "Usar números naturales hasta 1 000.",
+    "contexto": "asistencia a eventos"
+  },
+  {
+    "id": "MA03-OA-06-01",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 06",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números del 0 al 1 000:\n• usando estrategias personales con y sin material concreto;\n• creando y resolviendo problemas de adición y sustracción que involucren operaciones combinadas, en forma concreta, pictórica y simbólica, de manera manual y\/o por medio de software educativo;\n• aplicando los algoritmos con y sin reserva, progresivamente, en la adición de hasta cuatro sumandos y en la sustracción de hasta un sustraendo.",
+    "habilidad_evaluada": "resolver una adición",
+    "condiciones_curriculares": "Usar números entre 0 y 1 000; admitir adición y sustracción, incluyendo operaciones combinadas cuando sea apropiado.",
+    "contexto": "biblioteca"
+  },
+  {
+    "id": "MA03-OA-06-02",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 06",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números del 0 al 1 000:\n• usando estrategias personales con y sin material concreto;\n• creando y resolviendo problemas de adición y sustracción que involucren operaciones combinadas, en forma concreta, pictórica y simbólica, de manera manual y\/o por medio de software educativo;\n• aplicando los algoritmos con y sin reserva, progresivamente, en la adición de hasta cuatro sumandos y en la sustracción de hasta un sustraendo.",
+    "habilidad_evaluada": "resolver una sustracción",
+    "condiciones_curriculares": "Usar números entre 0 y 1 000; admitir adición y sustracción, incluyendo operaciones combinadas cuando sea apropiado.",
+    "contexto": "entradas a un evento"
+  },
+  {
+    "id": "MA03-OA-06-03",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 06",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números del 0 al 1 000:\n• usando estrategias personales con y sin material concreto;\n• creando y resolviendo problemas de adición y sustracción que involucren operaciones combinadas, en forma concreta, pictórica y simbólica, de manera manual y\/o por medio de software educativo;\n• aplicando los algoritmos con y sin reserva, progresivamente, en la adición de hasta cuatro sumandos y en la sustracción de hasta un sustraendo.",
+    "habilidad_evaluada": "resolver una situación con dos operaciones aditivas",
+    "condiciones_curriculares": "Usar números entre 0 y 1 000; admitir adición y sustracción, incluyendo operaciones combinadas cuando sea apropiado.",
+    "contexto": "colección de cartas"
+  },
+  {
+    "id": "MA03-OA-06-04",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 06",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números del 0 al 1 000:\n• usando estrategias personales con y sin material concreto;\n• creando y resolviendo problemas de adición y sustracción que involucren operaciones combinadas, en forma concreta, pictórica y simbólica, de manera manual y\/o por medio de software educativo;\n• aplicando los algoritmos con y sin reserva, progresivamente, en la adición de hasta cuatro sumandos y en la sustracción de hasta un sustraendo.",
+    "habilidad_evaluada": "estimar una suma o diferencia",
+    "condiciones_curriculares": "Usar números entre 0 y 1 000; admitir adición y sustracción, incluyendo operaciones combinadas cuando sea apropiado.",
+    "contexto": "animales de un refugio"
+  },
+  {
+    "id": "MA03-OA-06-05",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 06",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números del 0 al 1 000:\n• usando estrategias personales con y sin material concreto;\n• creando y resolviendo problemas de adición y sustracción que involucren operaciones combinadas, en forma concreta, pictórica y simbólica, de manera manual y\/o por medio de software educativo;\n• aplicando los algoritmos con y sin reserva, progresivamente, en la adición de hasta cuatro sumandos y en la sustracción de hasta un sustraendo.",
+    "habilidad_evaluada": "resolver un problema rutinario o no rutinario de adición\/sustracción",
+    "condiciones_curriculares": "Usar números entre 0 y 1 000; admitir adición y sustracción, incluyendo operaciones combinadas cuando sea apropiado.",
+    "contexto": "útiles escolares"
+  },
+  {
+    "id": "MA03-OA-07-01",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 07",
+    "texto_oa": "Demostrar que comprenden la relación entre la adición y la sustracción, usando la \"familia de operaciones\" en cálculos aritméticos y en la resolución de problemas.",
+    "habilidad_evaluada": "usar una familia de operaciones",
+    "condiciones_curriculares": "Trabajar la relación inversa entre adición y sustracción con números apropiados para 3° básico.",
+    "contexto": "cromos"
+  },
+  {
+    "id": "MA03-OA-07-02",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 07",
+    "texto_oa": "Demostrar que comprenden la relación entre la adición y la sustracción, usando la \"familia de operaciones\" en cálculos aritméticos y en la resolución de problemas.",
+    "habilidad_evaluada": "comprobar una suma con resta",
+    "condiciones_curriculares": "Trabajar la relación inversa entre adición y sustracción con números apropiados para 3° básico.",
+    "contexto": "libros"
+  },
+  {
+    "id": "MA03-OA-07-03",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 07",
+    "texto_oa": "Demostrar que comprenden la relación entre la adición y la sustracción, usando la \"familia de operaciones\" en cálculos aritméticos y en la resolución de problemas.",
+    "habilidad_evaluada": "comprobar una resta con suma",
+    "condiciones_curriculares": "Trabajar la relación inversa entre adición y sustracción con números apropiados para 3° básico.",
+    "contexto": "monedas"
+  },
+  {
+    "id": "MA03-OA-07-04",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 07",
+    "texto_oa": "Demostrar que comprenden la relación entre la adición y la sustracción, usando la \"familia de operaciones\" en cálculos aritméticos y en la resolución de problemas.",
+    "habilidad_evaluada": "hallar un término desconocido",
+    "condiciones_curriculares": "Trabajar la relación inversa entre adición y sustracción con números apropiados para 3° básico.",
+    "contexto": "juguetes"
+  },
+  {
+    "id": "MA03-OA-07-05",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 07",
+    "texto_oa": "Demostrar que comprenden la relación entre la adición y la sustracción, usando la \"familia de operaciones\" en cálculos aritméticos y en la resolución de problemas.",
+    "habilidad_evaluada": "aplicar la relación inversa en un problema",
+    "condiciones_curriculares": "Trabajar la relación inversa entre adición y sustracción con números apropiados para 3° básico.",
+    "contexto": "frutas"
+  },
+  {
+    "id": "MA03-OA-08-01",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 08",
+    "texto_oa": "Demostrar que comprenden las tablas de multiplicar hasta 10 de manera progresiva:\n• usando representaciones concretas y pictóricas\n• expresando una multiplicación como una adición de sumandos iguales\n• usando la distributividad como estrategia para construir las tablas hasta el 10\n• aplicando los resultados de las tablas de multiplicación hasta 10x10, sin realizar cálculos\n• resolviendo problemas que involucren las tablas aprendidas hasta el 10.",
+    "habilidad_evaluada": "resolver una multiplicación",
+    "condiciones_curriculares": "Usar tablas de multiplicar hasta 10×10.",
+    "contexto": "filas de asientos"
+  },
+  {
+    "id": "MA03-OA-08-02",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 08",
+    "texto_oa": "Demostrar que comprenden las tablas de multiplicar hasta 10 de manera progresiva:\n• usando representaciones concretas y pictóricas\n• expresando una multiplicación como una adición de sumandos iguales\n• usando la distributividad como estrategia para construir las tablas hasta el 10\n• aplicando los resultados de las tablas de multiplicación hasta 10x10, sin realizar cálculos\n• resolviendo problemas que involucren las tablas aprendidas hasta el 10.",
+    "habilidad_evaluada": "interpretar multiplicación como suma de sumandos iguales",
+    "condiciones_curriculares": "Usar tablas de multiplicar hasta 10×10.",
+    "contexto": "cajas con objetos"
+  },
+  {
+    "id": "MA03-OA-08-03",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 08",
+    "texto_oa": "Demostrar que comprenden las tablas de multiplicar hasta 10 de manera progresiva:\n• usando representaciones concretas y pictóricas\n• expresando una multiplicación como una adición de sumandos iguales\n• usando la distributividad como estrategia para construir las tablas hasta el 10\n• aplicando los resultados de las tablas de multiplicación hasta 10x10, sin realizar cálculos\n• resolviendo problemas que involucren las tablas aprendidas hasta el 10.",
+    "habilidad_evaluada": "resolver grupos iguales",
+    "condiciones_curriculares": "Usar tablas de multiplicar hasta 10×10.",
+    "contexto": "equipos deportivos"
+  },
+  {
+    "id": "MA03-OA-08-04",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 08",
+    "texto_oa": "Demostrar que comprenden las tablas de multiplicar hasta 10 de manera progresiva:\n• usando representaciones concretas y pictóricas\n• expresando una multiplicación como una adición de sumandos iguales\n• usando la distributividad como estrategia para construir las tablas hasta el 10\n• aplicando los resultados de las tablas de multiplicación hasta 10x10, sin realizar cálculos\n• resolviendo problemas que involucren las tablas aprendidas hasta el 10.",
+    "habilidad_evaluada": "aplicar una tabla de multiplicar",
+    "condiciones_curriculares": "Usar tablas de multiplicar hasta 10×10.",
+    "contexto": "paquetes de lápices"
+  },
+  {
+    "id": "MA03-OA-08-05",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 08",
+    "texto_oa": "Demostrar que comprenden las tablas de multiplicar hasta 10 de manera progresiva:\n• usando representaciones concretas y pictóricas\n• expresando una multiplicación como una adición de sumandos iguales\n• usando la distributividad como estrategia para construir las tablas hasta el 10\n• aplicando los resultados de las tablas de multiplicación hasta 10x10, sin realizar cálculos\n• resolviendo problemas que involucren las tablas aprendidas hasta el 10.",
+    "habilidad_evaluada": "resolver un problema multiplicativo",
+    "condiciones_curriculares": "Usar tablas de multiplicar hasta 10×10.",
+    "contexto": "bandejas con alimentos"
+  },
+  {
+    "id": "MA03-OA-09-01",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 09",
+    "texto_oa": "Demostrar que comprenden la división en el contexto de las tablas de hasta 10x10:\n• representando y explicando la división como repartición y agrupación en partes iguales, con material concreto y pictórico\n• creando y resolviendo problemas en contextos que incluyan la repartición y la agrupación\n• expresando la división como una sustracción repetida\n• describiendo y aplicando la relación inversa entre la división y la multiplicación\n• aplicando los resultados de las tablas de multiplicación hasta 10x10, sin realizar cálculos.",
+    "habilidad_evaluada": "dividir por reparto equitativo",
+    "condiciones_curriculares": "Usar divisiones vinculadas a las tablas de multiplicar hasta 10×10 y resultados enteros apropiados.",
+    "contexto": "reparto de dulces"
+  },
+  {
+    "id": "MA03-OA-09-02",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 09",
+    "texto_oa": "Demostrar que comprenden la división en el contexto de las tablas de hasta 10x10:\n• representando y explicando la división como repartición y agrupación en partes iguales, con material concreto y pictórico\n• creando y resolviendo problemas en contextos que incluyan la repartición y la agrupación\n• expresando la división como una sustracción repetida\n• describiendo y aplicando la relación inversa entre la división y la multiplicación\n• aplicando los resultados de las tablas de multiplicación hasta 10x10, sin realizar cálculos.",
+    "habilidad_evaluada": "dividir por agrupación",
+    "condiciones_curriculares": "Usar divisiones vinculadas a las tablas de multiplicar hasta 10×10 y resultados enteros apropiados.",
+    "contexto": "equipos de estudiantes"
+  },
+  {
+    "id": "MA03-OA-09-03",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 09",
+    "texto_oa": "Demostrar que comprenden la división en el contexto de las tablas de hasta 10x10:\n• representando y explicando la división como repartición y agrupación en partes iguales, con material concreto y pictórico\n• creando y resolviendo problemas en contextos que incluyan la repartición y la agrupación\n• expresando la división como una sustracción repetida\n• describiendo y aplicando la relación inversa entre la división y la multiplicación\n• aplicando los resultados de las tablas de multiplicación hasta 10x10, sin realizar cálculos.",
+    "habilidad_evaluada": "relacionar división y multiplicación",
+    "condiciones_curriculares": "Usar divisiones vinculadas a las tablas de multiplicar hasta 10×10 y resultados enteros apropiados.",
+    "contexto": "cajas con objetos"
+  },
+  {
+    "id": "MA03-OA-09-04",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 09",
+    "texto_oa": "Demostrar que comprenden la división en el contexto de las tablas de hasta 10x10:\n• representando y explicando la división como repartición y agrupación en partes iguales, con material concreto y pictórico\n• creando y resolviendo problemas en contextos que incluyan la repartición y la agrupación\n• expresando la división como una sustracción repetida\n• describiendo y aplicando la relación inversa entre la división y la multiplicación\n• aplicando los resultados de las tablas de multiplicación hasta 10x10, sin realizar cálculos.",
+    "habilidad_evaluada": "interpretar división como sustracción repetida",
+    "condiciones_curriculares": "Usar divisiones vinculadas a las tablas de multiplicar hasta 10×10 y resultados enteros apropiados.",
+    "contexto": "filas de sillas"
+  },
+  {
+    "id": "MA03-OA-09-05",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 09",
+    "texto_oa": "Demostrar que comprenden la división en el contexto de las tablas de hasta 10x10:\n• representando y explicando la división como repartición y agrupación en partes iguales, con material concreto y pictórico\n• creando y resolviendo problemas en contextos que incluyan la repartición y la agrupación\n• expresando la división como una sustracción repetida\n• describiendo y aplicando la relación inversa entre la división y la multiplicación\n• aplicando los resultados de las tablas de multiplicación hasta 10x10, sin realizar cálculos.",
+    "habilidad_evaluada": "resolver un problema de división",
+    "condiciones_curriculares": "Usar divisiones vinculadas a las tablas de multiplicar hasta 10×10 y resultados enteros apropiados.",
+    "contexto": "paquetes de materiales"
+  },
+  {
+    "id": "MA03-OA-10-01",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 10",
+    "texto_oa": "Resolver problemas rutinarios en contextos cotidianos, que incluyan dinero e involucren las cuatro operaciones (no combinadas).",
+    "habilidad_evaluada": "resolver un problema de adición con dinero",
+    "condiciones_curriculares": "Usar solo una operación por problema; incluir dinero en un contexto cotidiano.",
+    "contexto": "kiosco escolar"
+  },
+  {
+    "id": "MA03-OA-10-02",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 10",
+    "texto_oa": "Resolver problemas rutinarios en contextos cotidianos, que incluyan dinero e involucren las cuatro operaciones (no combinadas).",
+    "habilidad_evaluada": "resolver un problema de sustracción con dinero",
+    "condiciones_curriculares": "Usar solo una operación por problema; incluir dinero en un contexto cotidiano.",
+    "contexto": "feria"
+  },
+  {
+    "id": "MA03-OA-10-03",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 10",
+    "texto_oa": "Resolver problemas rutinarios en contextos cotidianos, que incluyan dinero e involucren las cuatro operaciones (no combinadas).",
+    "habilidad_evaluada": "resolver un problema de multiplicación con dinero",
+    "condiciones_curriculares": "Usar solo una operación por problema; incluir dinero en un contexto cotidiano.",
+    "contexto": "ahorro"
+  },
+  {
+    "id": "MA03-OA-10-04",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 10",
+    "texto_oa": "Resolver problemas rutinarios en contextos cotidianos, que incluyan dinero e involucren las cuatro operaciones (no combinadas).",
+    "habilidad_evaluada": "resolver un problema de división con dinero",
+    "condiciones_curriculares": "Usar solo una operación por problema; incluir dinero en un contexto cotidiano.",
+    "contexto": "compra de útiles"
+  },
+  {
+    "id": "MA03-OA-10-05",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 10",
+    "texto_oa": "Resolver problemas rutinarios en contextos cotidianos, que incluyan dinero e involucren las cuatro operaciones (no combinadas).",
+    "habilidad_evaluada": "seleccionar una de las cuatro operaciones en un contexto de dinero",
+    "condiciones_curriculares": "Usar solo una operación por problema; incluir dinero en un contexto cotidiano.",
+    "contexto": "entradas"
+  },
+  {
+    "id": "MA03-OA-11-01",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 11",
+    "texto_oa": "Demostrar que comprenden las fracciones de uso común: 1\/4 , 1\/3 , 1\/2 , 2\/3 , 3\/4:\n• explicando que una fracción representa la parte de un todo , de manera concreta, pictórica, simbólica, de forma manual y\/o con software educativo\n• describiendo situaciones, en las cuales se puede usar fracciones\n• comparando fracciones de un mismo todo, de igual denominador.",
+    "habilidad_evaluada": "interpretar 1\/2 de un todo",
+    "condiciones_curriculares": "Limitarse a las fracciones 1\/4, 1\/3, 1\/2, 2\/3 y 3\/4; evitar depender de imágenes.",
+    "contexto": "pizza"
+  },
+  {
+    "id": "MA03-OA-11-02",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 11",
+    "texto_oa": "Demostrar que comprenden las fracciones de uso común: 1\/4 , 1\/3 , 1\/2 , 2\/3 , 3\/4:\n• explicando que una fracción representa la parte de un todo , de manera concreta, pictórica, simbólica, de forma manual y\/o con software educativo\n• describiendo situaciones, en las cuales se puede usar fracciones\n• comparando fracciones de un mismo todo, de igual denominador.",
+    "habilidad_evaluada": "interpretar 1\/3 o 2\/3",
+    "condiciones_curriculares": "Limitarse a las fracciones 1\/4, 1\/3, 1\/2, 2\/3 y 3\/4; evitar depender de imágenes.",
+    "contexto": "chocolate"
+  },
+  {
+    "id": "MA03-OA-11-03",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 11",
+    "texto_oa": "Demostrar que comprenden las fracciones de uso común: 1\/4 , 1\/3 , 1\/2 , 2\/3 , 3\/4:\n• explicando que una fracción representa la parte de un todo , de manera concreta, pictórica, simbólica, de forma manual y\/o con software educativo\n• describiendo situaciones, en las cuales se puede usar fracciones\n• comparando fracciones de un mismo todo, de igual denominador.",
+    "habilidad_evaluada": "interpretar 1\/4 o 3\/4",
+    "condiciones_curriculares": "Limitarse a las fracciones 1\/4, 1\/3, 1\/2, 2\/3 y 3\/4; evitar depender de imágenes.",
+    "contexto": "frutas compartidas"
+  },
+  {
+    "id": "MA03-OA-11-04",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 11",
+    "texto_oa": "Demostrar que comprenden las fracciones de uso común: 1\/4 , 1\/3 , 1\/2 , 2\/3 , 3\/4:\n• explicando que una fracción representa la parte de un todo , de manera concreta, pictórica, simbólica, de forma manual y\/o con software educativo\n• describiendo situaciones, en las cuales se puede usar fracciones\n• comparando fracciones de un mismo todo, de igual denominador.",
+    "habilidad_evaluada": "comparar fracciones con igual denominador",
+    "condiciones_curriculares": "Limitarse a las fracciones 1\/4, 1\/3, 1\/2, 2\/3 y 3\/4; evitar depender de imágenes.",
+    "contexto": "recetas"
+  },
+  {
+    "id": "MA03-OA-11-05",
+    "curso": "3° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA03 OA 11",
+    "texto_oa": "Demostrar que comprenden las fracciones de uso común: 1\/4 , 1\/3 , 1\/2 , 2\/3 , 3\/4:\n• explicando que una fracción representa la parte de un todo , de manera concreta, pictórica, simbólica, de forma manual y\/o con software educativo\n• describiendo situaciones, en las cuales se puede usar fracciones\n• comparando fracciones de un mismo todo, de igual denominador.",
+    "habilidad_evaluada": "identificar una fracción en una situación cotidiana",
+    "condiciones_curriculares": "Limitarse a las fracciones 1\/4, 1\/3, 1\/2, 2\/3 y 3\/4; evitar depender de imágenes.",
+    "contexto": "botellas de agua"
+  },
+  {
+    "id": "MA03-OA-19-01",
+    "curso": "3° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA03 OA 19",
+    "texto_oa": "Leer e interpretar líneas de tiempo y calendarios.",
+    "habilidad_evaluada": "interpretar una línea de tiempo textual",
+    "condiciones_curriculares": "Plantear la información temporal en texto para no depender de gráficos o imágenes.",
+    "contexto": "historia familiar"
+  },
+  {
+    "id": "MA03-OA-19-02",
+    "curso": "3° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA03 OA 19",
+    "texto_oa": "Leer e interpretar líneas de tiempo y calendarios.",
+    "habilidad_evaluada": "ordenar eventos cronológicamente",
+    "condiciones_curriculares": "Plantear la información temporal en texto para no depender de gráficos o imágenes.",
+    "contexto": "calendario escolar"
+  },
+  {
+    "id": "MA03-OA-19-03",
+    "curso": "3° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA03 OA 19",
+    "texto_oa": "Leer e interpretar líneas de tiempo y calendarios.",
+    "habilidad_evaluada": "calcular separación simple entre fechas",
+    "condiciones_curriculares": "Plantear la información temporal en texto para no depender de gráficos o imágenes.",
+    "contexto": "vacaciones"
+  },
+  {
+    "id": "MA03-OA-19-04",
+    "curso": "3° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA03 OA 19",
+    "texto_oa": "Leer e interpretar líneas de tiempo y calendarios.",
+    "habilidad_evaluada": "identificar un evento anterior o posterior",
+    "condiciones_curriculares": "Plantear la información temporal en texto para no depender de gráficos o imágenes.",
+    "contexto": "proyecto de curso"
+  },
+  {
+    "id": "MA03-OA-19-05",
+    "curso": "3° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA03 OA 19",
+    "texto_oa": "Leer e interpretar líneas de tiempo y calendarios.",
+    "habilidad_evaluada": "interpretar información de un calendario",
+    "condiciones_curriculares": "Plantear la información temporal en texto para no depender de gráficos o imágenes.",
+    "contexto": "eventos deportivos"
+  },
+  {
+    "id": "MA03-OA-21-01",
+    "curso": "3° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA03 OA 21",
+    "texto_oa": "Demostrar que comprenden el perímetro de una figura regular e irregular:\n• midiendo y registrando el perímetro de figuras del entorno en el contexto de la resolución de problemas\n• determinando el perímetro de un cuadrado y de un rectángulo.",
+    "habilidad_evaluada": "calcular perímetro de un cuadrado",
+    "condiciones_curriculares": "Entregar explícitamente todas las longitudes necesarias; trabajar perímetro en contextos resolubles sin imagen.",
+    "contexto": "jardín"
+  },
+  {
+    "id": "MA03-OA-21-02",
+    "curso": "3° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA03 OA 21",
+    "texto_oa": "Demostrar que comprenden el perímetro de una figura regular e irregular:\n• midiendo y registrando el perímetro de figuras del entorno en el contexto de la resolución de problemas\n• determinando el perímetro de un cuadrado y de un rectángulo.",
+    "habilidad_evaluada": "calcular perímetro de un rectángulo",
+    "condiciones_curriculares": "Entregar explícitamente todas las longitudes necesarias; trabajar perímetro en contextos resolubles sin imagen.",
+    "contexto": "marco de una foto"
+  },
+  {
+    "id": "MA03-OA-21-03",
+    "curso": "3° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA03 OA 21",
+    "texto_oa": "Demostrar que comprenden el perímetro de una figura regular e irregular:\n• midiendo y registrando el perímetro de figuras del entorno en el contexto de la resolución de problemas\n• determinando el perímetro de un cuadrado y de un rectángulo.",
+    "habilidad_evaluada": "calcular perímetro de una figura irregular descrita por sus lados",
+    "condiciones_curriculares": "Entregar explícitamente todas las longitudes necesarias; trabajar perímetro en contextos resolubles sin imagen.",
+    "contexto": "cancha rectangular"
+  },
+  {
+    "id": "MA03-OA-21-04",
+    "curso": "3° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA03 OA 21",
+    "texto_oa": "Demostrar que comprenden el perímetro de una figura regular e irregular:\n• midiendo y registrando el perímetro de figuras del entorno en el contexto de la resolución de problemas\n• determinando el perímetro de un cuadrado y de un rectángulo.",
+    "habilidad_evaluada": "hallar un lado faltante a partir del perímetro",
+    "condiciones_curriculares": "Entregar explícitamente todas las longitudes necesarias; trabajar perímetro en contextos resolubles sin imagen.",
+    "contexto": "cerco"
+  },
+  {
+    "id": "MA03-OA-21-05",
+    "curso": "3° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA03 OA 21",
+    "texto_oa": "Demostrar que comprenden el perímetro de una figura regular e irregular:\n• midiendo y registrando el perímetro de figuras del entorno en el contexto de la resolución de problemas\n• determinando el perímetro de un cuadrado y de un rectángulo.",
+    "habilidad_evaluada": "comparar perímetros",
+    "condiciones_curriculares": "Entregar explícitamente todas las longitudes necesarias; trabajar perímetro en contextos resolubles sin imagen.",
+    "contexto": "cartulina"
+  },
+  {
+    "id": "MA04-OA-01-01",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 01",
+    "texto_oa": "Representar y describir números del 0 al 10 000:\n• contándolos de 10 en 10, de 100 en 100, de 1 000 en 1 000\n• leyéndolos y escribiéndolos\n• representándolos en forma concreta, pictórica y simbólica\n• comparándolos y ordenándolos en la recta numérica o la tabla posicional\n• identificando el valor posicional de los dígitos hasta la decena de mil\n• componiendo y descomponiendo números naturales hasta 10 000 en forma aditiva, de acuerdo a su valor posicional.",
+    "habilidad_evaluada": "comparar números",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 10 000.",
+    "contexto": "asistencia a eventos"
+  },
+  {
+    "id": "MA04-OA-01-02",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 01",
+    "texto_oa": "Representar y describir números del 0 al 10 000:\n• contándolos de 10 en 10, de 100 en 100, de 1 000 en 1 000\n• leyéndolos y escribiéndolos\n• representándolos en forma concreta, pictórica y simbólica\n• comparándolos y ordenándolos en la recta numérica o la tabla posicional\n• identificando el valor posicional de los dígitos hasta la decena de mil\n• componiendo y descomponiendo números naturales hasta 10 000 en forma aditiva, de acuerdo a su valor posicional.",
+    "habilidad_evaluada": "ordenar números",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 10 000.",
+    "contexto": "colecciones"
+  },
+  {
+    "id": "MA04-OA-01-03",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 01",
+    "texto_oa": "Representar y describir números del 0 al 10 000:\n• contándolos de 10 en 10, de 100 en 100, de 1 000 en 1 000\n• leyéndolos y escribiéndolos\n• representándolos en forma concreta, pictórica y simbólica\n• comparándolos y ordenándolos en la recta numérica o la tabla posicional\n• identificando el valor posicional de los dígitos hasta la decena de mil\n• componiendo y descomponiendo números naturales hasta 10 000 en forma aditiva, de acuerdo a su valor posicional.",
+    "habilidad_evaluada": "identificar valor posicional",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 10 000.",
+    "contexto": "habitantes de localidades ficticias"
+  },
+  {
+    "id": "MA04-OA-01-04",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 01",
+    "texto_oa": "Representar y describir números del 0 al 10 000:\n• contándolos de 10 en 10, de 100 en 100, de 1 000 en 1 000\n• leyéndolos y escribiéndolos\n• representándolos en forma concreta, pictórica y simbólica\n• comparándolos y ordenándolos en la recta numérica o la tabla posicional\n• identificando el valor posicional de los dígitos hasta la decena de mil\n• componiendo y descomponiendo números naturales hasta 10 000 en forma aditiva, de acuerdo a su valor posicional.",
+    "habilidad_evaluada": "componer y descomponer un número",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 10 000.",
+    "contexto": "libros"
+  },
+  {
+    "id": "MA04-OA-01-05",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 01",
+    "texto_oa": "Representar y describir números del 0 al 10 000:\n• contándolos de 10 en 10, de 100 en 100, de 1 000 en 1 000\n• leyéndolos y escribiéndolos\n• representándolos en forma concreta, pictórica y simbólica\n• comparándolos y ordenándolos en la recta numérica o la tabla posicional\n• identificando el valor posicional de los dígitos hasta la decena de mil\n• componiendo y descomponiendo números naturales hasta 10 000 en forma aditiva, de acuerdo a su valor posicional.",
+    "habilidad_evaluada": "interpretar números grandes en un contexto real",
+    "condiciones_curriculares": "Usar números naturales entre 0 y 10 000.",
+    "contexto": "puntajes"
+  },
+  {
+    "id": "MA04-OA-03-01",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 03",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números hasta 1 000:\n• usando estrategias personales para realizar estas operaciones\n• descomponiendo los números involucrados\n• estimando sumas y diferencias\n• resolviendo problemas rutinarios y no rutinarios que incluyan adiciones y sustracciones\n• aplicando los algoritmos en la adición de hasta cuatro sumandos y en la sustracción de hasta un sustraendo.",
+    "habilidad_evaluada": "resolver una adición",
+    "condiciones_curriculares": "Usar números hasta 1 000 y adición\/sustracción con dificultad apropiada para 4° básico.",
+    "contexto": "biblioteca"
+  },
+  {
+    "id": "MA04-OA-03-02",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 03",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números hasta 1 000:\n• usando estrategias personales para realizar estas operaciones\n• descomponiendo los números involucrados\n• estimando sumas y diferencias\n• resolviendo problemas rutinarios y no rutinarios que incluyan adiciones y sustracciones\n• aplicando los algoritmos en la adición de hasta cuatro sumandos y en la sustracción de hasta un sustraendo.",
+    "habilidad_evaluada": "resolver una sustracción",
+    "condiciones_curriculares": "Usar números hasta 1 000 y adición\/sustracción con dificultad apropiada para 4° básico.",
+    "contexto": "recaudación escolar"
+  },
+  {
+    "id": "MA04-OA-03-03",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 03",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números hasta 1 000:\n• usando estrategias personales para realizar estas operaciones\n• descomponiendo los números involucrados\n• estimando sumas y diferencias\n• resolviendo problemas rutinarios y no rutinarios que incluyan adiciones y sustracciones\n• aplicando los algoritmos en la adición de hasta cuatro sumandos y en la sustracción de hasta un sustraendo.",
+    "habilidad_evaluada": "estimar una suma",
+    "condiciones_curriculares": "Usar números hasta 1 000 y adición\/sustracción con dificultad apropiada para 4° básico.",
+    "contexto": "inventario"
+  },
+  {
+    "id": "MA04-OA-03-04",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 03",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números hasta 1 000:\n• usando estrategias personales para realizar estas operaciones\n• descomponiendo los números involucrados\n• estimando sumas y diferencias\n• resolviendo problemas rutinarios y no rutinarios que incluyan adiciones y sustracciones\n• aplicando los algoritmos en la adición de hasta cuatro sumandos y en la sustracción de hasta un sustraendo.",
+    "habilidad_evaluada": "estimar una diferencia",
+    "condiciones_curriculares": "Usar números hasta 1 000 y adición\/sustracción con dificultad apropiada para 4° básico.",
+    "contexto": "visitas a un museo"
+  },
+  {
+    "id": "MA04-OA-03-05",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 03",
+    "texto_oa": "Demostrar que comprenden la adición y la sustracción de números hasta 1 000:\n• usando estrategias personales para realizar estas operaciones\n• descomponiendo los números involucrados\n• estimando sumas y diferencias\n• resolviendo problemas rutinarios y no rutinarios que incluyan adiciones y sustracciones\n• aplicando los algoritmos en la adición de hasta cuatro sumandos y en la sustracción de hasta un sustraendo.",
+    "habilidad_evaluada": "resolver un problema no rutinario de adición o sustracción",
+    "condiciones_curriculares": "Usar números hasta 1 000 y adición\/sustracción con dificultad apropiada para 4° básico.",
+    "contexto": "colección de objetos"
+  },
+  {
+    "id": "MA04-OA-05-01",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 05",
+    "texto_oa": "Demostrar que comprenden la multiplicación de números de tres dígitos por números de un dígito:\n• usando estrategias con o sin material concreto\n• utilizando las tablas de multiplicación\n• estimando productos\n• usando la propiedad distributiva de la multiplicación respecto de la suma\n• aplicando el algoritmo de la multiplicación\n• resolviendo problemas rutinarios.",
+    "habilidad_evaluada": "multiplicar un número de tres cifras por uno de una cifra",
+    "condiciones_curriculares": "Multiplicar números de hasta tres dígitos por un número de un dígito.",
+    "contexto": "cajas de materiales"
+  },
+  {
+    "id": "MA04-OA-05-02",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 05",
+    "texto_oa": "Demostrar que comprenden la multiplicación de números de tres dígitos por números de un dígito:\n• usando estrategias con o sin material concreto\n• utilizando las tablas de multiplicación\n• estimando productos\n• usando la propiedad distributiva de la multiplicación respecto de la suma\n• aplicando el algoritmo de la multiplicación\n• resolviendo problemas rutinarios.",
+    "habilidad_evaluada": "estimar un producto",
+    "condiciones_curriculares": "Multiplicar números de hasta tres dígitos por un número de un dígito.",
+    "contexto": "entradas por día"
+  },
+  {
+    "id": "MA04-OA-05-03",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 05",
+    "texto_oa": "Demostrar que comprenden la multiplicación de números de tres dígitos por números de un dígito:\n• usando estrategias con o sin material concreto\n• utilizando las tablas de multiplicación\n• estimando productos\n• usando la propiedad distributiva de la multiplicación respecto de la suma\n• aplicando el algoritmo de la multiplicación\n• resolviendo problemas rutinarios.",
+    "habilidad_evaluada": "usar distributividad en una multiplicación",
+    "condiciones_curriculares": "Multiplicar números de hasta tres dígitos por un número de un dígito.",
+    "contexto": "paquetes de alimentos"
+  },
+  {
+    "id": "MA04-OA-05-04",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 05",
+    "texto_oa": "Demostrar que comprenden la multiplicación de números de tres dígitos por números de un dígito:\n• usando estrategias con o sin material concreto\n• utilizando las tablas de multiplicación\n• estimando productos\n• usando la propiedad distributiva de la multiplicación respecto de la suma\n• aplicando el algoritmo de la multiplicación\n• resolviendo problemas rutinarios.",
+    "habilidad_evaluada": "resolver un problema rutinario de multiplicación",
+    "condiciones_curriculares": "Multiplicar números de hasta tres dígitos por un número de un dígito.",
+    "contexto": "filas de objetos"
+  },
+  {
+    "id": "MA04-OA-05-05",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 05",
+    "texto_oa": "Demostrar que comprenden la multiplicación de números de tres dígitos por números de un dígito:\n• usando estrategias con o sin material concreto\n• utilizando las tablas de multiplicación\n• estimando productos\n• usando la propiedad distributiva de la multiplicación respecto de la suma\n• aplicando el algoritmo de la multiplicación\n• resolviendo problemas rutinarios.",
+    "habilidad_evaluada": "seleccionar una multiplicación en contexto",
+    "condiciones_curriculares": "Multiplicar números de hasta tres dígitos por un número de un dígito.",
+    "contexto": "producción artesanal"
+  },
+  {
+    "id": "MA04-OA-06-01",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 06",
+    "texto_oa": "Demostrar que comprenden la división con dividendos de dos dígitos y divisores de un dígito:\n• usando estrategias para dividir, con o sin material concreto\n• utilizando la relación que existe entre la división y la multiplicación\n• estimando el cociente\n• aplicando la estrategia por descomposición del dividendo\n• aplicando el algoritmo de la división.",
+    "habilidad_evaluada": "dividir un número de dos cifras por uno de una cifra",
+    "condiciones_curriculares": "Usar dividendos de dos dígitos y divisores de un dígito; mantener resultados adecuados para el nivel.",
+    "contexto": "reparto de materiales"
+  },
+  {
+    "id": "MA04-OA-06-02",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 06",
+    "texto_oa": "Demostrar que comprenden la división con dividendos de dos dígitos y divisores de un dígito:\n• usando estrategias para dividir, con o sin material concreto\n• utilizando la relación que existe entre la división y la multiplicación\n• estimando el cociente\n• aplicando la estrategia por descomposición del dividendo\n• aplicando el algoritmo de la división.",
+    "habilidad_evaluada": "usar relación división-multiplicación",
+    "condiciones_curriculares": "Usar dividendos de dos dígitos y divisores de un dígito; mantener resultados adecuados para el nivel.",
+    "contexto": "equipos"
+  },
+  {
+    "id": "MA04-OA-06-03",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 06",
+    "texto_oa": "Demostrar que comprenden la división con dividendos de dos dígitos y divisores de un dígito:\n• usando estrategias para dividir, con o sin material concreto\n• utilizando la relación que existe entre la división y la multiplicación\n• estimando el cociente\n• aplicando la estrategia por descomposición del dividendo\n• aplicando el algoritmo de la división.",
+    "habilidad_evaluada": "estimar un cociente",
+    "condiciones_curriculares": "Usar dividendos de dos dígitos y divisores de un dígito; mantener resultados adecuados para el nivel.",
+    "contexto": "cajas"
+  },
+  {
+    "id": "MA04-OA-06-04",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 06",
+    "texto_oa": "Demostrar que comprenden la división con dividendos de dos dígitos y divisores de un dígito:\n• usando estrategias para dividir, con o sin material concreto\n• utilizando la relación que existe entre la división y la multiplicación\n• estimando el cociente\n• aplicando la estrategia por descomposición del dividendo\n• aplicando el algoritmo de la división.",
+    "habilidad_evaluada": "resolver por descomposición del dividendo",
+    "condiciones_curriculares": "Usar dividendos de dos dígitos y divisores de un dígito; mantener resultados adecuados para el nivel.",
+    "contexto": "paquetes"
+  },
+  {
+    "id": "MA04-OA-06-05",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 06",
+    "texto_oa": "Demostrar que comprenden la división con dividendos de dos dígitos y divisores de un dígito:\n• usando estrategias para dividir, con o sin material concreto\n• utilizando la relación que existe entre la división y la multiplicación\n• estimando el cociente\n• aplicando la estrategia por descomposición del dividendo\n• aplicando el algoritmo de la división.",
+    "habilidad_evaluada": "resolver un problema de división",
+    "condiciones_curriculares": "Usar dividendos de dos dígitos y divisores de un dígito; mantener resultados adecuados para el nivel.",
+    "contexto": "filas"
+  },
+  {
+    "id": "MA04-OA-07-01",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 07",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios en contextos cotidianos que incluyen dinero, seleccionando y utilizando la operación apropiada.",
+    "habilidad_evaluada": "seleccionar la operación adecuada con dinero",
+    "condiciones_curriculares": "Incluir dinero y permitir seleccionar la operación apropiada; no depender de imágenes.",
+    "contexto": "kiosco"
+  },
+  {
+    "id": "MA04-OA-07-02",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 07",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios en contextos cotidianos que incluyen dinero, seleccionando y utilizando la operación apropiada.",
+    "habilidad_evaluada": "resolver una compra",
+    "condiciones_curriculares": "Incluir dinero y permitir seleccionar la operación apropiada; no depender de imágenes.",
+    "contexto": "feria"
+  },
+  {
+    "id": "MA04-OA-07-03",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 07",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios en contextos cotidianos que incluyen dinero, seleccionando y utilizando la operación apropiada.",
+    "habilidad_evaluada": "resolver una situación de vuelto",
+    "condiciones_curriculares": "Incluir dinero y permitir seleccionar la operación apropiada; no depender de imágenes.",
+    "contexto": "ahorro"
+  },
+  {
+    "id": "MA04-OA-07-04",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 07",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios en contextos cotidianos que incluyen dinero, seleccionando y utilizando la operación apropiada.",
+    "habilidad_evaluada": "resolver una situación de ahorro",
+    "condiciones_curriculares": "Incluir dinero y permitir seleccionar la operación apropiada; no depender de imágenes.",
+    "contexto": "tienda de útiles"
+  },
+  {
+    "id": "MA04-OA-07-05",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 07",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios en contextos cotidianos que incluyen dinero, seleccionando y utilizando la operación apropiada.",
+    "habilidad_evaluada": "resolver un problema no rutinario con dinero",
+    "condiciones_curriculares": "Incluir dinero y permitir seleccionar la operación apropiada; no depender de imágenes.",
+    "contexto": "entradas a un evento"
+  },
+  {
+    "id": "MA04-OA-08-01",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 08",
+    "texto_oa": "Demostrar que comprende las fracciones con denominadores 100, 12, 10, 8, 6, 5, 4, 3, 2:\n• explicando que una fracción representa la parte de un todo o de un grupo de elementos y un lugar en la recta numérica\n• describiendo situaciones en las cuales se puede usar fracciones\n• mostrando que una fracción puede tener representaciones diferentes\n• comparando y ordenando fracciones (por ejemplo: 1\/100, 1\/8, 1\/5, 1\/4, 1\/2) con material concreto y pictórico.",
+    "habilidad_evaluada": "interpretar una fracción como parte de un todo",
+    "condiciones_curriculares": "Usar denominadores entre 2, 3, 4, 5, 6, 8, 10, 12 y 100 según el OA; mantener representación textual.",
+    "contexto": "pizza"
+  },
+  {
+    "id": "MA04-OA-08-02",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 08",
+    "texto_oa": "Demostrar que comprende las fracciones con denominadores 100, 12, 10, 8, 6, 5, 4, 3, 2:\n• explicando que una fracción representa la parte de un todo o de un grupo de elementos y un lugar en la recta numérica\n• describiendo situaciones en las cuales se puede usar fracciones\n• mostrando que una fracción puede tener representaciones diferentes\n• comparando y ordenando fracciones (por ejemplo: 1\/100, 1\/8, 1\/5, 1\/4, 1\/2) con material concreto y pictórico.",
+    "habilidad_evaluada": "interpretar una fracción de un grupo",
+    "condiciones_curriculares": "Usar denominadores entre 2, 3, 4, 5, 6, 8, 10, 12 y 100 según el OA; mantener representación textual.",
+    "contexto": "recetas"
+  },
+  {
+    "id": "MA04-OA-08-03",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 08",
+    "texto_oa": "Demostrar que comprende las fracciones con denominadores 100, 12, 10, 8, 6, 5, 4, 3, 2:\n• explicando que una fracción representa la parte de un todo o de un grupo de elementos y un lugar en la recta numérica\n• describiendo situaciones en las cuales se puede usar fracciones\n• mostrando que una fracción puede tener representaciones diferentes\n• comparando y ordenando fracciones (por ejemplo: 1\/100, 1\/8, 1\/5, 1\/4, 1\/2) con material concreto y pictórico.",
+    "habilidad_evaluada": "comparar fracciones",
+    "condiciones_curriculares": "Usar denominadores entre 2, 3, 4, 5, 6, 8, 10, 12 y 100 según el OA; mantener representación textual.",
+    "contexto": "colección de objetos"
+  },
+  {
+    "id": "MA04-OA-08-04",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 08",
+    "texto_oa": "Demostrar que comprende las fracciones con denominadores 100, 12, 10, 8, 6, 5, 4, 3, 2:\n• explicando que una fracción representa la parte de un todo o de un grupo de elementos y un lugar en la recta numérica\n• describiendo situaciones en las cuales se puede usar fracciones\n• mostrando que una fracción puede tener representaciones diferentes\n• comparando y ordenando fracciones (por ejemplo: 1\/100, 1\/8, 1\/5, 1\/4, 1\/2) con material concreto y pictórico.",
+    "habilidad_evaluada": "ordenar fracciones",
+    "condiciones_curriculares": "Usar denominadores entre 2, 3, 4, 5, 6, 8, 10, 12 y 100 según el OA; mantener representación textual.",
+    "contexto": "huerto"
+  },
+  {
+    "id": "MA04-OA-08-05",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 08",
+    "texto_oa": "Demostrar que comprende las fracciones con denominadores 100, 12, 10, 8, 6, 5, 4, 3, 2:\n• explicando que una fracción representa la parte de un todo o de un grupo de elementos y un lugar en la recta numérica\n• describiendo situaciones en las cuales se puede usar fracciones\n• mostrando que una fracción puede tener representaciones diferentes\n• comparando y ordenando fracciones (por ejemplo: 1\/100, 1\/8, 1\/5, 1\/4, 1\/2) con material concreto y pictórico.",
+    "habilidad_evaluada": "reconocer representaciones equivalentes de una fracción",
+    "condiciones_curriculares": "Usar denominadores entre 2, 3, 4, 5, 6, 8, 10, 12 y 100 según el OA; mantener representación textual.",
+    "contexto": "botellas"
+  },
+  {
+    "id": "MA04-OA-09-01",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 09",
+    "texto_oa": "Resolver adiciones y sustracciones de fracciones con igual denominador (denominadores 100, 12, 10, 8, 6, 5, 4, 3, 2) de manera concreta y pictórica en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "sumar fracciones de igual denominador",
+    "condiciones_curriculares": "Usar fracciones con igual denominador y denominadores permitidos por el OA.",
+    "contexto": "recetas"
+  },
+  {
+    "id": "MA04-OA-09-02",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 09",
+    "texto_oa": "Resolver adiciones y sustracciones de fracciones con igual denominador (denominadores 100, 12, 10, 8, 6, 5, 4, 3, 2) de manera concreta y pictórica en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "restar fracciones de igual denominador",
+    "condiciones_curriculares": "Usar fracciones con igual denominador y denominadores permitidos por el OA.",
+    "contexto": "pizza"
+  },
+  {
+    "id": "MA04-OA-09-03",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 09",
+    "texto_oa": "Resolver adiciones y sustracciones de fracciones con igual denominador (denominadores 100, 12, 10, 8, 6, 5, 4, 3, 2) de manera concreta y pictórica en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "resolver una situación de adición de fracciones",
+    "condiciones_curriculares": "Usar fracciones con igual denominador y denominadores permitidos por el OA.",
+    "contexto": "cinta"
+  },
+  {
+    "id": "MA04-OA-09-04",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 09",
+    "texto_oa": "Resolver adiciones y sustracciones de fracciones con igual denominador (denominadores 100, 12, 10, 8, 6, 5, 4, 3, 2) de manera concreta y pictórica en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "resolver una situación de sustracción de fracciones",
+    "condiciones_curriculares": "Usar fracciones con igual denominador y denominadores permitidos por el OA.",
+    "contexto": "botellas"
+  },
+  {
+    "id": "MA04-OA-09-05",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 09",
+    "texto_oa": "Resolver adiciones y sustracciones de fracciones con igual denominador (denominadores 100, 12, 10, 8, 6, 5, 4, 3, 2) de manera concreta y pictórica en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "seleccionar suma o resta de fracciones",
+    "condiciones_curriculares": "Usar fracciones con igual denominador y denominadores permitidos por el OA.",
+    "contexto": "chocolate"
+  },
+  {
+    "id": "MA04-OA-10-01",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 10",
+    "texto_oa": "Identificar, escribir y representar fracciones propias y los números mixtos hasta el 5 de manera concreta, pictórica y simbólica, en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "identificar una fracción propia",
+    "condiciones_curriculares": "Usar fracciones propias y números mixtos hasta 5; evitar requerir representación gráfica.",
+    "contexto": "pizzas"
+  },
+  {
+    "id": "MA04-OA-10-02",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 10",
+    "texto_oa": "Identificar, escribir y representar fracciones propias y los números mixtos hasta el 5 de manera concreta, pictórica y simbólica, en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "interpretar un número mixto",
+    "condiciones_curriculares": "Usar fracciones propias y números mixtos hasta 5; evitar requerir representación gráfica.",
+    "contexto": "litros de jugo"
+  },
+  {
+    "id": "MA04-OA-10-03",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 10",
+    "texto_oa": "Identificar, escribir y representar fracciones propias y los números mixtos hasta el 5 de manera concreta, pictórica y simbólica, en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "convertir una situación a número mixto",
+    "condiciones_curriculares": "Usar fracciones propias y números mixtos hasta 5; evitar requerir representación gráfica.",
+    "contexto": "metros de cinta"
+  },
+  {
+    "id": "MA04-OA-10-04",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 10",
+    "texto_oa": "Identificar, escribir y representar fracciones propias y los números mixtos hasta el 5 de manera concreta, pictórica y simbólica, en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "comparar una fracción propia con un número mixto simple",
+    "condiciones_curriculares": "Usar fracciones propias y números mixtos hasta 5; evitar requerir representación gráfica.",
+    "contexto": "chocolates"
+  },
+  {
+    "id": "MA04-OA-10-05",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 10",
+    "texto_oa": "Identificar, escribir y representar fracciones propias y los números mixtos hasta el 5 de manera concreta, pictórica y simbólica, en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "representar simbólicamente una cantidad fraccionaria",
+    "condiciones_curriculares": "Usar fracciones propias y números mixtos hasta 5; evitar requerir representación gráfica.",
+    "contexto": "recetas"
+  },
+  {
+    "id": "MA04-OA-11-01",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 11",
+    "texto_oa": "Describir y representar decimales (décimos y centésimos):\n• representándolos en forma concreta, pictórica y simbólica, de manera manual y\/o con software educativo\n• comparándolos y ordenándolos hasta la centésima.",
+    "habilidad_evaluada": "interpretar décimos",
+    "condiciones_curriculares": "Trabajar números decimales hasta la centésima.",
+    "contexto": "dinero"
+  },
+  {
+    "id": "MA04-OA-11-02",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 11",
+    "texto_oa": "Describir y representar decimales (décimos y centésimos):\n• representándolos en forma concreta, pictórica y simbólica, de manera manual y\/o con software educativo\n• comparándolos y ordenándolos hasta la centésima.",
+    "habilidad_evaluada": "interpretar centésimos",
+    "condiciones_curriculares": "Trabajar números decimales hasta la centésima.",
+    "contexto": "longitudes"
+  },
+  {
+    "id": "MA04-OA-11-03",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 11",
+    "texto_oa": "Describir y representar decimales (décimos y centésimos):\n• representándolos en forma concreta, pictórica y simbólica, de manera manual y\/o con software educativo\n• comparándolos y ordenándolos hasta la centésima.",
+    "habilidad_evaluada": "comparar decimales",
+    "condiciones_curriculares": "Trabajar números decimales hasta la centésima.",
+    "contexto": "puntajes"
+  },
+  {
+    "id": "MA04-OA-11-04",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 11",
+    "texto_oa": "Describir y representar decimales (décimos y centésimos):\n• representándolos en forma concreta, pictórica y simbólica, de manera manual y\/o con software educativo\n• comparándolos y ordenándolos hasta la centésima.",
+    "habilidad_evaluada": "ordenar decimales",
+    "condiciones_curriculares": "Trabajar números decimales hasta la centésima.",
+    "contexto": "litros"
+  },
+  {
+    "id": "MA04-OA-11-05",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 11",
+    "texto_oa": "Describir y representar decimales (décimos y centésimos):\n• representándolos en forma concreta, pictórica y simbólica, de manera manual y\/o con software educativo\n• comparándolos y ordenándolos hasta la centésima.",
+    "habilidad_evaluada": "relacionar una cantidad contextual con su representación decimal",
+    "condiciones_curriculares": "Trabajar números decimales hasta la centésima.",
+    "contexto": "tiempos"
+  },
+  {
+    "id": "MA04-OA-12-01",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 12",
+    "texto_oa": "Resolver adiciones y sustracciones de decimales, empleando el valor posicional hasta la centésima en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "sumar decimales",
+    "condiciones_curriculares": "Usar decimales hasta la centésima y respetar el valor posicional.",
+    "contexto": "dinero"
+  },
+  {
+    "id": "MA04-OA-12-02",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 12",
+    "texto_oa": "Resolver adiciones y sustracciones de decimales, empleando el valor posicional hasta la centésima en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "restar decimales",
+    "condiciones_curriculares": "Usar decimales hasta la centésima y respetar el valor posicional.",
+    "contexto": "distancias"
+  },
+  {
+    "id": "MA04-OA-12-03",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 12",
+    "texto_oa": "Resolver adiciones y sustracciones de decimales, empleando el valor posicional hasta la centésima en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "resolver un problema de adición decimal",
+    "condiciones_curriculares": "Usar decimales hasta la centésima y respetar el valor posicional.",
+    "contexto": "litros"
+  },
+  {
+    "id": "MA04-OA-12-04",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 12",
+    "texto_oa": "Resolver adiciones y sustracciones de decimales, empleando el valor posicional hasta la centésima en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "resolver un problema de sustracción decimal",
+    "condiciones_curriculares": "Usar decimales hasta la centésima y respetar el valor posicional.",
+    "contexto": "pesos de objetos"
+  },
+  {
+    "id": "MA04-OA-12-05",
+    "curso": "4° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA04 OA 12",
+    "texto_oa": "Resolver adiciones y sustracciones de decimales, empleando el valor posicional hasta la centésima en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "seleccionar suma o resta con decimales",
+    "condiciones_curriculares": "Usar decimales hasta la centésima y respetar el valor posicional.",
+    "contexto": "marcas deportivas"
+  },
+  {
+    "id": "MA04-OA-14-01",
+    "curso": "4° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA04 OA 14",
+    "texto_oa": "Resolver ecuaciones e inecuaciones de un paso que involucren adiciones y sustracciones, comprobando los resultados en forma pictórica y simbólica del 0 al 100 y aplicando las relaciones inversas entre la adición y la sustracción.",
+    "habilidad_evaluada": "resolver una ecuación de suma",
+    "condiciones_curriculares": "Usar ecuaciones o inecuaciones de un paso con adición\/sustracción y valores entre 0 y 100.",
+    "contexto": "ahorro"
+  },
+  {
+    "id": "MA04-OA-14-02",
+    "curso": "4° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA04 OA 14",
+    "texto_oa": "Resolver ecuaciones e inecuaciones de un paso que involucren adiciones y sustracciones, comprobando los resultados en forma pictórica y simbólica del 0 al 100 y aplicando las relaciones inversas entre la adición y la sustracción.",
+    "habilidad_evaluada": "resolver una ecuación de resta",
+    "condiciones_curriculares": "Usar ecuaciones o inecuaciones de un paso con adición\/sustracción y valores entre 0 y 100.",
+    "contexto": "colecciones"
+  },
+  {
+    "id": "MA04-OA-14-03",
+    "curso": "4° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA04 OA 14",
+    "texto_oa": "Resolver ecuaciones e inecuaciones de un paso que involucren adiciones y sustracciones, comprobando los resultados en forma pictórica y simbólica del 0 al 100 y aplicando las relaciones inversas entre la adición y la sustracción.",
+    "habilidad_evaluada": "resolver una inecuación de suma",
+    "condiciones_curriculares": "Usar ecuaciones o inecuaciones de un paso con adición\/sustracción y valores entre 0 y 100.",
+    "contexto": "puntajes"
+  },
+  {
+    "id": "MA04-OA-14-04",
+    "curso": "4° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA04 OA 14",
+    "texto_oa": "Resolver ecuaciones e inecuaciones de un paso que involucren adiciones y sustracciones, comprobando los resultados en forma pictórica y simbólica del 0 al 100 y aplicando las relaciones inversas entre la adición y la sustracción.",
+    "habilidad_evaluada": "resolver una inecuación de resta",
+    "condiciones_curriculares": "Usar ecuaciones o inecuaciones de un paso con adición\/sustracción y valores entre 0 y 100.",
+    "contexto": "entradas"
+  },
+  {
+    "id": "MA04-OA-14-05",
+    "curso": "4° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA04 OA 14",
+    "texto_oa": "Resolver ecuaciones e inecuaciones de un paso que involucren adiciones y sustracciones, comprobando los resultados en forma pictórica y simbólica del 0 al 100 y aplicando las relaciones inversas entre la adición y la sustracción.",
+    "habilidad_evaluada": "comprobar una solución con la operación inversa",
+    "condiciones_curriculares": "Usar ecuaciones o inecuaciones de un paso con adición\/sustracción y valores entre 0 y 100.",
+    "contexto": "cantidad de objetos"
+  },
+  {
+    "id": "MA04-OA-21-01",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 21",
+    "texto_oa": "Realizar conversiones entre unidades de tiempo en el contexto de la resolución de problemas: el número de segundos en un minuto, el número de minutos en una hora, el número de días en un mes y el número de meses en un año.",
+    "habilidad_evaluada": "convertir minutos a segundos",
+    "condiciones_curriculares": "Usar las equivalencias temporales indicadas por el OA; evitar calendarios ambiguos cuando el número de días del mes importe.",
+    "contexto": "entrenamiento"
+  },
+  {
+    "id": "MA04-OA-21-02",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 21",
+    "texto_oa": "Realizar conversiones entre unidades de tiempo en el contexto de la resolución de problemas: el número de segundos en un minuto, el número de minutos en una hora, el número de días en un mes y el número de meses en un año.",
+    "habilidad_evaluada": "convertir horas a minutos",
+    "condiciones_curriculares": "Usar las equivalencias temporales indicadas por el OA; evitar calendarios ambiguos cuando el número de días del mes importe.",
+    "contexto": "horario escolar"
+  },
+  {
+    "id": "MA04-OA-21-03",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 21",
+    "texto_oa": "Realizar conversiones entre unidades de tiempo en el contexto de la resolución de problemas: el número de segundos en un minuto, el número de minutos en una hora, el número de días en un mes y el número de meses en un año.",
+    "habilidad_evaluada": "relacionar días y meses en un contexto",
+    "condiciones_curriculares": "Usar las equivalencias temporales indicadas por el OA; evitar calendarios ambiguos cuando el número de días del mes importe.",
+    "contexto": "viaje"
+  },
+  {
+    "id": "MA04-OA-21-04",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 21",
+    "texto_oa": "Realizar conversiones entre unidades de tiempo en el contexto de la resolución de problemas: el número de segundos en un minuto, el número de minutos en una hora, el número de días en un mes y el número de meses en un año.",
+    "habilidad_evaluada": "relacionar meses y años",
+    "condiciones_curriculares": "Usar las equivalencias temporales indicadas por el OA; evitar calendarios ambiguos cuando el número de días del mes importe.",
+    "contexto": "actividad recreativa"
+  },
+  {
+    "id": "MA04-OA-21-05",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 21",
+    "texto_oa": "Realizar conversiones entre unidades de tiempo en el contexto de la resolución de problemas: el número de segundos en un minuto, el número de minutos en una hora, el número de días en un mes y el número de meses en un año.",
+    "habilidad_evaluada": "resolver un problema con conversión de tiempo",
+    "condiciones_curriculares": "Usar las equivalencias temporales indicadas por el OA; evitar calendarios ambiguos cuando el número de días del mes importe.",
+    "contexto": "proyecto"
+  },
+  {
+    "id": "MA04-OA-22-01",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 22",
+    "texto_oa": "Medir longitudes con unidades estandarizadas (m, cm) y realizar transformaciones entre estas unidades (m a cm y viceversa) en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "convertir metros a centímetros",
+    "condiciones_curriculares": "Usar solo metros y centímetros y conversiones m↔cm.",
+    "contexto": "sala de clases"
+  },
+  {
+    "id": "MA04-OA-22-02",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 22",
+    "texto_oa": "Medir longitudes con unidades estandarizadas (m, cm) y realizar transformaciones entre estas unidades (m a cm y viceversa) en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "convertir centímetros a metros",
+    "condiciones_curriculares": "Usar solo metros y centímetros y conversiones m↔cm.",
+    "contexto": "jardín"
+  },
+  {
+    "id": "MA04-OA-22-03",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 22",
+    "texto_oa": "Medir longitudes con unidades estandarizadas (m, cm) y realizar transformaciones entre estas unidades (m a cm y viceversa) en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "resolver una medición en metros",
+    "condiciones_curriculares": "Usar solo metros y centímetros y conversiones m↔cm.",
+    "contexto": "cinta"
+  },
+  {
+    "id": "MA04-OA-22-04",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 22",
+    "texto_oa": "Medir longitudes con unidades estandarizadas (m, cm) y realizar transformaciones entre estas unidades (m a cm y viceversa) en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "resolver una medición en centímetros",
+    "condiciones_curriculares": "Usar solo metros y centímetros y conversiones m↔cm.",
+    "contexto": "muebles"
+  },
+  {
+    "id": "MA04-OA-22-05",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 22",
+    "texto_oa": "Medir longitudes con unidades estandarizadas (m, cm) y realizar transformaciones entre estas unidades (m a cm y viceversa) en el contexto de la resolución de problemas.",
+    "habilidad_evaluada": "resolver un problema que combine m y cm",
+    "condiciones_curriculares": "Usar solo metros y centímetros y conversiones m↔cm.",
+    "contexto": "sendero"
+  },
+  {
+    "id": "MA04-OA-23-01",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 23",
+    "texto_oa": "Demostrar que comprenden el concepto de área de un rectángulo y de un cuadrado:\n• reconociendo que el área de una superficie se mide en unidades cuadradas\n• seleccionando y justificando la elección de la unidad estandarizada (cm² y m²)\n• determinando y registrando el área en cm² y m² en contextos cercanos\n• construyendo diferentes rectángulos para un área dada (cm² y m²) para mostrar que distintos rectángulos pueden tener la misma área\n• usando software geométrico.",
+    "habilidad_evaluada": "calcular área de un cuadrado",
+    "condiciones_curriculares": "Trabajar área de cuadrados y rectángulos en cm² o m²; entregar todas las dimensiones necesarias.",
+    "contexto": "piso"
+  },
+  {
+    "id": "MA04-OA-23-02",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 23",
+    "texto_oa": "Demostrar que comprenden el concepto de área de un rectángulo y de un cuadrado:\n• reconociendo que el área de una superficie se mide en unidades cuadradas\n• seleccionando y justificando la elección de la unidad estandarizada (cm² y m²)\n• determinando y registrando el área en cm² y m² en contextos cercanos\n• construyendo diferentes rectángulos para un área dada (cm² y m²) para mostrar que distintos rectángulos pueden tener la misma área\n• usando software geométrico.",
+    "habilidad_evaluada": "calcular área de un rectángulo",
+    "condiciones_curriculares": "Trabajar área de cuadrados y rectángulos en cm² o m²; entregar todas las dimensiones necesarias.",
+    "contexto": "jardín"
+  },
+  {
+    "id": "MA04-OA-23-03",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 23",
+    "texto_oa": "Demostrar que comprenden el concepto de área de un rectángulo y de un cuadrado:\n• reconociendo que el área de una superficie se mide en unidades cuadradas\n• seleccionando y justificando la elección de la unidad estandarizada (cm² y m²)\n• determinando y registrando el área en cm² y m² en contextos cercanos\n• construyendo diferentes rectángulos para un área dada (cm² y m²) para mostrar que distintos rectángulos pueden tener la misma área\n• usando software geométrico.",
+    "habilidad_evaluada": "seleccionar cm² o m²",
+    "condiciones_curriculares": "Trabajar área de cuadrados y rectángulos en cm² o m²; entregar todas las dimensiones necesarias.",
+    "contexto": "cartulina"
+  },
+  {
+    "id": "MA04-OA-23-04",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 23",
+    "texto_oa": "Demostrar que comprenden el concepto de área de un rectángulo y de un cuadrado:\n• reconociendo que el área de una superficie se mide en unidades cuadradas\n• seleccionando y justificando la elección de la unidad estandarizada (cm² y m²)\n• determinando y registrando el área en cm² y m² en contextos cercanos\n• construyendo diferentes rectángulos para un área dada (cm² y m²) para mostrar que distintos rectángulos pueden tener la misma área\n• usando software geométrico.",
+    "habilidad_evaluada": "comparar áreas de rectángulos",
+    "condiciones_curriculares": "Trabajar área de cuadrados y rectángulos en cm² o m²; entregar todas las dimensiones necesarias.",
+    "contexto": "pared"
+  },
+  {
+    "id": "MA04-OA-23-05",
+    "curso": "4° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA04 OA 23",
+    "texto_oa": "Demostrar que comprenden el concepto de área de un rectángulo y de un cuadrado:\n• reconociendo que el área de una superficie se mide en unidades cuadradas\n• seleccionando y justificando la elección de la unidad estandarizada (cm² y m²)\n• determinando y registrando el área en cm² y m² en contextos cercanos\n• construyendo diferentes rectángulos para un área dada (cm² y m²) para mostrar que distintos rectángulos pueden tener la misma área\n• usando software geométrico.",
+    "habilidad_evaluada": "determinar una dimensión a partir de un área sencilla",
+    "condiciones_curriculares": "Trabajar área de cuadrados y rectángulos en cm² o m²; entregar todas las dimensiones necesarias.",
+    "contexto": "cancha"
+  },
+  {
+    "id": "MA05-OA-01-01",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 01",
+    "texto_oa": "Representar y describir números naturales de hasta más de 6 dígitos y menores que 1 000 millones:\n• identificando el valor posicional de los dígitos\n• componiendo y descomponiendo números naturales en forma estándar y expandida aproximando cantidades\n• comparando y ordenando números naturales en este ámbito numérico\n• dando ejemplos de estos números naturales en contextos reales.",
+    "habilidad_evaluada": "identificar valor posicional",
+    "condiciones_curriculares": "Usar números naturales de más de seis dígitos y menores que 1 000 millones cuando corresponda.",
+    "contexto": "población ficticia"
+  },
+  {
+    "id": "MA05-OA-01-02",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 01",
+    "texto_oa": "Representar y describir números naturales de hasta más de 6 dígitos y menores que 1 000 millones:\n• identificando el valor posicional de los dígitos\n• componiendo y descomponiendo números naturales en forma estándar y expandida aproximando cantidades\n• comparando y ordenando números naturales en este ámbito numérico\n• dando ejemplos de estos números naturales en contextos reales.",
+    "habilidad_evaluada": "componer y descomponer números",
+    "condiciones_curriculares": "Usar números naturales de más de seis dígitos y menores que 1 000 millones cuando corresponda.",
+    "contexto": "visitas a sitios web"
+  },
+  {
+    "id": "MA05-OA-01-03",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 01",
+    "texto_oa": "Representar y describir números naturales de hasta más de 6 dígitos y menores que 1 000 millones:\n• identificando el valor posicional de los dígitos\n• componiendo y descomponiendo números naturales en forma estándar y expandida aproximando cantidades\n• comparando y ordenando números naturales en este ámbito numérico\n• dando ejemplos de estos números naturales en contextos reales.",
+    "habilidad_evaluada": "comparar números grandes",
+    "condiciones_curriculares": "Usar números naturales de más de seis dígitos y menores que 1 000 millones cuando corresponda.",
+    "contexto": "producción anual"
+  },
+  {
+    "id": "MA05-OA-01-04",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 01",
+    "texto_oa": "Representar y describir números naturales de hasta más de 6 dígitos y menores que 1 000 millones:\n• identificando el valor posicional de los dígitos\n• componiendo y descomponiendo números naturales en forma estándar y expandida aproximando cantidades\n• comparando y ordenando números naturales en este ámbito numérico\n• dando ejemplos de estos números naturales en contextos reales.",
+    "habilidad_evaluada": "ordenar números grandes",
+    "condiciones_curriculares": "Usar números naturales de más de seis dígitos y menores que 1 000 millones cuando corresponda.",
+    "contexto": "distancias acumuladas"
+  },
+  {
+    "id": "MA05-OA-01-05",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 01",
+    "texto_oa": "Representar y describir números naturales de hasta más de 6 dígitos y menores que 1 000 millones:\n• identificando el valor posicional de los dígitos\n• componiendo y descomponiendo números naturales en forma estándar y expandida aproximando cantidades\n• comparando y ordenando números naturales en este ámbito numérico\n• dando ejemplos de estos números naturales en contextos reales.",
+    "habilidad_evaluada": "aproximar una cantidad",
+    "condiciones_curriculares": "Usar números naturales de más de seis dígitos y menores que 1 000 millones cuando corresponda.",
+    "contexto": "colecciones masivas"
+  },
+  {
+    "id": "MA05-OA-03-01",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 03",
+    "texto_oa": "Demostrar que comprenden la multiplicación de números naturales de dos dígitos por números naturales de dos dígitos:\n• estimando productos\n• aplicando estrategias de cálculo mental\n• resolviendo problemas rutinarios y no rutinarios aplicando el algoritmo.",
+    "habilidad_evaluada": "multiplicar dos números de dos dígitos",
+    "condiciones_curriculares": "Usar multiplicaciones de dos dígitos por dos dígitos.",
+    "contexto": "asientos en filas"
+  },
+  {
+    "id": "MA05-OA-03-02",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 03",
+    "texto_oa": "Demostrar que comprenden la multiplicación de números naturales de dos dígitos por números naturales de dos dígitos:\n• estimando productos\n• aplicando estrategias de cálculo mental\n• resolviendo problemas rutinarios y no rutinarios aplicando el algoritmo.",
+    "habilidad_evaluada": "estimar un producto",
+    "condiciones_curriculares": "Usar multiplicaciones de dos dígitos por dos dígitos.",
+    "contexto": "cajas con productos"
+  },
+  {
+    "id": "MA05-OA-03-03",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 03",
+    "texto_oa": "Demostrar que comprenden la multiplicación de números naturales de dos dígitos por números naturales de dos dígitos:\n• estimando productos\n• aplicando estrategias de cálculo mental\n• resolviendo problemas rutinarios y no rutinarios aplicando el algoritmo.",
+    "habilidad_evaluada": "usar cálculo mental como apoyo",
+    "condiciones_curriculares": "Usar multiplicaciones de dos dígitos por dos dígitos.",
+    "contexto": "producción diaria"
+  },
+  {
+    "id": "MA05-OA-03-04",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 03",
+    "texto_oa": "Demostrar que comprenden la multiplicación de números naturales de dos dígitos por números naturales de dos dígitos:\n• estimando productos\n• aplicando estrategias de cálculo mental\n• resolviendo problemas rutinarios y no rutinarios aplicando el algoritmo.",
+    "habilidad_evaluada": "resolver un problema rutinario de multiplicación",
+    "condiciones_curriculares": "Usar multiplicaciones de dos dígitos por dos dígitos.",
+    "contexto": "paquetes"
+  },
+  {
+    "id": "MA05-OA-03-05",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 03",
+    "texto_oa": "Demostrar que comprenden la multiplicación de números naturales de dos dígitos por números naturales de dos dígitos:\n• estimando productos\n• aplicando estrategias de cálculo mental\n• resolviendo problemas rutinarios y no rutinarios aplicando el algoritmo.",
+    "habilidad_evaluada": "resolver un problema no rutinario de multiplicación",
+    "condiciones_curriculares": "Usar multiplicaciones de dos dígitos por dos dígitos.",
+    "contexto": "entradas vendidas"
+  },
+  {
+    "id": "MA05-OA-04-01",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 04",
+    "texto_oa": "Demostrar que comprenden la división con dividendos de tres dígitos y divisores de un dígito:\n• interpretando el resto\n• resolviendo problemas rutinarios y no rutinarios que impliquen divisiones.",
+    "habilidad_evaluada": "dividir un número de tres cifras por uno de una cifra",
+    "condiciones_curriculares": "Usar dividendos de tres dígitos y divisores de un dígito; interpretar el resto cuando aparezca.",
+    "contexto": "transporte escolar"
+  },
+  {
+    "id": "MA05-OA-04-02",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 04",
+    "texto_oa": "Demostrar que comprenden la división con dividendos de tres dígitos y divisores de un dígito:\n• interpretando el resto\n• resolviendo problemas rutinarios y no rutinarios que impliquen divisiones.",
+    "habilidad_evaluada": "interpretar el resto",
+    "condiciones_curriculares": "Usar dividendos de tres dígitos y divisores de un dígito; interpretar el resto cuando aparezca.",
+    "contexto": "paquetes"
+  },
+  {
+    "id": "MA05-OA-04-03",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 04",
+    "texto_oa": "Demostrar que comprenden la división con dividendos de tres dígitos y divisores de un dígito:\n• interpretando el resto\n• resolviendo problemas rutinarios y no rutinarios que impliquen divisiones.",
+    "habilidad_evaluada": "resolver un reparto con resto",
+    "condiciones_curriculares": "Usar dividendos de tres dígitos y divisores de un dígito; interpretar el resto cuando aparezca.",
+    "contexto": "equipos"
+  },
+  {
+    "id": "MA05-OA-04-04",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 04",
+    "texto_oa": "Demostrar que comprenden la división con dividendos de tres dígitos y divisores de un dígito:\n• interpretando el resto\n• resolviendo problemas rutinarios y no rutinarios que impliquen divisiones.",
+    "habilidad_evaluada": "resolver una agrupación con resto",
+    "condiciones_curriculares": "Usar dividendos de tres dígitos y divisores de un dígito; interpretar el resto cuando aparezca.",
+    "contexto": "cajas"
+  },
+  {
+    "id": "MA05-OA-04-05",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 04",
+    "texto_oa": "Demostrar que comprenden la división con dividendos de tres dígitos y divisores de un dígito:\n• interpretando el resto\n• resolviendo problemas rutinarios y no rutinarios que impliquen divisiones.",
+    "habilidad_evaluada": "resolver un problema no rutinario de división",
+    "condiciones_curriculares": "Usar dividendos de tres dígitos y divisores de un dígito; interpretar el resto cuando aparezca.",
+    "contexto": "reparto de materiales"
+  },
+  {
+    "id": "MA05-OA-05-01",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 05",
+    "texto_oa": "Realizar cálculos que involucren las cuatro operaciones, aplicando las reglas relativas a paréntesis y la prevalencia de la multiplicación y la división por sobre la adición y la sustracción cuando corresponda.",
+    "habilidad_evaluada": "aplicar prioridad de multiplicación",
+    "condiciones_curriculares": "Aplicar paréntesis y la precedencia de multiplicación\/división sobre adición\/sustracción.",
+    "contexto": "puntos de un juego"
+  },
+  {
+    "id": "MA05-OA-05-02",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 05",
+    "texto_oa": "Realizar cálculos que involucren las cuatro operaciones, aplicando las reglas relativas a paréntesis y la prevalencia de la multiplicación y la división por sobre la adición y la sustracción cuando corresponda.",
+    "habilidad_evaluada": "aplicar prioridad de división",
+    "condiciones_curriculares": "Aplicar paréntesis y la precedencia de multiplicación\/división sobre adición\/sustracción.",
+    "contexto": "inventario"
+  },
+  {
+    "id": "MA05-OA-05-03",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 05",
+    "texto_oa": "Realizar cálculos que involucren las cuatro operaciones, aplicando las reglas relativas a paréntesis y la prevalencia de la multiplicación y la división por sobre la adición y la sustracción cuando corresponda.",
+    "habilidad_evaluada": "resolver una expresión con paréntesis",
+    "condiciones_curriculares": "Aplicar paréntesis y la precedencia de multiplicación\/división sobre adición\/sustracción.",
+    "contexto": "presupuesto"
+  },
+  {
+    "id": "MA05-OA-05-04",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 05",
+    "texto_oa": "Realizar cálculos que involucren las cuatro operaciones, aplicando las reglas relativas a paréntesis y la prevalencia de la multiplicación y la división por sobre la adición y la sustracción cuando corresponda.",
+    "habilidad_evaluada": "resolver una expresión con las cuatro operaciones",
+    "condiciones_curriculares": "Aplicar paréntesis y la precedencia de multiplicación\/división sobre adición\/sustracción.",
+    "contexto": "producción"
+  },
+  {
+    "id": "MA05-OA-05-05",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 05",
+    "texto_oa": "Realizar cálculos que involucren las cuatro operaciones, aplicando las reglas relativas a paréntesis y la prevalencia de la multiplicación y la división por sobre la adición y la sustracción cuando corresponda.",
+    "habilidad_evaluada": "determinar el orden correcto de operaciones",
+    "condiciones_curriculares": "Aplicar paréntesis y la precedencia de multiplicación\/división sobre adición\/sustracción.",
+    "contexto": "entradas"
+  },
+  {
+    "id": "MA05-OA-06-01",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 06",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios que involucren las cuatro operaciones y combinaciones de ellas:\n• que incluyan situaciones con dinero\n• usando la calculadora y el computador en ámbitos numéricos superiores al 10 000.",
+    "habilidad_evaluada": "resolver un problema con dos operaciones",
+    "condiciones_curriculares": "Permitir las cuatro operaciones y combinaciones de ellas; incluir al menos algunos contextos con dinero.",
+    "contexto": "presupuesto de curso"
+  },
+  {
+    "id": "MA05-OA-06-02",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 06",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios que involucren las cuatro operaciones y combinaciones de ellas:\n• que incluyan situaciones con dinero\n• usando la calculadora y el computador en ámbitos numéricos superiores al 10 000.",
+    "habilidad_evaluada": "resolver un problema con tres operaciones",
+    "condiciones_curriculares": "Permitir las cuatro operaciones y combinaciones de ellas; incluir al menos algunos contextos con dinero.",
+    "contexto": "feria escolar"
+  },
+  {
+    "id": "MA05-OA-06-03",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 06",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios que involucren las cuatro operaciones y combinaciones de ellas:\n• que incluyan situaciones con dinero\n• usando la calculadora y el computador en ámbitos numéricos superiores al 10 000.",
+    "habilidad_evaluada": "resolver un problema con dinero",
+    "condiciones_curriculares": "Permitir las cuatro operaciones y combinaciones de ellas; incluir al menos algunos contextos con dinero.",
+    "contexto": "viaje"
+  },
+  {
+    "id": "MA05-OA-06-04",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 06",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios que involucren las cuatro operaciones y combinaciones de ellas:\n• que incluyan situaciones con dinero\n• usando la calculadora y el computador en ámbitos numéricos superiores al 10 000.",
+    "habilidad_evaluada": "seleccionar una combinación de operaciones",
+    "condiciones_curriculares": "Permitir las cuatro operaciones y combinaciones de ellas; incluir al menos algunos contextos con dinero.",
+    "contexto": "tienda"
+  },
+  {
+    "id": "MA05-OA-06-05",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 06",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios que involucren las cuatro operaciones y combinaciones de ellas:\n• que incluyan situaciones con dinero\n• usando la calculadora y el computador en ámbitos numéricos superiores al 10 000.",
+    "habilidad_evaluada": "resolver un problema no rutinario con las cuatro operaciones",
+    "condiciones_curriculares": "Permitir las cuatro operaciones y combinaciones de ellas; incluir al menos algunos contextos con dinero.",
+    "contexto": "evento deportivo"
+  },
+  {
+    "id": "MA05-OA-07-01",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 07",
+    "texto_oa": "Demostrar que comprenden las fracciones propias:\n• representándolas de manera concreta, pictórica y simbólica\n• creando grupos de fracciones equivalentes -simplificando y amplificando- de manera concreta, pictórica y simbólica, de forma manual y\/o con software educativo\n• comparando fracciones propias con igual y distinto denominador de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "interpretar una fracción propia",
+    "condiciones_curriculares": "Trabajar fracciones propias; las equivalencias deben poder resolverse simbólicamente sin imagen.",
+    "contexto": "recetas"
+  },
+  {
+    "id": "MA05-OA-07-02",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 07",
+    "texto_oa": "Demostrar que comprenden las fracciones propias:\n• representándolas de manera concreta, pictórica y simbólica\n• creando grupos de fracciones equivalentes -simplificando y amplificando- de manera concreta, pictórica y simbólica, de forma manual y\/o con software educativo\n• comparando fracciones propias con igual y distinto denominador de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "identificar fracciones equivalentes",
+    "condiciones_curriculares": "Trabajar fracciones propias; las equivalencias deben poder resolverse simbólicamente sin imagen.",
+    "contexto": "pizza"
+  },
+  {
+    "id": "MA05-OA-07-03",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 07",
+    "texto_oa": "Demostrar que comprenden las fracciones propias:\n• representándolas de manera concreta, pictórica y simbólica\n• creando grupos de fracciones equivalentes -simplificando y amplificando- de manera concreta, pictórica y simbólica, de forma manual y\/o con software educativo\n• comparando fracciones propias con igual y distinto denominador de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "simplificar una fracción",
+    "condiciones_curriculares": "Trabajar fracciones propias; las equivalencias deben poder resolverse simbólicamente sin imagen.",
+    "contexto": "huerto"
+  },
+  {
+    "id": "MA05-OA-07-04",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 07",
+    "texto_oa": "Demostrar que comprenden las fracciones propias:\n• representándolas de manera concreta, pictórica y simbólica\n• creando grupos de fracciones equivalentes -simplificando y amplificando- de manera concreta, pictórica y simbólica, de forma manual y\/o con software educativo\n• comparando fracciones propias con igual y distinto denominador de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "amplificar una fracción",
+    "condiciones_curriculares": "Trabajar fracciones propias; las equivalencias deben poder resolverse simbólicamente sin imagen.",
+    "contexto": "chocolate"
+  },
+  {
+    "id": "MA05-OA-07-05",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 07",
+    "texto_oa": "Demostrar que comprenden las fracciones propias:\n• representándolas de manera concreta, pictórica y simbólica\n• creando grupos de fracciones equivalentes -simplificando y amplificando- de manera concreta, pictórica y simbólica, de forma manual y\/o con software educativo\n• comparando fracciones propias con igual y distinto denominador de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "comparar fracciones propias con distinto denominador",
+    "condiciones_curriculares": "Trabajar fracciones propias; las equivalencias deben poder resolverse simbólicamente sin imagen.",
+    "contexto": "cinta"
+  },
+  {
+    "id": "MA05-OA-08-01",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 08",
+    "texto_oa": "Demostrar que comprenden las fracciones impropias de uso común de denominadores 2, 3, 4, 5, 6, 8, 10, 12 y los números mixtos asociados:\n• usando material concreto y pictórico para representarlas, de manera manual y\/o con software educativo\n• identificando y determinando equivalencias entre fracciones impropias y números mixtos\n• representando estas fracciones y estos números mixtos en la recta numérica.",
+    "habilidad_evaluada": "interpretar una fracción impropia",
+    "condiciones_curriculares": "Usar denominadores 2, 3, 4, 5, 6, 8, 10 o 12 y números mixtos asociados.",
+    "contexto": "pizzas"
+  },
+  {
+    "id": "MA05-OA-08-02",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 08",
+    "texto_oa": "Demostrar que comprenden las fracciones impropias de uso común de denominadores 2, 3, 4, 5, 6, 8, 10, 12 y los números mixtos asociados:\n• usando material concreto y pictórico para representarlas, de manera manual y\/o con software educativo\n• identificando y determinando equivalencias entre fracciones impropias y números mixtos\n• representando estas fracciones y estos números mixtos en la recta numérica.",
+    "habilidad_evaluada": "convertir fracción impropia a número mixto",
+    "condiciones_curriculares": "Usar denominadores 2, 3, 4, 5, 6, 8, 10 o 12 y números mixtos asociados.",
+    "contexto": "litros"
+  },
+  {
+    "id": "MA05-OA-08-03",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 08",
+    "texto_oa": "Demostrar que comprenden las fracciones impropias de uso común de denominadores 2, 3, 4, 5, 6, 8, 10, 12 y los números mixtos asociados:\n• usando material concreto y pictórico para representarlas, de manera manual y\/o con software educativo\n• identificando y determinando equivalencias entre fracciones impropias y números mixtos\n• representando estas fracciones y estos números mixtos en la recta numérica.",
+    "habilidad_evaluada": "convertir número mixto a fracción impropia",
+    "condiciones_curriculares": "Usar denominadores 2, 3, 4, 5, 6, 8, 10 o 12 y números mixtos asociados.",
+    "contexto": "metros de cuerda"
+  },
+  {
+    "id": "MA05-OA-08-04",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 08",
+    "texto_oa": "Demostrar que comprenden las fracciones impropias de uso común de denominadores 2, 3, 4, 5, 6, 8, 10, 12 y los números mixtos asociados:\n• usando material concreto y pictórico para representarlas, de manera manual y\/o con software educativo\n• identificando y determinando equivalencias entre fracciones impropias y números mixtos\n• representando estas fracciones y estos números mixtos en la recta numérica.",
+    "habilidad_evaluada": "identificar equivalencias",
+    "condiciones_curriculares": "Usar denominadores 2, 3, 4, 5, 6, 8, 10 o 12 y números mixtos asociados.",
+    "contexto": "recetas"
+  },
+  {
+    "id": "MA05-OA-08-05",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 08",
+    "texto_oa": "Demostrar que comprenden las fracciones impropias de uso común de denominadores 2, 3, 4, 5, 6, 8, 10, 12 y los números mixtos asociados:\n• usando material concreto y pictórico para representarlas, de manera manual y\/o con software educativo\n• identificando y determinando equivalencias entre fracciones impropias y números mixtos\n• representando estas fracciones y estos números mixtos en la recta numérica.",
+    "habilidad_evaluada": "comparar cantidades expresadas como impropias o mixtos",
+    "condiciones_curriculares": "Usar denominadores 2, 3, 4, 5, 6, 8, 10 o 12 y números mixtos asociados.",
+    "contexto": "chocolates"
+  },
+  {
+    "id": "MA05-OA-09-01",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 09",
+    "texto_oa": "Resolver adiciones y sustracciones con fracciones propias con denominadores menores o iguales a 12:\n• de manera pictórica y simbólica\n• amplificando o simplificando.",
+    "habilidad_evaluada": "sumar fracciones propias con igual denominador",
+    "condiciones_curriculares": "Usar fracciones propias con denominadores menores o iguales a 12.",
+    "contexto": "recetas"
+  },
+  {
+    "id": "MA05-OA-09-02",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 09",
+    "texto_oa": "Resolver adiciones y sustracciones con fracciones propias con denominadores menores o iguales a 12:\n• de manera pictórica y simbólica\n• amplificando o simplificando.",
+    "habilidad_evaluada": "restar fracciones propias con igual denominador",
+    "condiciones_curriculares": "Usar fracciones propias con denominadores menores o iguales a 12.",
+    "contexto": "cinta"
+  },
+  {
+    "id": "MA05-OA-09-03",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 09",
+    "texto_oa": "Resolver adiciones y sustracciones con fracciones propias con denominadores menores o iguales a 12:\n• de manera pictórica y simbólica\n• amplificando o simplificando.",
+    "habilidad_evaluada": "sumar fracciones con distinto denominador",
+    "condiciones_curriculares": "Usar fracciones propias con denominadores menores o iguales a 12.",
+    "contexto": "pizza"
+  },
+  {
+    "id": "MA05-OA-09-04",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 09",
+    "texto_oa": "Resolver adiciones y sustracciones con fracciones propias con denominadores menores o iguales a 12:\n• de manera pictórica y simbólica\n• amplificando o simplificando.",
+    "habilidad_evaluada": "restar fracciones con distinto denominador",
+    "condiciones_curriculares": "Usar fracciones propias con denominadores menores o iguales a 12.",
+    "contexto": "botellas"
+  },
+  {
+    "id": "MA05-OA-09-05",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 09",
+    "texto_oa": "Resolver adiciones y sustracciones con fracciones propias con denominadores menores o iguales a 12:\n• de manera pictórica y simbólica\n• amplificando o simplificando.",
+    "habilidad_evaluada": "resolver un problema con amplificación o simplificación",
+    "condiciones_curriculares": "Usar fracciones propias con denominadores menores o iguales a 12.",
+    "contexto": "huerto"
+  },
+  {
+    "id": "MA05-OA-10-01",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 10",
+    "texto_oa": "Determinar el decimal que corresponde a fracciones con denominador 2, 4, 5 y 10.",
+    "habilidad_evaluada": "convertir una mitad a decimal",
+    "condiciones_curriculares": "Usar fracciones con denominador 2, 4, 5 o 10.",
+    "contexto": "dinero"
+  },
+  {
+    "id": "MA05-OA-10-02",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 10",
+    "texto_oa": "Determinar el decimal que corresponde a fracciones con denominador 2, 4, 5 y 10.",
+    "habilidad_evaluada": "convertir cuartos a decimal",
+    "condiciones_curriculares": "Usar fracciones con denominador 2, 4, 5 o 10.",
+    "contexto": "medidas"
+  },
+  {
+    "id": "MA05-OA-10-03",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 10",
+    "texto_oa": "Determinar el decimal que corresponde a fracciones con denominador 2, 4, 5 y 10.",
+    "habilidad_evaluada": "convertir quintos a decimal",
+    "condiciones_curriculares": "Usar fracciones con denominador 2, 4, 5 o 10.",
+    "contexto": "recetas"
+  },
+  {
+    "id": "MA05-OA-10-04",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 10",
+    "texto_oa": "Determinar el decimal que corresponde a fracciones con denominador 2, 4, 5 y 10.",
+    "habilidad_evaluada": "convertir décimos a decimal",
+    "condiciones_curriculares": "Usar fracciones con denominador 2, 4, 5 o 10.",
+    "contexto": "porciones"
+  },
+  {
+    "id": "MA05-OA-10-05",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 10",
+    "texto_oa": "Determinar el decimal que corresponde a fracciones con denominador 2, 4, 5 y 10.",
+    "habilidad_evaluada": "identificar el decimal equivalente en contexto",
+    "condiciones_curriculares": "Usar fracciones con denominador 2, 4, 5 o 10.",
+    "contexto": "longitudes"
+  },
+  {
+    "id": "MA05-OA-11-01",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 11",
+    "texto_oa": "Comparar y ordenar decimales hasta la milésima.",
+    "habilidad_evaluada": "comparar dos decimales",
+    "condiciones_curriculares": "Usar números decimales hasta la milésima.",
+    "contexto": "tiempos deportivos"
+  },
+  {
+    "id": "MA05-OA-11-02",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 11",
+    "texto_oa": "Comparar y ordenar decimales hasta la milésima.",
+    "habilidad_evaluada": "ordenar decimales ascendentemente",
+    "condiciones_curriculares": "Usar números decimales hasta la milésima.",
+    "contexto": "longitudes"
+  },
+  {
+    "id": "MA05-OA-11-03",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 11",
+    "texto_oa": "Comparar y ordenar decimales hasta la milésima.",
+    "habilidad_evaluada": "ordenar decimales descendentemente",
+    "condiciones_curriculares": "Usar números decimales hasta la milésima.",
+    "contexto": "pesos"
+  },
+  {
+    "id": "MA05-OA-11-04",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 11",
+    "texto_oa": "Comparar y ordenar decimales hasta la milésima.",
+    "habilidad_evaluada": "identificar mayor o menor decimal",
+    "condiciones_curriculares": "Usar números decimales hasta la milésima.",
+    "contexto": "precios"
+  },
+  {
+    "id": "MA05-OA-11-05",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 11",
+    "texto_oa": "Comparar y ordenar decimales hasta la milésima.",
+    "habilidad_evaluada": "insertar un decimal en una secuencia ordenada",
+    "condiciones_curriculares": "Usar números decimales hasta la milésima.",
+    "contexto": "mediciones científicas simples"
+  },
+  {
+    "id": "MA05-OA-12-01",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 12",
+    "texto_oa": "Resolver adiciones y sustracciones de decimales, empleando el valor posicional hasta la milésima.",
+    "habilidad_evaluada": "sumar decimales",
+    "condiciones_curriculares": "Usar números decimales hasta la milésima.",
+    "contexto": "distancias"
+  },
+  {
+    "id": "MA05-OA-12-02",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 12",
+    "texto_oa": "Resolver adiciones y sustracciones de decimales, empleando el valor posicional hasta la milésima.",
+    "habilidad_evaluada": "restar decimales",
+    "condiciones_curriculares": "Usar números decimales hasta la milésima.",
+    "contexto": "dinero"
+  },
+  {
+    "id": "MA05-OA-12-03",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 12",
+    "texto_oa": "Resolver adiciones y sustracciones de decimales, empleando el valor posicional hasta la milésima.",
+    "habilidad_evaluada": "resolver un problema de suma decimal",
+    "condiciones_curriculares": "Usar números decimales hasta la milésima.",
+    "contexto": "masa"
+  },
+  {
+    "id": "MA05-OA-12-04",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 12",
+    "texto_oa": "Resolver adiciones y sustracciones de decimales, empleando el valor posicional hasta la milésima.",
+    "habilidad_evaluada": "resolver un problema de resta decimal",
+    "condiciones_curriculares": "Usar números decimales hasta la milésima.",
+    "contexto": "volumen de líquidos"
+  },
+  {
+    "id": "MA05-OA-12-05",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 12",
+    "texto_oa": "Resolver adiciones y sustracciones de decimales, empleando el valor posicional hasta la milésima.",
+    "habilidad_evaluada": "combinar suma y resta decimal en una situación simple",
+    "condiciones_curriculares": "Usar números decimales hasta la milésima.",
+    "contexto": "marcas deportivas"
+  },
+  {
+    "id": "MA05-OA-13-01",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 13",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios, aplicando adiciones y sustracciones de fracciones propias o decimales hasta la milésima.",
+    "habilidad_evaluada": "resolver adición de fracciones en contexto",
+    "condiciones_curriculares": "Usar fracciones propias o decimales hasta la milésima; mantener el problema resoluble sin apoyo visual.",
+    "contexto": "recetas"
+  },
+  {
+    "id": "MA05-OA-13-02",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 13",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios, aplicando adiciones y sustracciones de fracciones propias o decimales hasta la milésima.",
+    "habilidad_evaluada": "resolver sustracción de fracciones en contexto",
+    "condiciones_curriculares": "Usar fracciones propias o decimales hasta la milésima; mantener el problema resoluble sin apoyo visual.",
+    "contexto": "distancias"
+  },
+  {
+    "id": "MA05-OA-13-03",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 13",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios, aplicando adiciones y sustracciones de fracciones propias o decimales hasta la milésima.",
+    "habilidad_evaluada": "resolver adición de decimales en contexto",
+    "condiciones_curriculares": "Usar fracciones propias o decimales hasta la milésima; mantener el problema resoluble sin apoyo visual.",
+    "contexto": "dinero"
+  },
+  {
+    "id": "MA05-OA-13-04",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 13",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios, aplicando adiciones y sustracciones de fracciones propias o decimales hasta la milésima.",
+    "habilidad_evaluada": "resolver sustracción de decimales en contexto",
+    "condiciones_curriculares": "Usar fracciones propias o decimales hasta la milésima; mantener el problema resoluble sin apoyo visual.",
+    "contexto": "líquidos"
+  },
+  {
+    "id": "MA05-OA-13-05",
+    "curso": "5° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA05 OA 13",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios, aplicando adiciones y sustracciones de fracciones propias o decimales hasta la milésima.",
+    "habilidad_evaluada": "resolver un problema no rutinario con fracciones o decimales",
+    "condiciones_curriculares": "Usar fracciones propias o decimales hasta la milésima; mantener el problema resoluble sin apoyo visual.",
+    "contexto": "materiales"
+  },
+  {
+    "id": "MA05-OA-15-01",
+    "curso": "5° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA05 OA 15",
+    "texto_oa": "Resolver problemas, usando ecuaciones e inecuaciones de un paso, que involucren adiciones y sustracciones, en forma pictórica y simbólica.",
+    "habilidad_evaluada": "resolver una ecuación de suma",
+    "condiciones_curriculares": "Usar ecuaciones e inecuaciones de un paso con adición o sustracción.",
+    "contexto": "ahorro"
+  },
+  {
+    "id": "MA05-OA-15-02",
+    "curso": "5° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA05 OA 15",
+    "texto_oa": "Resolver problemas, usando ecuaciones e inecuaciones de un paso, que involucren adiciones y sustracciones, en forma pictórica y simbólica.",
+    "habilidad_evaluada": "resolver una ecuación de resta",
+    "condiciones_curriculares": "Usar ecuaciones e inecuaciones de un paso con adición o sustracción.",
+    "contexto": "colecciones"
+  },
+  {
+    "id": "MA05-OA-15-03",
+    "curso": "5° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA05 OA 15",
+    "texto_oa": "Resolver problemas, usando ecuaciones e inecuaciones de un paso, que involucren adiciones y sustracciones, en forma pictórica y simbólica.",
+    "habilidad_evaluada": "resolver una inecuación de suma",
+    "condiciones_curriculares": "Usar ecuaciones e inecuaciones de un paso con adición o sustracción.",
+    "contexto": "entradas"
+  },
+  {
+    "id": "MA05-OA-15-04",
+    "curso": "5° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA05 OA 15",
+    "texto_oa": "Resolver problemas, usando ecuaciones e inecuaciones de un paso, que involucren adiciones y sustracciones, en forma pictórica y simbólica.",
+    "habilidad_evaluada": "resolver una inecuación de resta",
+    "condiciones_curriculares": "Usar ecuaciones e inecuaciones de un paso con adición o sustracción.",
+    "contexto": "puntajes"
+  },
+  {
+    "id": "MA05-OA-15-05",
+    "curso": "5° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA05 OA 15",
+    "texto_oa": "Resolver problemas, usando ecuaciones e inecuaciones de un paso, que involucren adiciones y sustracciones, en forma pictórica y simbólica.",
+    "habilidad_evaluada": "modelar una situación con ecuación o inecuación de un paso",
+    "condiciones_curriculares": "Usar ecuaciones e inecuaciones de un paso con adición o sustracción.",
+    "contexto": "cantidad de materiales"
+  },
+  {
+    "id": "MA05-OA-20-01",
+    "curso": "5° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA05 OA 20",
+    "texto_oa": "Realizar transformaciones entre unidades de medidas de longitud: km a m, m a cm, cm a mm y viceversa, de manera manual y\/o usando software educativo.",
+    "habilidad_evaluada": "convertir km a m",
+    "condiciones_curriculares": "Usar transformaciones entre km, m, cm y mm según corresponda.",
+    "contexto": "viajes"
+  },
+  {
+    "id": "MA05-OA-20-02",
+    "curso": "5° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA05 OA 20",
+    "texto_oa": "Realizar transformaciones entre unidades de medidas de longitud: km a m, m a cm, cm a mm y viceversa, de manera manual y\/o usando software educativo.",
+    "habilidad_evaluada": "convertir m a km",
+    "condiciones_curriculares": "Usar transformaciones entre km, m, cm y mm según corresponda.",
+    "contexto": "senderos"
+  },
+  {
+    "id": "MA05-OA-20-03",
+    "curso": "5° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA05 OA 20",
+    "texto_oa": "Realizar transformaciones entre unidades de medidas de longitud: km a m, m a cm, cm a mm y viceversa, de manera manual y\/o usando software educativo.",
+    "habilidad_evaluada": "convertir m a cm",
+    "condiciones_curriculares": "Usar transformaciones entre km, m, cm y mm según corresponda.",
+    "contexto": "construcción"
+  },
+  {
+    "id": "MA05-OA-20-04",
+    "curso": "5° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA05 OA 20",
+    "texto_oa": "Realizar transformaciones entre unidades de medidas de longitud: km a m, m a cm, cm a mm y viceversa, de manera manual y\/o usando software educativo.",
+    "habilidad_evaluada": "convertir cm a mm",
+    "condiciones_curriculares": "Usar transformaciones entre km, m, cm y mm según corresponda.",
+    "contexto": "manualidades"
+  },
+  {
+    "id": "MA05-OA-20-05",
+    "curso": "5° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA05 OA 20",
+    "texto_oa": "Realizar transformaciones entre unidades de medidas de longitud: km a m, m a cm, cm a mm y viceversa, de manera manual y\/o usando software educativo.",
+    "habilidad_evaluada": "resolver un problema con dos unidades de longitud",
+    "condiciones_curriculares": "Usar transformaciones entre km, m, cm y mm según corresponda.",
+    "contexto": "medición de objetos"
+  },
+  {
+    "id": "MA05-OA-22-01",
+    "curso": "5° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA05 OA 22",
+    "texto_oa": "Calcular áreas de triángulos, de paralelogramos y de trapecios, y estimar áreas de figuras irregulares aplicando las siguientes estrategias:\n• conteo de cuadrículas\n• comparación con el área de un rectángulo\n• completar figuras por traslación.",
+    "habilidad_evaluada": "calcular área de un triángulo",
+    "condiciones_curriculares": "Trabajar áreas de triángulos, paralelogramos, trapecios o figuras irregulares con dimensiones explícitas y sin depender de una imagen.",
+    "contexto": "jardín"
+  },
+  {
+    "id": "MA05-OA-22-02",
+    "curso": "5° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA05 OA 22",
+    "texto_oa": "Calcular áreas de triángulos, de paralelogramos y de trapecios, y estimar áreas de figuras irregulares aplicando las siguientes estrategias:\n• conteo de cuadrículas\n• comparación con el área de un rectángulo\n• completar figuras por traslación.",
+    "habilidad_evaluada": "calcular área de un paralelogramo",
+    "condiciones_curriculares": "Trabajar áreas de triángulos, paralelogramos, trapecios o figuras irregulares con dimensiones explícitas y sin depender de una imagen.",
+    "contexto": "terreno"
+  },
+  {
+    "id": "MA05-OA-22-03",
+    "curso": "5° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA05 OA 22",
+    "texto_oa": "Calcular áreas de triángulos, de paralelogramos y de trapecios, y estimar áreas de figuras irregulares aplicando las siguientes estrategias:\n• conteo de cuadrículas\n• comparación con el área de un rectángulo\n• completar figuras por traslación.",
+    "habilidad_evaluada": "calcular área de un trapecio",
+    "condiciones_curriculares": "Trabajar áreas de triángulos, paralelogramos, trapecios o figuras irregulares con dimensiones explícitas y sin depender de una imagen.",
+    "contexto": "cartulina"
+  },
+  {
+    "id": "MA05-OA-22-04",
+    "curso": "5° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA05 OA 22",
+    "texto_oa": "Calcular áreas de triángulos, de paralelogramos y de trapecios, y estimar áreas de figuras irregulares aplicando las siguientes estrategias:\n• conteo de cuadrículas\n• comparación con el área de un rectángulo\n• completar figuras por traslación.",
+    "habilidad_evaluada": "estimar área de una figura irregular descrita",
+    "condiciones_curriculares": "Trabajar áreas de triángulos, paralelogramos, trapecios o figuras irregulares con dimensiones explícitas y sin depender de una imagen.",
+    "contexto": "piso"
+  },
+  {
+    "id": "MA05-OA-22-05",
+    "curso": "5° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA05 OA 22",
+    "texto_oa": "Calcular áreas de triángulos, de paralelogramos y de trapecios, y estimar áreas de figuras irregulares aplicando las siguientes estrategias:\n• conteo de cuadrículas\n• comparación con el área de un rectángulo\n• completar figuras por traslación.",
+    "habilidad_evaluada": "comparar áreas de figuras",
+    "condiciones_curriculares": "Trabajar áreas de triángulos, paralelogramos, trapecios o figuras irregulares con dimensiones explícitas y sin depender de una imagen.",
+    "contexto": "señalética"
+  },
+  {
+    "id": "MA05-OA-23-01",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 23",
+    "texto_oa": "Calcular el promedio de datos e interpretarlo en su contexto.",
+    "habilidad_evaluada": "calcular un promedio",
+    "condiciones_curriculares": "Entregar un conjunto pequeño de datos numéricos apropiados para 5° básico.",
+    "contexto": "puntajes"
+  },
+  {
+    "id": "MA05-OA-23-02",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 23",
+    "texto_oa": "Calcular el promedio de datos e interpretarlo en su contexto.",
+    "habilidad_evaluada": "interpretar un promedio",
+    "condiciones_curriculares": "Entregar un conjunto pequeño de datos numéricos apropiados para 5° básico.",
+    "contexto": "temperaturas"
+  },
+  {
+    "id": "MA05-OA-23-03",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 23",
+    "texto_oa": "Calcular el promedio de datos e interpretarlo en su contexto.",
+    "habilidad_evaluada": "comparar un dato con el promedio",
+    "condiciones_curriculares": "Entregar un conjunto pequeño de datos numéricos apropiados para 5° básico.",
+    "contexto": "libros leídos"
+  },
+  {
+    "id": "MA05-OA-23-04",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 23",
+    "texto_oa": "Calcular el promedio de datos e interpretarlo en su contexto.",
+    "habilidad_evaluada": "hallar un dato faltante a partir de un promedio sencillo",
+    "condiciones_curriculares": "Entregar un conjunto pequeño de datos numéricos apropiados para 5° básico.",
+    "contexto": "tiempos"
+  },
+  {
+    "id": "MA05-OA-23-05",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 23",
+    "texto_oa": "Calcular el promedio de datos e interpretarlo en su contexto.",
+    "habilidad_evaluada": "usar el promedio para responder una pregunta contextual",
+    "condiciones_curriculares": "Entregar un conjunto pequeño de datos numéricos apropiados para 5° básico.",
+    "contexto": "ventas"
+  },
+  {
+    "id": "MA05-OA-24-01",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 24",
+    "texto_oa": "Describir la posibilidad de ocurrencia de un evento en base a un experimento aleatorio, empleando los términos seguro - posible - poco posible - imposible.",
+    "habilidad_evaluada": "clasificar un evento como seguro",
+    "condiciones_curriculares": "Usar los términos seguro, posible, poco posible e imposible; no requerir cálculo formal de probabilidad.",
+    "contexto": "dados"
+  },
+  {
+    "id": "MA05-OA-24-02",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 24",
+    "texto_oa": "Describir la posibilidad de ocurrencia de un evento en base a un experimento aleatorio, empleando los términos seguro - posible - poco posible - imposible.",
+    "habilidad_evaluada": "clasificar un evento como posible",
+    "condiciones_curriculares": "Usar los términos seguro, posible, poco posible e imposible; no requerir cálculo formal de probabilidad.",
+    "contexto": "monedas"
+  },
+  {
+    "id": "MA05-OA-24-03",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 24",
+    "texto_oa": "Describir la posibilidad de ocurrencia de un evento en base a un experimento aleatorio, empleando los términos seguro - posible - poco posible - imposible.",
+    "habilidad_evaluada": "clasificar un evento como poco posible",
+    "condiciones_curriculares": "Usar los términos seguro, posible, poco posible e imposible; no requerir cálculo formal de probabilidad.",
+    "contexto": "bolsas con fichas"
+  },
+  {
+    "id": "MA05-OA-24-04",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 24",
+    "texto_oa": "Describir la posibilidad de ocurrencia de un evento en base a un experimento aleatorio, empleando los términos seguro - posible - poco posible - imposible.",
+    "habilidad_evaluada": "clasificar un evento como imposible",
+    "condiciones_curriculares": "Usar los términos seguro, posible, poco posible e imposible; no requerir cálculo formal de probabilidad.",
+    "contexto": "ruletas descritas en texto"
+  },
+  {
+    "id": "MA05-OA-24-05",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 24",
+    "texto_oa": "Describir la posibilidad de ocurrencia de un evento en base a un experimento aleatorio, empleando los términos seguro - posible - poco posible - imposible.",
+    "habilidad_evaluada": "comparar cualitativamente la posibilidad de eventos",
+    "condiciones_curriculares": "Usar los términos seguro, posible, poco posible e imposible; no requerir cálculo formal de probabilidad.",
+    "contexto": "situaciones cotidianas"
+  },
+  {
+    "id": "MA05-OA-25-01",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 25",
+    "texto_oa": "Comparar probabilidades de distintos eventos sin calcularlas.",
+    "habilidad_evaluada": "comparar probabilidad de dos eventos",
+    "condiciones_curriculares": "Comparar probabilidades sin calcular valores numéricos formales.",
+    "contexto": "dados"
+  },
+  {
+    "id": "MA05-OA-25-02",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 25",
+    "texto_oa": "Comparar probabilidades de distintos eventos sin calcularlas.",
+    "habilidad_evaluada": "identificar el evento más probable",
+    "condiciones_curriculares": "Comparar probabilidades sin calcular valores numéricos formales.",
+    "contexto": "monedas"
+  },
+  {
+    "id": "MA05-OA-25-03",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 25",
+    "texto_oa": "Comparar probabilidades de distintos eventos sin calcularlas.",
+    "habilidad_evaluada": "identificar el evento menos probable",
+    "condiciones_curriculares": "Comparar probabilidades sin calcular valores numéricos formales.",
+    "contexto": "bolsas con fichas"
+  },
+  {
+    "id": "MA05-OA-25-04",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 25",
+    "texto_oa": "Comparar probabilidades de distintos eventos sin calcularlas.",
+    "habilidad_evaluada": "comparar eventos equiprobables",
+    "condiciones_curriculares": "Comparar probabilidades sin calcular valores numéricos formales.",
+    "contexto": "sorteos"
+  },
+  {
+    "id": "MA05-OA-25-05",
+    "curso": "5° básico",
+    "eje": "Datos y probabilidades",
+    "codigo_oa": "MA05 OA 25",
+    "texto_oa": "Comparar probabilidades de distintos eventos sin calcularlas.",
+    "habilidad_evaluada": "justificar una comparación cualitativa",
+    "condiciones_curriculares": "Comparar probabilidades sin calcular valores numéricos formales.",
+    "contexto": "ruletas descritas en texto"
+  },
+  {
+    "id": "MA06-OA-01-01",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 01",
+    "texto_oa": "Demostrar que comprenden los factores y múltiplos:\n• determinando los múltiplos y factores de números naturales menores de 100\n• identificando números primos y compuestos\n• resolviendo problemas que involucran múltiplos.",
+    "habilidad_evaluada": "identificar factores",
+    "condiciones_curriculares": "Usar números naturales menores de 100 cuando se trabajen factores y múltiplos.",
+    "contexto": "turnos periódicos"
+  },
+  {
+    "id": "MA06-OA-01-02",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 01",
+    "texto_oa": "Demostrar que comprenden los factores y múltiplos:\n• determinando los múltiplos y factores de números naturales menores de 100\n• identificando números primos y compuestos\n• resolviendo problemas que involucran múltiplos.",
+    "habilidad_evaluada": "identificar múltiplos",
+    "condiciones_curriculares": "Usar números naturales menores de 100 cuando se trabajen factores y múltiplos.",
+    "contexto": "paquetes"
+  },
+  {
+    "id": "MA06-OA-01-03",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 01",
+    "texto_oa": "Demostrar que comprenden los factores y múltiplos:\n• determinando los múltiplos y factores de números naturales menores de 100\n• identificando números primos y compuestos\n• resolviendo problemas que involucran múltiplos.",
+    "habilidad_evaluada": "determinar si un número es primo o compuesto",
+    "condiciones_curriculares": "Usar números naturales menores de 100 cuando se trabajen factores y múltiplos.",
+    "contexto": "filas"
+  },
+  {
+    "id": "MA06-OA-01-04",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 01",
+    "texto_oa": "Demostrar que comprenden los factores y múltiplos:\n• determinando los múltiplos y factores de números naturales menores de 100\n• identificando números primos y compuestos\n• resolviendo problemas que involucran múltiplos.",
+    "habilidad_evaluada": "resolver un problema con múltiplos",
+    "condiciones_curriculares": "Usar números naturales menores de 100 cuando se trabajen factores y múltiplos.",
+    "contexto": "agrupaciones"
+  },
+  {
+    "id": "MA06-OA-01-05",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 01",
+    "texto_oa": "Demostrar que comprenden los factores y múltiplos:\n• determinando los múltiplos y factores de números naturales menores de 100\n• identificando números primos y compuestos\n• resolviendo problemas que involucran múltiplos.",
+    "habilidad_evaluada": "usar factores en una situación contextual",
+    "condiciones_curriculares": "Usar números naturales menores de 100 cuando se trabajen factores y múltiplos.",
+    "contexto": "calendario de actividades"
+  },
+  {
+    "id": "MA06-OA-02-01",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 02",
+    "texto_oa": "Realizar cálculos que involucren las cuatro operaciones en el contexto de la resolución de problemas, utilizando la calculadora en ámbitos superiores a 10 000.",
+    "habilidad_evaluada": "resolver un problema con adición y sustracción",
+    "condiciones_curriculares": "Involucrar las cuatro operaciones en resolución de problemas; se permiten ámbitos superiores a 10 000.",
+    "contexto": "presupuesto"
+  },
+  {
+    "id": "MA06-OA-02-02",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 02",
+    "texto_oa": "Realizar cálculos que involucren las cuatro operaciones en el contexto de la resolución de problemas, utilizando la calculadora en ámbitos superiores a 10 000.",
+    "habilidad_evaluada": "resolver un problema con multiplicación y división",
+    "condiciones_curriculares": "Involucrar las cuatro operaciones en resolución de problemas; se permiten ámbitos superiores a 10 000.",
+    "contexto": "producción"
+  },
+  {
+    "id": "MA06-OA-02-03",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 02",
+    "texto_oa": "Realizar cálculos que involucren las cuatro operaciones en el contexto de la resolución de problemas, utilizando la calculadora en ámbitos superiores a 10 000.",
+    "habilidad_evaluada": "resolver un problema con varias operaciones",
+    "condiciones_curriculares": "Involucrar las cuatro operaciones en resolución de problemas; se permiten ámbitos superiores a 10 000.",
+    "contexto": "población ficticia"
+  },
+  {
+    "id": "MA06-OA-02-04",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 02",
+    "texto_oa": "Realizar cálculos que involucren las cuatro operaciones en el contexto de la resolución de problemas, utilizando la calculadora en ámbitos superiores a 10 000.",
+    "habilidad_evaluada": "seleccionar operaciones necesarias",
+    "condiciones_curriculares": "Involucrar las cuatro operaciones en resolución de problemas; se permiten ámbitos superiores a 10 000.",
+    "contexto": "ventas"
+  },
+  {
+    "id": "MA06-OA-02-05",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 02",
+    "texto_oa": "Realizar cálculos que involucren las cuatro operaciones en el contexto de la resolución de problemas, utilizando la calculadora en ámbitos superiores a 10 000.",
+    "habilidad_evaluada": "resolver un problema con números mayores a 10 000",
+    "condiciones_curriculares": "Involucrar las cuatro operaciones en resolución de problemas; se permiten ámbitos superiores a 10 000.",
+    "contexto": "viaje"
+  },
+  {
+    "id": "MA06-OA-03-01",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 03",
+    "texto_oa": "Demostrar que comprenden el concepto de razón de manera concreta, pictórica y simbólica, en forma manual y\/o usando software educativo.",
+    "habilidad_evaluada": "interpretar una razón",
+    "condiciones_curriculares": "Trabajar el concepto de razón con cantidades discretas o medidas simples; expresar la información de forma textual.",
+    "contexto": "mezclas"
+  },
+  {
+    "id": "MA06-OA-03-02",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 03",
+    "texto_oa": "Demostrar que comprenden el concepto de razón de manera concreta, pictórica y simbólica, en forma manual y\/o usando software educativo.",
+    "habilidad_evaluada": "escribir una razón",
+    "condiciones_curriculares": "Trabajar el concepto de razón con cantidades discretas o medidas simples; expresar la información de forma textual.",
+    "contexto": "equipos"
+  },
+  {
+    "id": "MA06-OA-03-03",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 03",
+    "texto_oa": "Demostrar que comprenden el concepto de razón de manera concreta, pictórica y simbólica, en forma manual y\/o usando software educativo.",
+    "habilidad_evaluada": "comparar dos cantidades mediante una razón",
+    "condiciones_curriculares": "Trabajar el concepto de razón con cantidades discretas o medidas simples; expresar la información de forma textual.",
+    "contexto": "recetas"
+  },
+  {
+    "id": "MA06-OA-03-04",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 03",
+    "texto_oa": "Demostrar que comprenden el concepto de razón de manera concreta, pictórica y simbólica, en forma manual y\/o usando software educativo.",
+    "habilidad_evaluada": "hallar una cantidad a partir de una razón sencilla",
+    "condiciones_curriculares": "Trabajar el concepto de razón con cantidades discretas o medidas simples; expresar la información de forma textual.",
+    "contexto": "colecciones"
+  },
+  {
+    "id": "MA06-OA-03-05",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 03",
+    "texto_oa": "Demostrar que comprenden el concepto de razón de manera concreta, pictórica y simbólica, en forma manual y\/o usando software educativo.",
+    "habilidad_evaluada": "resolver un problema contextual de razones",
+    "condiciones_curriculares": "Trabajar el concepto de razón con cantidades discretas o medidas simples; expresar la información de forma textual.",
+    "contexto": "mapas a escala simplificados"
+  },
+  {
+    "id": "MA06-OA-04-01",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 04",
+    "texto_oa": "Demostrar que comprenden el concepto de porcentaje de manera concreta, pictórica y simbólica, de forma manual y\/o usando software educativo.",
+    "habilidad_evaluada": "interpretar un porcentaje",
+    "condiciones_curriculares": "Usar porcentajes y cantidades apropiadas para 6° básico; priorizar valores que permitan cálculo claro.",
+    "contexto": "descuentos"
+  },
+  {
+    "id": "MA06-OA-04-02",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 04",
+    "texto_oa": "Demostrar que comprenden el concepto de porcentaje de manera concreta, pictórica y simbólica, de forma manual y\/o usando software educativo.",
+    "habilidad_evaluada": "calcular un porcentaje sencillo",
+    "condiciones_curriculares": "Usar porcentajes y cantidades apropiadas para 6° básico; priorizar valores que permitan cálculo claro.",
+    "contexto": "encuestas"
+  },
+  {
+    "id": "MA06-OA-04-03",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 04",
+    "texto_oa": "Demostrar que comprenden el concepto de porcentaje de manera concreta, pictórica y simbólica, de forma manual y\/o usando software educativo.",
+    "habilidad_evaluada": "hallar la parte correspondiente a un porcentaje",
+    "condiciones_curriculares": "Usar porcentajes y cantidades apropiadas para 6° básico; priorizar valores que permitan cálculo claro.",
+    "contexto": "avance de tareas"
+  },
+  {
+    "id": "MA06-OA-04-04",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 04",
+    "texto_oa": "Demostrar que comprenden el concepto de porcentaje de manera concreta, pictórica y simbólica, de forma manual y\/o usando software educativo.",
+    "habilidad_evaluada": "comparar porcentajes",
+    "condiciones_curriculares": "Usar porcentajes y cantidades apropiadas para 6° básico; priorizar valores que permitan cálculo claro.",
+    "contexto": "asistencia"
+  },
+  {
+    "id": "MA06-OA-04-05",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 04",
+    "texto_oa": "Demostrar que comprenden el concepto de porcentaje de manera concreta, pictórica y simbólica, de forma manual y\/o usando software educativo.",
+    "habilidad_evaluada": "resolver un problema contextual de porcentaje",
+    "condiciones_curriculares": "Usar porcentajes y cantidades apropiadas para 6° básico; priorizar valores que permitan cálculo claro.",
+    "contexto": "ahorro"
+  },
+  {
+    "id": "MA06-OA-05-01",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 05",
+    "texto_oa": "Demostrar que comprenden las fracciones y números mixtos:\n• identificando y determinando equivalencias entre fracciones impropias y números mixtos, usando material concreto y representaciones pictóricas de manera manual y\/o con software educativo\n• representando estos números en la recta numérica.",
+    "habilidad_evaluada": "convertir fracción impropia a número mixto",
+    "condiciones_curriculares": "Trabajar fracciones impropias y números mixtos, con equivalencias resolubles simbólicamente.",
+    "contexto": "recetas"
+  },
+  {
+    "id": "MA06-OA-05-02",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 05",
+    "texto_oa": "Demostrar que comprenden las fracciones y números mixtos:\n• identificando y determinando equivalencias entre fracciones impropias y números mixtos, usando material concreto y representaciones pictóricas de manera manual y\/o con software educativo\n• representando estos números en la recta numérica.",
+    "habilidad_evaluada": "convertir número mixto a fracción impropia",
+    "condiciones_curriculares": "Trabajar fracciones impropias y números mixtos, con equivalencias resolubles simbólicamente.",
+    "contexto": "pizzas"
+  },
+  {
+    "id": "MA06-OA-05-03",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 05",
+    "texto_oa": "Demostrar que comprenden las fracciones y números mixtos:\n• identificando y determinando equivalencias entre fracciones impropias y números mixtos, usando material concreto y representaciones pictóricas de manera manual y\/o con software educativo\n• representando estos números en la recta numérica.",
+    "habilidad_evaluada": "identificar equivalencias",
+    "condiciones_curriculares": "Trabajar fracciones impropias y números mixtos, con equivalencias resolubles simbólicamente.",
+    "contexto": "litros"
+  },
+  {
+    "id": "MA06-OA-05-04",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 05",
+    "texto_oa": "Demostrar que comprenden las fracciones y números mixtos:\n• identificando y determinando equivalencias entre fracciones impropias y números mixtos, usando material concreto y representaciones pictóricas de manera manual y\/o con software educativo\n• representando estos números en la recta numérica.",
+    "habilidad_evaluada": "comparar una impropia y un número mixto",
+    "condiciones_curriculares": "Trabajar fracciones impropias y números mixtos, con equivalencias resolubles simbólicamente.",
+    "contexto": "metros de cuerda"
+  },
+  {
+    "id": "MA06-OA-05-05",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 05",
+    "texto_oa": "Demostrar que comprenden las fracciones y números mixtos:\n• identificando y determinando equivalencias entre fracciones impropias y números mixtos, usando material concreto y representaciones pictóricas de manera manual y\/o con software educativo\n• representando estos números en la recta numérica.",
+    "habilidad_evaluada": "interpretar una cantidad mixta en contexto",
+    "condiciones_curriculares": "Trabajar fracciones impropias y números mixtos, con equivalencias resolubles simbólicamente.",
+    "contexto": "chocolates"
+  },
+  {
+    "id": "MA06-OA-06-01",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 06",
+    "texto_oa": "Resolver adiciones y sustracciones de fracciones propias e impropias y números mixtos con numeradores y denominadores de hasta dos dígitos.",
+    "habilidad_evaluada": "sumar fracciones propias",
+    "condiciones_curriculares": "Usar numeradores y denominadores de hasta dos dígitos.",
+    "contexto": "recetas"
+  },
+  {
+    "id": "MA06-OA-06-02",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 06",
+    "texto_oa": "Resolver adiciones y sustracciones de fracciones propias e impropias y números mixtos con numeradores y denominadores de hasta dos dígitos.",
+    "habilidad_evaluada": "restar fracciones propias",
+    "condiciones_curriculares": "Usar numeradores y denominadores de hasta dos dígitos.",
+    "contexto": "distancias"
+  },
+  {
+    "id": "MA06-OA-06-03",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 06",
+    "texto_oa": "Resolver adiciones y sustracciones de fracciones propias e impropias y números mixtos con numeradores y denominadores de hasta dos dígitos.",
+    "habilidad_evaluada": "sumar fracciones impropias",
+    "condiciones_curriculares": "Usar numeradores y denominadores de hasta dos dígitos.",
+    "contexto": "materiales"
+  },
+  {
+    "id": "MA06-OA-06-04",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 06",
+    "texto_oa": "Resolver adiciones y sustracciones de fracciones propias e impropias y números mixtos con numeradores y denominadores de hasta dos dígitos.",
+    "habilidad_evaluada": "operar números mixtos",
+    "condiciones_curriculares": "Usar numeradores y denominadores de hasta dos dígitos.",
+    "contexto": "líquidos"
+  },
+  {
+    "id": "MA06-OA-06-05",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 06",
+    "texto_oa": "Resolver adiciones y sustracciones de fracciones propias e impropias y números mixtos con numeradores y denominadores de hasta dos dígitos.",
+    "habilidad_evaluada": "resolver un problema que combine suma y resta de fracciones",
+    "condiciones_curriculares": "Usar numeradores y denominadores de hasta dos dígitos.",
+    "contexto": "porciones"
+  },
+  {
+    "id": "MA06-OA-07-01",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 07",
+    "texto_oa": "Demostrar que comprenden la multiplicación y la división de decimales por números naturales de un dígito, múltiplos de 10 y decimales hasta la milésima de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "multiplicar un decimal por un natural de un dígito",
+    "condiciones_curriculares": "Usar decimales hasta la milésima y factores\/divisores indicados por el OA.",
+    "contexto": "precios"
+  },
+  {
+    "id": "MA06-OA-07-02",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 07",
+    "texto_oa": "Demostrar que comprenden la multiplicación y la división de decimales por números naturales de un dígito, múltiplos de 10 y decimales hasta la milésima de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "dividir un decimal por un natural de un dígito",
+    "condiciones_curriculares": "Usar decimales hasta la milésima y factores\/divisores indicados por el OA.",
+    "contexto": "longitudes"
+  },
+  {
+    "id": "MA06-OA-07-03",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 07",
+    "texto_oa": "Demostrar que comprenden la multiplicación y la división de decimales por números naturales de un dígito, múltiplos de 10 y decimales hasta la milésima de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "multiplicar un decimal por un múltiplo de 10",
+    "condiciones_curriculares": "Usar decimales hasta la milésima y factores\/divisores indicados por el OA.",
+    "contexto": "masa"
+  },
+  {
+    "id": "MA06-OA-07-04",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 07",
+    "texto_oa": "Demostrar que comprenden la multiplicación y la división de decimales por números naturales de un dígito, múltiplos de 10 y decimales hasta la milésima de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "dividir un decimal por un múltiplo de 10",
+    "condiciones_curriculares": "Usar decimales hasta la milésima y factores\/divisores indicados por el OA.",
+    "contexto": "volumen de líquidos"
+  },
+  {
+    "id": "MA06-OA-07-05",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 07",
+    "texto_oa": "Demostrar que comprenden la multiplicación y la división de decimales por números naturales de un dígito, múltiplos de 10 y decimales hasta la milésima de manera concreta, pictórica y simbólica.",
+    "habilidad_evaluada": "resolver un problema con multiplicación o división decimal",
+    "condiciones_curriculares": "Usar decimales hasta la milésima y factores\/divisores indicados por el OA.",
+    "contexto": "producción"
+  },
+  {
+    "id": "MA06-OA-08-01",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 08",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios que involucren adiciones y sustracciones de fracciones propias, impropias, números mixtos o decimales hasta la milésima.",
+    "habilidad_evaluada": "sumar fracciones en contexto",
+    "condiciones_curriculares": "Usar fracciones propias, impropias, números mixtos o decimales hasta la milésima; adición y\/o sustracción.",
+    "contexto": "recetas"
+  },
+  {
+    "id": "MA06-OA-08-02",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 08",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios que involucren adiciones y sustracciones de fracciones propias, impropias, números mixtos o decimales hasta la milésima.",
+    "habilidad_evaluada": "restar fracciones en contexto",
+    "condiciones_curriculares": "Usar fracciones propias, impropias, números mixtos o decimales hasta la milésima; adición y\/o sustracción.",
+    "contexto": "distancias"
+  },
+  {
+    "id": "MA06-OA-08-03",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 08",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios que involucren adiciones y sustracciones de fracciones propias, impropias, números mixtos o decimales hasta la milésima.",
+    "habilidad_evaluada": "sumar números mixtos en contexto",
+    "condiciones_curriculares": "Usar fracciones propias, impropias, números mixtos o decimales hasta la milésima; adición y\/o sustracción.",
+    "contexto": "dinero"
+  },
+  {
+    "id": "MA06-OA-08-04",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 08",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios que involucren adiciones y sustracciones de fracciones propias, impropias, números mixtos o decimales hasta la milésima.",
+    "habilidad_evaluada": "sumar o restar decimales en contexto",
+    "condiciones_curriculares": "Usar fracciones propias, impropias, números mixtos o decimales hasta la milésima; adición y\/o sustracción.",
+    "contexto": "materiales"
+  },
+  {
+    "id": "MA06-OA-08-05",
+    "curso": "6° básico",
+    "eje": "Números y operaciones",
+    "codigo_oa": "MA06 OA 08",
+    "texto_oa": "Resolver problemas rutinarios y no rutinarios que involucren adiciones y sustracciones de fracciones propias, impropias, números mixtos o decimales hasta la milésima.",
+    "habilidad_evaluada": "resolver un problema no rutinario con fracciones o decimales",
+    "condiciones_curriculares": "Usar fracciones propias, impropias, números mixtos o decimales hasta la milésima; adición y\/o sustracción.",
+    "contexto": "líquidos"
+  },
+  {
+    "id": "MA06-OA-11-01",
+    "curso": "6° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA06 OA 11",
+    "texto_oa": "Resolver ecuaciones de primer grado con una incógnita, utilizando estrategias como:\n• usando una balanza\n• usar la descomposición y la correspondencia 1 a 1 entre los términos en cada lado de la ecuación y aplicando procedimientos formales de resolución.",
+    "habilidad_evaluada": "resolver una ecuación con suma",
+    "condiciones_curriculares": "Usar ecuaciones de primer grado con una incógnita y valores apropiados para 6° básico.",
+    "contexto": "ahorro"
+  },
+  {
+    "id": "MA06-OA-11-02",
+    "curso": "6° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA06 OA 11",
+    "texto_oa": "Resolver ecuaciones de primer grado con una incógnita, utilizando estrategias como:\n• usando una balanza\n• usar la descomposición y la correspondencia 1 a 1 entre los términos en cada lado de la ecuación y aplicando procedimientos formales de resolución.",
+    "habilidad_evaluada": "resolver una ecuación con resta",
+    "condiciones_curriculares": "Usar ecuaciones de primer grado con una incógnita y valores apropiados para 6° básico.",
+    "contexto": "edades"
+  },
+  {
+    "id": "MA06-OA-11-03",
+    "curso": "6° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA06 OA 11",
+    "texto_oa": "Resolver ecuaciones de primer grado con una incógnita, utilizando estrategias como:\n• usando una balanza\n• usar la descomposición y la correspondencia 1 a 1 entre los términos en cada lado de la ecuación y aplicando procedimientos formales de resolución.",
+    "habilidad_evaluada": "resolver una ecuación con multiplicación sencilla",
+    "condiciones_curriculares": "Usar ecuaciones de primer grado con una incógnita y valores apropiados para 6° básico.",
+    "contexto": "entradas"
+  },
+  {
+    "id": "MA06-OA-11-04",
+    "curso": "6° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA06 OA 11",
+    "texto_oa": "Resolver ecuaciones de primer grado con una incógnita, utilizando estrategias como:\n• usando una balanza\n• usar la descomposición y la correspondencia 1 a 1 entre los términos en cada lado de la ecuación y aplicando procedimientos formales de resolución.",
+    "habilidad_evaluada": "resolver una ecuación con división sencilla",
+    "condiciones_curriculares": "Usar ecuaciones de primer grado con una incógnita y valores apropiados para 6° básico.",
+    "contexto": "colecciones"
+  },
+  {
+    "id": "MA06-OA-11-05",
+    "curso": "6° básico",
+    "eje": "Patrones y álgebra",
+    "codigo_oa": "MA06 OA 11",
+    "texto_oa": "Resolver ecuaciones de primer grado con una incógnita, utilizando estrategias como:\n• usando una balanza\n• usar la descomposición y la correspondencia 1 a 1 entre los términos en cada lado de la ecuación y aplicando procedimientos formales de resolución.",
+    "habilidad_evaluada": "modelar una situación con una ecuación de primer grado",
+    "condiciones_curriculares": "Usar ecuaciones de primer grado con una incógnita y valores apropiados para 6° básico.",
+    "contexto": "distancias"
+  },
+  {
+    "id": "MA06-OA-18-01",
+    "curso": "6° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA06 OA 18",
+    "texto_oa": "Calcular la superficie de cubos y paralelepípedos expresando el resultado en cm² y m².",
+    "habilidad_evaluada": "calcular superficie de un cubo",
+    "condiciones_curriculares": "Expresar la superficie en cm² o m² y entregar todas las dimensiones necesarias.",
+    "contexto": "cajas"
+  },
+  {
+    "id": "MA06-OA-18-02",
+    "curso": "6° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA06 OA 18",
+    "texto_oa": "Calcular la superficie de cubos y paralelepípedos expresando el resultado en cm² y m².",
+    "habilidad_evaluada": "calcular superficie de un paralelepípedo",
+    "condiciones_curriculares": "Expresar la superficie en cm² o m² y entregar todas las dimensiones necesarias.",
+    "contexto": "envases"
+  },
+  {
+    "id": "MA06-OA-18-03",
+    "curso": "6° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA06 OA 18",
+    "texto_oa": "Calcular la superficie de cubos y paralelepípedos expresando el resultado en cm² y m².",
+    "habilidad_evaluada": "comparar superficies",
+    "condiciones_curriculares": "Expresar la superficie en cm² o m² y entregar todas las dimensiones necesarias.",
+    "contexto": "bloques"
+  },
+  {
+    "id": "MA06-OA-18-04",
+    "curso": "6° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA06 OA 18",
+    "texto_oa": "Calcular la superficie de cubos y paralelepípedos expresando el resultado en cm² y m².",
+    "habilidad_evaluada": "hallar una medida faltante en un caso sencillo de superficie",
+    "condiciones_curriculares": "Expresar la superficie en cm² o m² y entregar todas las dimensiones necesarias.",
+    "contexto": "maquetas"
+  },
+  {
+    "id": "MA06-OA-18-05",
+    "curso": "6° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA06 OA 18",
+    "texto_oa": "Calcular la superficie de cubos y paralelepípedos expresando el resultado en cm² y m².",
+    "habilidad_evaluada": "resolver un problema contextual de superficie",
+    "condiciones_curriculares": "Expresar la superficie en cm² o m² y entregar todas las dimensiones necesarias.",
+    "contexto": "embalajes"
+  },
+  {
+    "id": "MA06-OA-19-01",
+    "curso": "6° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA06 OA 19",
+    "texto_oa": "Calcular el volumen de cubos y paralelepípedos, expresando el resultado en cm³, m³ y mm³.",
+    "habilidad_evaluada": "calcular volumen de un cubo",
+    "condiciones_curriculares": "Expresar el volumen en cm³, m³ o mm³ y entregar todas las dimensiones necesarias.",
+    "contexto": "cajas"
+  },
+  {
+    "id": "MA06-OA-19-02",
+    "curso": "6° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA06 OA 19",
+    "texto_oa": "Calcular el volumen de cubos y paralelepípedos, expresando el resultado en cm³, m³ y mm³.",
+    "habilidad_evaluada": "calcular volumen de un paralelepípedo",
+    "condiciones_curriculares": "Expresar el volumen en cm³, m³ o mm³ y entregar todas las dimensiones necesarias.",
+    "contexto": "acuarios"
+  },
+  {
+    "id": "MA06-OA-19-03",
+    "curso": "6° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA06 OA 19",
+    "texto_oa": "Calcular el volumen de cubos y paralelepípedos, expresando el resultado en cm³, m³ y mm³.",
+    "habilidad_evaluada": "comparar volúmenes",
+    "condiciones_curriculares": "Expresar el volumen en cm³, m³ o mm³ y entregar todas las dimensiones necesarias.",
+    "contexto": "contenedores"
+  },
+  {
+    "id": "MA06-OA-19-04",
+    "curso": "6° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA06 OA 19",
+    "texto_oa": "Calcular el volumen de cubos y paralelepípedos, expresando el resultado en cm³, m³ y mm³.",
+    "habilidad_evaluada": "hallar una dimensión faltante en un caso sencillo de volumen",
+    "condiciones_curriculares": "Expresar el volumen en cm³, m³ o mm³ y entregar todas las dimensiones necesarias.",
+    "contexto": "bloques"
+  },
+  {
+    "id": "MA06-OA-19-05",
+    "curso": "6° básico",
+    "eje": "Medición",
+    "codigo_oa": "MA06 OA 19",
+    "texto_oa": "Calcular el volumen de cubos y paralelepípedos, expresando el resultado en cm³, m³ y mm³.",
+    "habilidad_evaluada": "resolver un problema contextual de volumen",
+    "condiciones_curriculares": "Expresar el volumen en cm³, m³ o mm³ y entregar todas las dimensiones necesarias.",
+    "contexto": "bodegas"
+  }
+]
+

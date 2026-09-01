@@ -4,6 +4,15 @@
 
 To create a Curriculum-Aligned Benchmark for Math Word Problem Generation of Chilean Grades 1 to 6 called MathGenBench-CL.
 
+## Tech
+
+- Python
+- `uv` as the package manager
+
+## Considerations
+
+- Dont use standar `python`, use `uv` instead. e.g. to add a library, use `uv add <library>`. To run a file, use `uv run <file>`. To run tests, use `uv test`.
+
 ## Creating a new release
 
 When creating a new release, follow these steps:

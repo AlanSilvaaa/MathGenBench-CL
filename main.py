@@ -1,5 +1,7 @@
 import csv
 import json
+import tomllib
+from datetime import datetime
 from pathlib import Path
 from typing import Any
 
@@ -8,7 +10,7 @@ from vllm.sampling_params import StructuredOutputsParams
 
 PROJECT_ROOT = Path(__file__).resolve().parent
 BENCHMARK_PATH = PROJECT_ROOT / "benchmark.json"
-RESULTS_PATH = PROJECT_ROOT / "output" / "results" / "SmolLM3-3B.csv"
+RESULTS_DIR = PROJECT_ROOT / "output" / "results" / "base"
 MODEL_ID = "HuggingFaceTB/SmolLM3-3B"
 REQUIRED_FIELDS = (
     "id",
@@ -29,6 +31,15 @@ RESPONSE_SCHEMA = {
     "required": list(RESPONSE_FIELDS),
     "additionalProperties": False,
 }
+
+
+def build_results_path() -> Path:
+    with (PROJECT_ROOT / "pyproject.toml").open("rb") as project_file:
+        version = tomllib.load(project_file)["project"]["version"]
+
+    model_name = MODEL_ID.rsplit("/", maxsplit=1)[-1]
+    timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
+    return RESULTS_DIR / f"{model_name}-{version}-{timestamp}.csv"
 
 
 def load_benchmark() -> list[dict[str, Any]]:
@@ -82,14 +93,17 @@ def parse_response(raw_response: str) -> tuple[dict[str, str], str]:
         return {field: "" for field in RESPONSE_FIELDS}, str(error)
 
 
-def write_results(rows: list[dict[str, Any]]) -> None:
-    RESULTS_PATH.parent.mkdir(parents=True, exist_ok=True)
+def write_results(rows: list[dict[str, Any]]) -> Path:
+    results_path = build_results_path()
+    results_path.parent.mkdir(parents=True, exist_ok=True)
     fieldnames = list(dict.fromkeys(field for row in rows for field in row))
 
-    with RESULTS_PATH.open("w", encoding="utf-8", newline="") as results_file:
+    with results_path.open("w", encoding="utf-8", newline="") as results_file:
         writer = csv.DictWriter(results_file, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
+
+    return results_path
 
 
 def main() -> None:
@@ -140,9 +154,9 @@ def main() -> None:
             }
         )
 
-    write_results(rows)
+    results_path = write_results(rows)
     invalid_count = sum(bool(row["parse_error"]) for row in rows)
-    print(f"Saved {len(rows)} results to {RESULTS_PATH.relative_to(PROJECT_ROOT)}")
+    print(f"Saved {len(rows)} results to {results_path.relative_to(PROJECT_ROOT)}")
     print(f"Responses with parsing errors: {invalid_count}")
 
 

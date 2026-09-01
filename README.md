@@ -4,7 +4,8 @@ Curriculum-aligned benchmark for math word problem generation for Chilean grades
 
 ### Generate results
 
-Run the benchmark to generate a CSV file in `output/results/`:
+Run the benchmark to generate a CSV file in `output/results/base/`. Files are named
+`ModelName-Version-YYYYMMDD-HHMMSS.csv` using the current project version:
 
 ```bash
 uv run main.py
@@ -18,7 +19,7 @@ Launch the interactive results dashboard:
 uv run streamlit run dashboard.py
 ```
 
-The dashboard opens in your browser and provides search, curriculum and model filters, parse-status summaries, paginated result cards, and filtered CSV downloads. It discovers all CSV files in `output/results/`, so additional model runs appear automatically.
+The dashboard opens in your browser and provides search, curriculum and model filters, parse-status summaries, paginated result cards, and filtered CSV downloads. It discovers CSV files recursively in `output/results/`, including the `base`, `fewshot`, and `lora` categories, so additional model runs appear automatically.
 
 ## Patagon container commands
 

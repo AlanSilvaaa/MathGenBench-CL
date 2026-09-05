@@ -11,6 +11,28 @@ Run the benchmark to generate a CSV file in `output/results/base/`. Files are na
 uv run main.py
 ```
 
+### Evaluate generated problems
+
+Evaluate a generation CSV with the zero-shot Gemma judge. If no file is passed,
+the newest unevaluated CSV in `output/results/` is used:
+
+```bash
+uv run judge.py
+```
+
+You can also choose the input file, output file, or judge model explicitly:
+
+```bash
+uv run judge.py output/results/base/my-run.csv \
+  --output output/results/judged/my-run.csv \
+  --model google/gemma-3-12b-it
+```
+
+The resulting CSV contains the five independent evaluations (`solvability`,
+`accuracy`, `educational_appropriateness`, `curriculum_alignment`, and
+`context_compliance`), their justifications, and `mac`. The `mac` value is computed
+in Python from the first four criteria; context compliance is reported separately.
+
 ### Explore results
 
 Launch the interactive results dashboard:

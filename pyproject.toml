@@ -1,6 +1,6 @@
 [project]
 name = "mathgenbench-cl"
-version = "0.2.0"
+version = "0.3.0"
 description = "Curriculum-Aligned Benchmark for Math Word Problem Generation of Chilean Grades 1 to 6"
 readme = "README.md"
 requires-python = ">=3.12"
